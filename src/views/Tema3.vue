@@ -604,7 +604,7 @@
           h5 Tabla 13.
           span Modelo de matriz de evaluación de riesgos
         
-        h4.
+        h3.text-center.mb-2 Matriz de evaluación de riesgos
         figure 
           img(src='@/assets/curso/temas/tema3/img18.svg', alt='Para describir con un ejemplo la matriz de riesgos, se tiene en cuenta el impacto, la probabilidad de ocurrencia y se describe si es riesgo crítico, grave, apreciable y marginal.')
 
