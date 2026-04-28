@@ -603,10 +603,87 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 13.
           span Modelo de matriz de evaluación de riesgos
-        figure 
-          img(src='@/assets/curso/temas/tema3/img18.svg', alt='Para describir con un ejemplo la matriz de riesgos, se tiene en cuenta el impacto, la probabilidad de ocurrencia y se describe si es riesgo crítico, grave, apreciable y marginal.')
+        
+        h4.text-center Matriz de evaluación de riesgos
+        .tabla-b.color-acento-contenido.mb-5
+          table
+            thead
+              tr
+                th(colspan='3' rowspan='2' style="background-color: #FFFFFF")
+                th.text-center(colspan='5' style="background-color: #F6F6F6") Gravedad del impacto
+              tr
+                th.text-center(style="background-color: #F6F6F6") Despreciable (1)
+                th.text-center(style="background-color: #F6F6F6") Considerable (2)
+                th.text-center(style="background-color: #F6F6F6") Importante (3)
+                th.text-center(style="background-color: #F6F6F6") Grave (4)
+                th.text-center(style="background-color: #F6F6F6") Catastrófica (5)
+            tbody
+              tr
+                th.text-center(rowspan='5' style="background-color: #F6F6F6") Probabilidad de ocurrencia
+                td(style="background-color: #F6F6F6") Muy alta (81-100%).
+                td.text-center(style="background-color: #F6F6F6") 5
+                td.text-center(style="background-color: #FEF8BC") 5
+                td.text-center(style="background-color: #F8B133") 10
+                td.text-center(style="background-color: #F8B133") 15
+                td.text-center(style="background-color: #FF0000; color: white") 20
+                td.text-center(style="background-color: #FF0000; color: white") 25
+              tr
+                td(style="background-color: #F6F6F6") Alta (61-80%).
+                td.text-center(style="background-color: #F6F6F6") 4
+                td.text-center(style="background-color: #FEF8BC") 4
+                td.text-center(style="background-color: #FEF8BC") 8
+                td.text-center(style="background-color: #F8B133") 12
+                td.text-center(style="background-color: #F8B133") 16
+                td.text-center(style="background-color: #FF0000; color: white") 20
+              tr
+                td(style="background-color: #F6F6F6") Media (41-60%).
+                td.text-center(style="background-color: #F6F6F6") 3
+                td.text-center(style="background-color: #FEF8BC") 3
+                td.text-center(style="background-color: #FEF8BC") 6
+                td.text-center(style="background-color: #F8B133") 9
+                td.text-center(style="background-color: #F8B133") 12
+                td.text-center(style="background-color: #F8B133") 15
+              tr
+                td(style="background-color: #F6F6F6") Baja (21-40%).
+                td.text-center(style="background-color: #F6F6F6") 2
+                td.text-center(style="background-color: #FFFFFF") 2
+                td.text-center(style="background-color: #FEF8BC") 4
+                td.text-center(style="background-color: #FEF8BC") 6
+                td.text-center(style="background-color: #FEF8BC") 8
+                td.text-center(style="background-color: #F8B133") 12
+              tr
+                td(style="background-color: #F6F6F6") Muy baja (<20%).
+                td.text-center(style="background-color: #F6F6F6") 1
+                td.text-center(style="background-color: #FFFFFF") 1
+                td.text-center(style="background-color: #FFFFFF") 2
+                td.text-center(style="background-color: #FEF8BC") 3
+                td.text-center(style="background-color: #FEF8BC") 4
+                td.text-center(style="background-color: #FEF8BC") 5
 
-          figcaption.my-3.text-regular <strong>Nota.</strong> Adaptación de Bernal (2021).
+        .row.justify-content-center.mb-3
+          .col-lg-10
+            .row.align-items-center.mb-2
+              .col-auto
+                .p-3(style="background-color: #FF0000; border: 1px solid #000")
+              .col
+                p.mb-0 <strong>Riesgo crítico:</strong> Requiere medidas preventivas urgentes. No se debe iniciar el proyecto sin la confirmación de su prevención o mitigación hasta niveles aceptables.
+            .row.align-items-center.mb-2
+              .col-auto
+                .p-3(style="background-color: #F8B133; border: 1px solid #000")
+              .col
+                p.mb-0 <strong>Riesgo grave:</strong> Requiere medidas preventivas obligatorias. Se deben controlar fuertemente las variables de riesgo durante el proyecto y diseñar un plan de mitigación.
+            .row.align-items-center.mb-2
+              .col-auto
+                .p-3(style="background-color: #FEF8BC; border: 1px solid #000")
+              .col
+                p.mb-0 <strong>Riesgo apreciable:</strong> Estudiar y aplicar las posibles medidas preventivas para reducir el nivel de riesgo. Se deben monitorear y controlar las variables.
+            .row.align-items-center.mb-2
+              .col-auto
+                .p-3(style="background-color: #FFFFFF; border: 1px solid #000")
+              .col
+                p.mb-0 <strong>Riesgo marginal:</strong> Se vigilará aunque no requiera medidas preventivas de partida.
+
+        figcaption.my-3.text-regular <strong>Nota.</strong> Adaptación de Bernal (2021).
 
     .row.mt-5.mb-4.align-items-center
       .col-md-8.col-lg-4.mx-auto
