@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/733402_CF02-DU.pdf',
+        download: 'downloads/CFA2_722109_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -328,7 +328,7 @@ export default {
     {
       termino: 'Preparación',
       significado:
-        'Cconsiste en la elaboración de estudios para comparar las alternativas de solución, y así tomar la decisión sobre cuál de ellas es la más adecuada para alcanzar el objetivo propuesto. En esta etapa se determina la magnitud de las inversiones del proyecto, los costos y beneficios del mismo, al tiempo que se completará la información requerida para la construcción de la cadena de valor. (Ortegón et.al, 2005).',
+        'consiste en la elaboración de estudios para comparar las alternativas de solución, y así tomar la decisión sobre cuál de ellas es la más adecuada para alcanzar el objetivo propuesto. En esta etapa se determina la magnitud de las inversiones del proyecto, los costos y beneficios del mismo, al tiempo que se completará la información requerida para la construcción de la cadena de valor. (Ortegón et.al, 2005).',
     },
     {
       termino: 'Problema',
@@ -344,21 +344,29 @@ export default {
   referencias: [
     {
       referencia:
-        'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la metodología de marco lógico</em>. Naciones Unidas, Santiago de Chile. ',
+        'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la metodología de marco lógico</em>. Naciones Unidas, Santiago de Chile.',
       link:
         'https://repositorio.cepal.org/server/api/core/bitstreams/2d86ecfb-f922-49d3-a919-e4fd4d463bd7/content',
     },
     {
       referencia:
-        'Departamento Nacional de Planeación. (2016). <em>Documento Guía del módulo de capacitación virtual en Teoría de Proyectos</em>. Dirección de Inversiones y Finanzas Públicas (DIFP) Subdirección de Proyectos e Información para la Inversión Pública. ',
+        'Casimiro, L. (2016). <em>Bases metodológicas para la resiliencia socioecológica de fincas familiares en Cuba</em>. [Tesis de doctorado en agroecología]. Universidad de Antioquia. Medellín, Colombia.',
+    },
+    {
+      referencia:
+        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad opciones de adaptación y mitigación Aspectos Distributivos del cambio climático</em>. Cepal',
+      link:
+        'https://www.cepal.org/sites/default/files/courses/files/presentacion_carmenza_castiblanco.pdf',
+    },
+    {
+      referencia:
+        'Departamento Nacional de Planeación. (2016). <em>Documento Guía del módulo de capacitación virtual en Teoría de Proyectos</em>. Dirección de Inversiones y Finanzas Públicas (DIFP) Subdirección de Proyectos e Información para la Inversión Pública.',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Inversiones%20y%20finanzas%20pblicas/MGA_WEB/Documento%20Base%20Modulo%20Teoria%20de%20Proyectos.pdf',
     },
     {
       referencia:
         'Expósito, M. (2003). <em>Diagnóstico Rural Participativo, Una guía práctica</em>. Centro Cultural Poveda.',
-      link:
-        'http://biblioteca.clacso.edu.ar/Republica_Dominicana/ccp/20120731033315/diagrural.pdf',
     },
     {
       referencia:
@@ -379,41 +387,20 @@ export default {
     {
       referencia:
         'Practical Concepts Incorporated (PCI) (1979). <em>The logical framework, a manager’s guide to a scientific approach to design & evaluation</em>. PCI.',
-      link: 'https://pdf.usaid.gov/pdf_docs/pnaec576.pdf',
-    },
-    {
-      referencia:
-        'Sanchez, f. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile',
-      link:
-        'https://www.cepal.org/es/publicaciones/7284-planificacion-estrategica-gestion-publica-objetivos',
-    },
-    {
-      referencia:
-        'Silva, I. y Sandoval, C. (2012). <em>Metodología para la elaboración de estrategias de desarrollo local</em>. ILPES.',
-      link:
-        'https://www.cepal.org/es/publicaciones/5518-metodologia-la-elaboracion-estrategias-desarrollo-local',
-    },
-    {
-      referencia:
-        'Casimiro, L. (2016). <em>Bases metodológicas para la resiliencia socioecológica de fincas familiares en Cuba</em>. [Tesis de doctorado en agroecología]. Universidad de Antioquia. Medellín, Colombia.',
-      link:
-        ' https://bibliotecadigital.udea.edu.co/bitstream/10495/6112/1/RodriguezL_2016_BasesMetodol%C3%B3gicasResiliencia.pdf',
-    },
-    {
-      referencia:
-        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad opciones de adaptación y mitigación Aspectos Distributivos del cambio climático</em>. Cepal',
-      link:
-        'https://www.cepal.org/sites/default/files/courses/files/presentacion_carmenza_castiblanco.pdf',
     },
     {
       referencia:
         'Rodríguez M., y Espinoza, G. (2002). <em>Gestión ambiental en América Latina y el Caribe Evolución, tendencias y principales prácticas</em>. David Wilk.',
-      link: '',
     },
     {
       referencia:
-        'Rodríguez, B., M. (2019). <em>Nuestro planeta, nuestro futuro</em>. Penguin Random House Grupo Editorial. ',
-      link: '',
+        'Rodríguez, B., M. (2019). <em>Nuestro planeta, nuestro futuro</em>. Penguin Random House Grupo Editorial.',
+    },
+    {
+      referencia:
+        'Sánchez, f. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile',
+      link:
+        'https://www.cepal.org/es/publicaciones/7284-planificacion-estrategica-gestion-publica-objetivos',
     },
     {
       referencia:
@@ -423,7 +410,6 @@ export default {
     {
       referencia:
         'Sarandón, S. (2002). La agricultura como actividad transformadora del ambiente. El Impacto de la Agricultura intensiva de la Revolución Verde. En S. J., Sarandón (Ed.). <em>Agroecología: el camino hacia una agricultura sustentable</em>, (pp. 23-48). Ediciones Científicas Americanas.',
-      link: '',
     },
     {
       referencia:
@@ -433,19 +419,23 @@ export default {
     },
     {
       referencia:
-        'Sarandón, S., y Flores, C. (2014). <em>Agroecología: bases teóricas para el diseño y manejo de agroecosistemas sustentables</em>. ',
+        'Sarandón, S., y Flores, C. (2014). <em>Agroecología: bases teóricas para el diseño y manejo de agroecosistemas sustentables</em>.',
       link:
         'https://libros.unlp.edu.ar/index.php/unlp/catalog/view/72/54/181-1',
     },
     {
       referencia:
-        'Shiva, V. (1991). “Miracle seeds” and the destruction of genetic diversity. In: <em>The violence of the green revolution. Third World Agriculture, Ecology and Politics</em>. (pp. 61102). Third World Network. ',
-      link: '',
+        'Shiva, V. (1991). “Miracle seeds” and the destruction of genetic diversity. In: <em>The violence of the green revolution. Third World Agriculture, Ecology and Politics</em>. (pp. 61102). Third World Network.',
     },
     {
       referencia:
-        'Shiva, V. (2014). The GMO Emperor Has No Clothes - Genetic Engineering Is a Failed Technology. En V. Shiva, <em>The Vandana Shiva Reader</em> (pp. 277 - 297). The University Press of Kentucky. ',
-      link: '',
+        'Shiva, V. (2014). The GMO Emperor Has No Clothes - Genetic Engineering Is a Failed Technology. En V. Shiva, <em>The Vandana Shiva Reader</em> (pp. 277 - 297). The University Press of Kentucky.',
+    },
+    {
+      referencia:
+        'Silva, I. y Sandoval, C. (2012). <em>Metodología para la elaboración de estrategias de desarrollo local</em>. ILPES.',
+      link:
+        'https://www.cepal.org/es/publicaciones/5518-metodologia-la-elaboracion-estrategias-desarrollo-local',
     },
   ],
   creditos: [
@@ -453,16 +443,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del ecosistema de Recursos Educativos Digitales (RED) ',
-          centro: 'Dirección General',
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -473,9 +462,8 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
         },
-
         {
           nombre: 'Roberto Augusto Bernal Duque',
           cargo: 'Experto temático',
@@ -485,7 +473,7 @@ export default {
         {
           nombre: 'Yeison Farid Méndez Ortiz',
           cargo: 'Experto temático',
-          centro: 'Centro Agropecuario “La Granja” - Regional Tolima.',
+          centro: 'Centro Agropecuario “La Granja” - Regional Tolima',
         },
         {
           nombre: 'Orlando Barón Méndez',
@@ -493,14 +481,20 @@ export default {
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Diseño y Metrología - Distrito Capital',
-        },
-        {
           nombre: 'Paula Andrea Taborda Ortiz',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica– Regional Distrito Capital',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de diseño y Metrología – Regional Distrito Capital',
         },
         {
           nombre: 'Fabian Cuartas Donado',
@@ -508,46 +502,30 @@ export default {
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Diseñador web',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseño web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollador  <em>fullstack</em> ',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          cargo: 'Desarrollo full stack',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Eulices Orduz Amézquita',
-          cargo: 'Actividad didáctica',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
-          cargo: 'Animador y productor audiovisual ',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -555,28 +533,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Luz Karime Amaya',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
+          nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

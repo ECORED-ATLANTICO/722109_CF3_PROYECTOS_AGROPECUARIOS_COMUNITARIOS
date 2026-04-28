@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Se detalla aspectos importantes de la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico, generalidades del enfoque de marco lógico, etapa de análisis, etapa de planificación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

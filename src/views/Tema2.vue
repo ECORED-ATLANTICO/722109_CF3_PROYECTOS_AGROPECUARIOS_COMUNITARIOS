@@ -87,7 +87,7 @@
               img(data-aos="zoom-out-right",src="@/assets/curso/temas/tema2/img19.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
             .number 04
-            p.m-0 Objetivos del desarrollo de las Organización de las Naciones Unidas.
+            p.m-0 Objetivos del desarrollo de la Organización de las Naciones Unidas.
       .col-lg-4.crd.crd--avatarHorizontal-left-bgr3.py-3.mb-3
         .row.align-items-center
           .col-auto(style="z-index:1")
@@ -310,21 +310,21 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img39.svg',  alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center La aplicación de una política de desarrollo.  Ej. Agenda 2030 o el Plan Nacional
+            p.text-center La aplicación de una política de desarrollo.  Ej. Agenda 2030 o el Plan Nacional.
           .col-md.tarjeta.color-acento-botones.p-5(data-aos='fade-down', style='background: #FFF6DE')
             .row.justify-content-center.mb-4
               .col-lg-10.m-auto
                 figure
                   img(src='@/assets/curso/temas/tema2/img40.svg',  alt='' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center Recuperación de infraestructura
+            p.text-center Recuperación de infraestructura.
           .col-md.tarjeta.color-acento-botones.p-5(data-aos='fade-down', style='background: #EEFBF5')
             .row.justify-content-center.mb-4
               .col-lg-10.m-auto
                 figure
                   img(src='@/assets/curso/temas/tema2/img41.svg',  alt='' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center Necesidades o carencias en la población afectada
+            p.text-center Necesidades o carencias en la población afectada.
 
         .tarjeta--container.row.mb-5
           .col-md.tarjeta.color-acento-botones.p-5(data-aos='fade-down', style='background: #FFF6DE')
@@ -333,21 +333,21 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img42.svg',  alt='' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center Bajos niveles de desarrollo
+            p.text-center Bajos niveles de desarrollo.
           .col-md.tarjeta.color-acento-botones.p-5(data-aos='fade-down', style='background: #EEFBF5')
             .row.justify-content-center.mb-4
               .col-lg-10.m-auto
                 figure
                   img(src='@/assets/curso/temas/tema2/img43.svg',  alt='' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center Condiciones de vida deficitarias
+            p.text-center Condiciones de vida deficitarias.
           .col-md.tarjeta.color-acento-botones.p-5(data-aos='fade-down', style='background: #FFF6DE')
             .row.justify-content-center.mb-4
               .col-lg-10.m-auto
                 figure
                   img(src='@/assets/curso/temas/tema2/img44.svg',  alt='' style='max-width:170px; max-height:170px; margin: auto')
               
-            p.text-center Efectos de la globalización de la economía y de tratados comerciales internacionales
+            p.text-center Efectos de la globalización de la economía y de tratados comerciales internacionales.
     
     p.my-4.text-bold.text-center Además, en la actualidad podemos identificar circunstancias problemáticas en torno a:
 
@@ -456,7 +456,7 @@
             .col-lg-6
               p(data-aos="zoom-in-right") Existen otras metodologías, por ejemplo la propuesta hecha por Orlando Fals Borda en 1977, denominada <strong>“Investigación-Acción-Participación” (IAP)</strong>, que centraliza la persona y no el objeto de la investigación. Otras metodologías pueden enfocarse a grupos pequeños como los familiares, es el caso de la Planificación Predial Participativa (PPP) o a organizaciones y empresas rurales como el <strong>“Índice de Capacidades Organizacionales de la Unión Europea” (ICO)</strong> y la <strong>“Medición del Emprendimiento Rural” (MER)</strong> de la FAO que incorporan todas las distintas áreas que componen una organización formal.
             .col-lg-6
-              p(data-aos="zoom-in-right") La gestión de la información, en todo caso, debe ser organizada y metódica, siguiendo la ruta datos-información-conocimiento; es decir, como un proceso de investigación básico y para ello existen diversas herramientas (de las que habla el punto cinco del ciclo de siete pasos del DRP), que pueden aplicarse en la amplitud de las actividades rurales. Algunas son muy versátiles como las entrevistas y las lluvias de ideas, otras más específicas como los mapas de recursos, las caracterizaciones de las actividades productivas mediante mapeos y los calendarios de producción, otras más enfocadas a aspectos de género o de comunicación, sociales u otros. 
+              p(data-aos="zoom-in-right") La gestión de la información, en todo caso, debe ser organizada y metódica, siguiendo la ruta datos - información - conocimiento; es decir, como un proceso de investigación básico y para ello existen diversas herramientas (de las que habla el punto cinco del ciclo de siete pasos del DRP), que pueden aplicarse en la amplitud de las actividades rurales. Algunas son muy versátiles como las entrevistas y las lluvias de ideas, otras más específicas como los mapas de recursos, las caracterizaciones de las actividades productivas mediante mapeos y los calendarios de producción, otras más enfocadas a aspectos de género o de comunicación, sociales u otros. 
 
           .row.align-items-center.grad1.p-3.m-auto
             .col-lg-2
@@ -479,7 +479,7 @@
       .col-lg-7
         p(data-aos="zoom-in-right") El objetivo del proceso de diagnóstico es <strong>identificar y definir muy bien una serie de problemas de diversa índole</strong>, donde una vez colectados, se tienen dos situaciones posibles: que se identifique fácilmente el problema central o que no se tenga claro. En el primer caso, podemos pasar al siguiente punto, el análisis causal (causa-efecto), donde el EML nos introduce a la técnica de árboles, la más adecuada, aunque existan otras formas de análisis causa-efecto.
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 En el segundo caso, donde no se tiene definido el problema central, es necesario como siguiente paso <strong>analizar la relación entre los problemas de forma bidireccional</strong>; es decir, escudriñar en la correlación entre los distintos problemas (aquí variables) a fin de establecer el grado de influencia y/o dependencia entre ellos, el método, desarrollado por el alemán <strong>Frederic Vester (1925-2003)</strong>, se fundamenta en la matemática (teoría de matrices) estableciendo un valor numérico dentro de un rango determinado que normalmente es [0-3] proporcional al grado de influencia a discreción del analista (0 para una influencia nula o indirecta y 3 para una influencia marcada o directa).
+          p.mt-0 En el segundo caso, donde no se tiene definido el problema central, es necesario como siguiente paso <strong>analizar la relación entre los problemas de forma bidireccional</strong>; es decir, escudriñar en la correlación entre los distintos problemas (aquí variables) a fin de establecer el grado de influencia y/o dependencia entre ellos, el método, desarrollado por el alemán <strong>Frederic Vester (1925 - 2003)</strong>, se fundamenta en la matemática (teoría de matrices) estableciendo un valor numérico dentro de un rango determinado que normalmente es [0 - 3] proporcional al grado de influencia a discreción del analista (0 para una influencia nula o indirecta y 3 para una influencia marcada o directa).
 
       .col-lg-5.mt-4.col-md-8.mx-auto
         figure
@@ -504,7 +504,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 Un error que se presenta frecuentemente en la definición del problema central, surge cuando este se describe como la falta o ausencia de una solución frente a una necesidad experimentada por la población. Este hecho sucede frecuentemente con intervenciones que conllevan la construcción de diferentes tipos de infraestructura pública o la adquisición de equipos. El definir la situación problemática de esta forma, conlleva dos debilidades en la formulación del proyecto: se limita y condiciona la solución a esa sola alternativa y se ignoran las condiciones que afectan realmente a la población en cuanto a su bienestar y el mejoramiento de las condiciones de vida.
-            h3  (DNP, 2016, p.15).
+            p.mb-0 (DNP, 2016, p.15).
             i.fas.fa-quote-right
     
     .row.justify-content-center.mt-5.mb-5 
@@ -516,7 +516,7 @@
         figure
           img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-none.d-lg-block.d-md-block
           img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-block.d-lg-none.d-md-none                
-        figcaption Tomado de SENA (2021).
+        figcaption Nota. Tomado de SENA (2021).
 
     .row.align-items-center 
       .col-lg-8.m-auto.p-4(style="background: #B3E6FF")
@@ -532,7 +532,7 @@
           p Se procede a la construcción de la matriz <strong>enfrentando los problemas en ambos ejes</strong> como se muestra en la tabla 4. En la intersección de los problemas contra sí mismos, se pone el valor de cero. El problema debe estar redactado de manera <strong>muy precisa.</strong> 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 4.
-            span <em>Ejemplo de estructura de la matriz de influencia-dependencia (Véster)</em>
+            span Ejemplo de estructura de la matriz de influencia-dependencia (Véster)
           .tabla-b.color-acento-contenido
             table(style="background-color: white")
               thead
@@ -585,7 +585,7 @@
           p Se asigna la puntuación empezando por <strong>la fila superior de izquierda a derecha</strong>, teniendo en cuenta que esta ponderación corresponde al grado de influencia del problema de la fila con respecto a cada problema de las columnas. Al establecer las relaciones de causalidad, es importante considerar una relación directa entre los problemas. Una forma de verificar que el ejercicio se está haciendo bien es que al terminar de asignar valores, no más del 30 % de ellos corresponde a un valor de tres (3); caso contrario, existe un sesgo atribuible a la falta de definición de los problemas o a la consideración de causas indirectas entre ellos. Se puede hacer esta pregunta cada vez que se confronten los problemas: <strong>¿Cómo influye el problema 1 sobre el problema 2?; ¿Cómo influye el problema 1 sobre el problema 3?</strong>, y así sucesivamente… el orden se establece en las filas, de superior a inferior. Para el valor a asignarse puede usar la siguiente escala:
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 5.
-            span <em>Escala de valores</em>
+            span Escala de valores
           table.text-center
             thead
               tr(style='background-color: #006555')
@@ -594,23 +594,23 @@
             tbody
               tr(style="background-color: white")
                 td 0
-                td No existe relación directa entre el primer y segundo problema
+                td No existe relación directa entre el primer y segundo problema.
               tr(style="background-color: #E9E9E9")
                 td 1
-                td Existe una influencia débil entre el primer y segundo problema
+                td Existe una influencia débil entre el primer y segundo problema.
               tr(style="background-color: white")
                 td 2
-                td Existe una influencia mediana entre el primer y segundo problema
+                td Existe una influencia mediana entre el primer y segundo problema.
               tr(style="background-color: #E9E9E9")
                 td 3
-                td Existe una influencia fuerte entre el primer y segundo problema
+                td Existe una influencia fuerte entre el primer y segundo problema.
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
       .row(numero="4" titulo="Paso 4")
         .col-lg-12.mb-4.mb-md-0
           p Una vez llena la matriz, se agrega <strong>una columna y una fila</strong> para registrar las sumatorias de valores de las filas y las columnas, los valores de la columna representan las magnitudes de las influencias y los de la fila representan los de las dependencias. A continuación un ejemplo: 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 6.
-            span <em>Llenado de la matriz de influencia- dependencia (Véster)</em>
+            span Llenado de la matriz de influencia- dependencia (Véster)
           .tabla-b.color-acento-contenido
             table(style="background-color: white")
               thead
@@ -636,7 +636,7 @@
               tbody
                 tr
                   td 1
-                  td Baja cooperación inter-empresarial
+                  td Baja cooperación inter-empresarial.
                   td 0
                   td 1
                   td 1
@@ -655,7 +655,7 @@
                   td 20
                 tr
                   td 2
-                  td Baja responsabilidad social empresarial
+                  td Baja responsabilidad social empresarial.
                   td 2
                   td 0
                   td 1
@@ -674,7 +674,7 @@
                   td 13
                 tr
                   td 3
-                  td Bajo nivel de capacitación
+                  td Bajo nivel de capacitación.
                   td 3
                   td 3
                   td 0
@@ -693,7 +693,7 @@
                   td 22
                 tr
                   td 4
-                  td Baja rentabilidad de los productores
+                  td Baja rentabilidad de los productores.
                   td 1
                   td 1
                   td 0
@@ -712,7 +712,7 @@
                   td 10
                 tr
                   td 5
-                  td Baja calidad de la capacitación
+                  td Baja calidad de la capacitación.
                   td 1
                   td 1
                   td 3
@@ -731,7 +731,7 @@
                   td 19
                 tr
                   td 6
-                  td Intereses de corto plazo
+                  td Intereses de corto plazo.
                   td 3
                   td 3
                   td 2
@@ -750,7 +750,7 @@
                   td 19
                 tr
                   td 7
-                  td Desconocimiento mutuo
+                  td Desconocimiento mutuo.
                   td 3
                   td 1
                   td 0
@@ -769,7 +769,7 @@
                   td 17
                 tr
                   td 8
-                  td Posibilidad de atender solo pedidos pequeños
+                  td Posibilidad de atender solo pedidos pequeños.
                   td 0
                   td 0
                   td 0
@@ -788,7 +788,7 @@
                   td 11
                 tr
                   td 9 
-                  td Bajo sentido de pertenecia al territorio
+                  td Bajo sentido de pertenencia al territorio.
                   td 2
                   td 2
                   td 0
@@ -807,7 +807,7 @@
                   td 11
                 tr
                   td 10
-                  td Desarticulación publico-privada
+                  td Desarticulación público-privada.
                   td 1
                   td 1
                   td 0
@@ -826,7 +826,7 @@
                   td 12
                 tr
                   td 11
-                  td Altos costos de capacitación
+                  td Altos costos de capacitación.
                   td 1
                   td 1
                   td 3
@@ -845,7 +845,7 @@
                   td 18
                 tr
                   td 12
-                  td Capacidad productiva ociosa
+                  td Capacidad productiva ociosa.
                   td 0
                   td 0
                   td 0
@@ -864,7 +864,7 @@
                   td 5
                 tr
                   td 13
-                  td Desconfianza entre productores
+                  td Desconfianza entre productores.
                   td 3
                   td 1
                   td 0
@@ -883,7 +883,7 @@
                   td 18
                 tr
                   td 14
-                  td Lejanía de los centros de consumo
+                  td Lejanía de los centros de consumo.
                   td 1
                   td 1
                   td 1
@@ -902,7 +902,7 @@
                   td 14
                 tr
                   td 15
-                  td Altos costos del transporte
+                  td Altos costos del transporte.
                   td 0
                   td 0
                   td 2
@@ -921,7 +921,7 @@
                   td 13
                 tr
                   td
-                  td Dependencia
+                  td Dependencia.
                   td 21
                   td 16
                   td 13
@@ -944,7 +944,7 @@
           p Al tener ya las sumatorias, se procede a <strong>graficar</strong> estos valores. Se usa un <strong>plano cartesiano</strong> donde la intersección de los ejes corresponde al valor promedio de las dependencias e influencias. Cada cuadrante representa un tipo de problema; el primer cuadrante de la figura corresponde a los problemas pasivos, el segundo a los críticos, el tercero a los exógenos o estructurales (posteriormente se pueden usar como supuestos en la <strong>MML</strong>) y el cuarto representa las causas. 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 7.
-            span <em>Esquema de definición de cuadrantes en relación a la influencia y la dependencia</em>
+            span Esquema de definición de cuadrantes en relación a la influencia y la dependencia
           .tabla-b.color-acento-contenido
             table(style="background-color: white")
               thead
@@ -965,9 +965,9 @@
       .col-lg-8.p-2.my-3
         .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 4.
-              span <em>Ejemplo de la forma gráfica de la matriz ID</em>
+              span Ejemplo de la forma gráfica de la matriz ID
         figure
-          img(src="@/assets/curso/temas/tema2/img10.svg", alt="Muestra el componente formativo un ejemplo de la forma gráfica de la matriz ID. Tomado de Silva y Sandoval. Teniendo en cuenta su dependencia e influencia.")
+          img(src="@/assets/curso/temas/tema2/img10.svg", alt="Muestra la figura un ejemplo de la forma gráfica de la matriz ID. Teniendo en cuenta su dependencia e influencia.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
 
     Separador
@@ -1019,35 +1019,35 @@
       .col-lg-9.mx-auto
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 5.
-          span <em>Ejemplo de causa y efecto</em>
+          span Ejemplo de causa y efecto
         figure
-          img(src="@/assets/curso/temas/tema2/img6.svg", alt="Muestra el componente formativo un ejemplo de causa y efecto, de acuerdo: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y*o servicios. Capacidad limitada de negociación de bienes y*o servicios.")
-          figcaption Ejemplo de causa y efecto. Bernal (2021). 
+          img(src="@/assets/curso/temas/tema2/img6.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
+          figcaption Nota. Ejemplo de causa y efecto. Bernal (2021). 
       
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas, la primera de ellas es el <strong>establecimiento de los efectos del problema central denominado “árbol de efectos”</strong> A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás en un segundo nivel estableciendo las relaciones causales entre ellos (Ortegón et.al, 2005). La gravedad de los efectos también es importante; en proporción a esta se <strong>establecerá la prioridad y el tipo de acciones para su solución o mitigación.</strong> La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas, esto de acuerdo con los procedimientos descritos anteriormente en este documento.
+          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas, la primera de ellas es el establecimiento de los efectos del problema central denominado “árbol de efectos”. A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás en un segundo nivel estableciendo las relaciones causales entre ellos (Ortegón et.al, 2005). La gravedad de los efectos también es importante; en proporción a esta se establecerá la prioridad y el tipo de acciones para su solución o mitigación. La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas, esto de acuerdo con los procedimientos descritos anteriormente en este documento.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 6.
-          span <em>Ejemplo de efectos directos e indirectos</em>
+          span Ejemplo de efectos directos e indirectos
         figure
-          img(src="@/assets/curso/temas/tema2/img11.svg", alt="Muestra el componente formativo un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
-          figcaption.my-3.text-regular <strong>Nota.</strong>Tomado de la guía de proyectos del DNP (2016).
+          img(src="@/assets/curso/temas/tema2/img11.svg", alt="Se detalla en la figura un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos. Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos. Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
+          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p En la segunda etapa se observan <strong>las causas y de la misma manera en que se procedió en la primera etapa</strong>, pero hacia abajo en la gráfica, establecemos causas directas en un primer nivel y causas indirectas en un segundo e incluso un tercer nivel, estableciendo la relación causal entre todas ellas. <strong>Es posible que una causa tenga más de una consecuencia y viceversa.</strong> Las causas indirectas dan origen a las directas. Esta etapa es clave debido a que al hallar las causas originarias del problema de manera diferenciada, estableceremos los componentes del proyecto más adelante. En la medida en que se contrarresten las causas (raíces) del problema se estará contribuyendo a la <strong>superación del problema central.</strong>
+      p En la segunda etapa se observan las causas y de la misma manera en que se procedió en la primera etapa, pero hacia abajo en la gráfica, establecemos causas directas en un primer nivel y causas indirectas en un segundo e incluso un tercer nivel, estableciendo la relación causal entre todas ellas. Es posible que una causa tenga más de una consecuencia y viceversa. Las causas indirectas dan origen a las directas. Esta etapa es clave debido a que, al hallar las causas originarias del problema de manera diferenciada, estableceremos los componentes del proyecto más adelante. En la medida en que se contrarresten las causas (raíces) del problema se estará contribuyendo a la superación del problema central.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 7.
-          span <em>Ejemplo de causas directas e indirectas</em>
+          span Ejemplo de causas directas e indirectas
         figure
-          img(src="@/assets/curso/temas/tema2/img12.svg", alt="Muestra el componente formativo un ejemplo de causas directas e indirectas, de acuerdo a : Causas directas Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas Indirectas Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
-          figcaption.my-3.text-regular <strong>Nota.</strong>Tomado de la guía de proyectos del DNP (2016).
+          img(src="@/assets/curso/temas/tema2/img12.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
+          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
       p Una vez identificados todos los efectos y causas del problema central, <strong>se integra toda la información en un solo cuadro</strong> que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa <strong>(Ortegón et.al, 2005).</strong>
 
@@ -1055,9 +1055,9 @@
       .col-lg-12.mb-3.m-auto
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 8.
-          span <em>Ejemplo de árbol de problemas </em>
+          span Ejemplo de árbol de problemas
         figure
-          img(src="@/assets/curso/temas/tema2/img13.svg", alt="Muestra el componente formativo un ejemplo de árbol de problemas, según sus efectos, problemas y causas.")
+          img(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
         
     .row.my-3.align-items-center 
@@ -1117,9 +1117,9 @@
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 9.
-          span <em>Ejemplo de árbol de objetivos</em>
+          span Ejemplo de árbol de objetivos
         figure.my-3
-          img(src="@/assets/curso/temas/tema2/img14.svg", alt="Muestra el componente formatico un ejemplo de árbol de objetivos. ")
+          img(src="@/assets/curso/temas/tema2/img14.svg", alt="Se detalla en la figura un ejemplo de árbol de objetivos.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.mt-5.mb-4.align-items-center
       p Para finalizar este ejercicio correctamente se hace necesaria una <strong>validación</strong>, lo que comprende una revisión de las relaciones entre las hipótesis planteadas, detectar y corregir posibles inconsistencias y de ser necesario, eliminar o adicionar nuevos elementos si se considera relevante, siempre y cuando se justifique debidamente. En toda situación, en la medida en que el ejercicio de análisis de problemas haya sido acertado, las acciones también lo serán, así como las alternativas correspondientes. Aquí se evidencia la importancia de una buena planeación y la justificación de la proporción de esta tarea dentro del proyecto general.

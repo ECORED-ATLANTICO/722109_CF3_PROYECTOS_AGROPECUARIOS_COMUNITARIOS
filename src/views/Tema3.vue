@@ -12,7 +12,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img1.png')})`}"
         )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La etapa de análisis debe brindar todos <strong>los insumos necesarios y de la calidad adecuada</strong>, para que la etapa de planificación arroje los lineamientos que en gran medida, aportarán a la formulación más acertada del proyecto y, por tanto, al <strong>éxito de la intervención.</strong>
+        p.mb-0 La etapa de análisis debe brindar todos los insumos necesarios y de la calidad adecuada, para que la etapa de planificación arroje los lineamientos que en gran medida, aportarán a la formulación más acertada del proyecto y, por tanto, al éxito de la intervención.
     
     h5.my-3.text-center Las partes que componen la etapa de planificación son al menos cuatro:
     .row.my-3.align-items-center 
@@ -97,10 +97,10 @@
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-botones.mb-3
           h5 Figura 10.
-          span <em>Ejemplo de propuesta de acción</em>
+          span Ejemplo de propuesta de acción
         figure
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema3/img66.svg", alt='Muestra el componente formativo un ejemplo de propuesta de acción, de acuerdo a: Mejorar las  practicas de separacion de materiales. Implemetar espacios eficientes para la valoracion de residuos solidos.').d-none.d-lg-block.d-md-none
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema3/img66_m.svg", alt='Muestra el componente formativo un ejemplo de propuesta de acción, de acuerdo a: Mejorar las  practicas de separacion de materiales. Implemetar espacios eficientes para la valoracion de residuos solidos.').d-block.d-lg-none.d-md-block              
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema3/img66.svg", alt='Se detalla un ejemplo de propuesta de acción, de acuerdo a: Mejorar las prácticas de separación de materiales. Implementar espacios eficientes para la valoración de residuos sólidos.').d-none.d-lg-block.d-md-none
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema3/img66_m.svg", alt='Se detalla un ejemplo de propuesta de acción, de acuerdo a: Mejorar las prácticas de separación de materiales. Implementar espacios eficientes para la valoración de residuos sólidos.').d-block.d-lg-none.d-md-block              
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     p Como tercer paso, los autores de la guía del ejemplo del DNP recomiendan realizar un filtro de las actividades, determinando su <strong>viabilidad técnica, financiera o legal</strong> Luego de seleccionadas las actividades y teniendo en cuenta su compatibilidad, se llega a las siguientes conclusiones:
 
@@ -189,16 +189,16 @@
     p.text-bold Un ejemplo de matriz de evaluación o selección, producto de la guía para la formulación de proyectos de la FAO en conjunto con el Ministerio de Desarrollo Agropecuario de Panamá en 2017, es el siguiente:
     .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 8.
-          span <em>Matriz de selección de alternativa óptima</em>
+          span Matriz de selección de alternativa óptima
     .tabla-b.color-acento-contenido.mb-5
       table
         thead
           tr
-              th(rowspan="2", style="background: #A0C9F6") Criterios <br> (que debe definir el equipo formulador)
-              th(rowspan="2", style="background: #A0C9F6") Peso específico asignado al criterio (1-5)
-              th(colspan="2", style="background: #D8E9FB") Alternativa 1 <br> Incrementada la productividad y altos estándares de calidad
-              th(colspan="2", style="background: #D8E9FB") Alternativa 2 <br> Ampliado el acceso al mercado
-              th(colspan="2", style="background: #D8E9FB") Alternativa 3 <br> Sistemas productivos menos vulnerables al cambio y variabilidad climáticas
+            th(rowspan="2", style="background: #A0C9F6") Criterios <br> (que debe definir el equipo formulador)
+            th(rowspan="2", style="background: #A0C9F6") Peso específico asignado al criterio (1-5)
+            th(colspan="2", style="background: #D8E9FB") Alternativa 1 <br> Incrementada la productividad y altos estándares de calidad
+            th(colspan="2", style="background: #D8E9FB") Alternativa 2 <br> Ampliado el acceso al mercado
+            th(colspan="2", style="background: #D8E9FB") Alternativa 3 <br> Sistemas productivos menos vulnerables al cambio y variabilidad climáticas
           tr(style="background: #FFF6DE")
             th Calificación 1-5
             th Puntaje obtenido
@@ -296,7 +296,7 @@
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-botones.mb-3
           h5 Tabla 9.
-          span <em>Relación entre el árbol de problemas, árbol de objetivos y la MML</em>
+          span Relación entre el árbol de problemas, árbol de objetivos y la MML
         .tabla-b.color-acento-contenido.mb-3.text-center
           table
             thead
@@ -306,21 +306,21 @@
                 th Matriz de marco lógico
             tbody
               tr
-                td Problema central
-                td Propósito
-                td Objetivo general o "<strong>fin</strong>" del proyecto
+                td Problema central.
+                td Propósito.
+                td Objetivo general o "<strong>fin</strong>" del proyecto.
               tr
-                td Causas nivel 1
-                td Medios
-                td Objetivos específicos
+                td Causas nivel 1.
+                td Medios.
+                td Objetivos específicos.
               tr
-                td Causas nivel 2
-                td Productos
-                td Componentes
+                td Causas nivel 2.
+                td Productos.
+                td Componentes.
               tr
-                td Causas nivel 3
-                td Actividades
-                td Actividades
+                td Causas nivel 3.
+                td Actividades.
+                td Actividades.
 
         figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
     .row.p-3.my-5
@@ -354,7 +354,7 @@
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-botones.mb-3
           h5 Tabla 10.
-          span <em>Relación entre el árbol de problemas, árbol de objetivos y la MML</em>
+          span Relación entre el árbol de problemas, árbol de objetivos y la MML
         .tabla-b.color-acento-contenido.mb-5
           table
             thead
@@ -384,7 +384,7 @@
                 td
                 td
                 td
-          figcaption.my-3.text-regular <strong>Nota.</strong>Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
+          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
     
     
     .row.mt-5.mb-2.align-items-center
@@ -399,11 +399,11 @@
 
 
     .titulo-sexto.color-acento-botones.mb-3
-      h5 Figura 10.
-      span <em>Resumen narrativo del proyecto</em>
+      h5 Figura 11.
+      span Resumen narrativo del proyecto
     figure
-      img(src="@/assets/curso/temas/tema3/img99.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-none.d-lg-block.d-md-none
-      img(src="@/assets/curso/temas/tema3/img99m.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-block.d-lg-none.d-md-block
+      img(src="@/assets/curso/temas/tema3/img99.svg", alt="Se muestra en la figura el resumen narrativo del proyecto: Fin: objetivo general. Propósito: objetivo específico. Resultados esperados: componentes. Actividades.").d-none.d-lg-block.d-md-none
+      img(src="@/assets/curso/temas/tema3/img99m.svg", alt="Se muestra en la figura el resumen narrativo del proyecto: Fin: objetivo general. Propósito: objetivo específico. Resultados esperados: componentes. Actividades.").d-block.d-lg-none.d-md-block
       figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
 
     //- .titulo-sexto.color-acento-botones.mb-3
@@ -524,8 +524,8 @@
             span(style="color: #12263F; font-size: 0.88em; margin: 0.1em") El presupuesto es <strong>suficiente</strong> para llevar a cabo las actividades identificadas.
         p Los criterios se pueden construir a partir de la <strong>selección y suma de varios de los anteriores</strong>, según se considere pertinente para la evaluación objetiva de los objetivos del proyecto.
     .titulo-sexto.color-acento-contenido.mb-3
-      h5 Tabla 12.
-      span <em>Herramienta de selección de indicadores</em>
+      h5 Tabla 11.
+      span Herramienta de selección de indicadores
     .tabla-b.color-acento-contenido.mb-5
       table
         thead
@@ -538,28 +538,28 @@
             th Selección
         tbody
           tr
-            td Fin
+            td Fin.
             td
             td
             td A B C D E F G
             td
             td
           tr
-            td Propósito
+            td Propósito.
             td
             td
             td
             td
             td
           tr
-            td Componentes
+            td Componentes.
             td
             td
             td
             td
             td
           tr
-            td Actividades
+            td Actividades.
             td
             td
             td
@@ -577,8 +577,8 @@
     p Los análisis de riesgos, al igual que algunos análisis hechos en esta guía anteriormente, permiten a través de análisis cuantitativos, <strong>medir aspectos cualitativos al asignar valores discrecionales en un rango determinado</strong>; un ejemplo de una escala usada frecuentemente es <strong>1=Muy bajo; 2=bajo; 3=moderado; 4=alto; 5=muy alto</strong>. En el caso de los riesgos se hace referencia a la evaluación de situaciones que potencialmente pueden desviar o debilitar los resultados esperados, con el objetivo de prevenir o mitigar sus efectos. Un ejemplo sencillo de análisis de riesgos puede ser el de una matriz que enfrente las amenazas posibles (factores externos que pueden afectar el desarrollo del proyecto en cualquiera de sus fases) con la probabilidad estimada de la ocurrencia de un evento y la severidad (gravedad de las consecuencias) de su ocurrencia. Estas amenazas pueden ser las contempladas en un <strong>análisis FODA.</strong>
 
     .titulo-sexto.color-acento-contenido.mb-3
-      h5 Tabla 13.
-      span <em>Ejemplos de análisis de riesgos</em>
+      h5 Tabla 12.
+      span Ejemplos de análisis de riesgos
     .tabla-b.color-acento-contenido.mb-5
       table
         thead
@@ -586,22 +586,23 @@
             th Tipo (Físico, ergonómico, logístico, biológico, químico, psicosocial, climático, político, legal, logístico, etc.)
             th Riesgo (Descripción)
             th Probabilidad de ocurrencia (Rango de 1 a 5, donde: 1=muy baja; 2=baja; 3=media; 4=alta; 5=muy alta)
-            th Gravedad del impacto (Rango de 1 a 5, donde: 1=despreciable; 2=considerable; 3=importante; 4=grave; 5=catatrófica)
-            th Valor del Riesgo (Probabilidad x gravedad)
-            th Nivel de Riesgo (Ubicar en la matriz de riesgos)
+            th Gravedad del impacto (Rango de 1 a 5, donde: 1=despreciable; 2=considerable; 3=importante; 4=grave; 5=catastrófica)
+            th Valor del riesgo (Probabilidad x gravedad)
+            th Nivel de riesgo (Ubicar en la matriz de riesgos)
         tbody
           tr.text-center
-            td(style='background-color: #EAEAEA') Climático
-            td(style='background-color: #E4E4E4') Prolongación de las épocas de lluvias más allá de la tercera semana de inicio del ciclo productivo y efecto de las heladas en las primeras cinco semanas
+            td(style='background-color: #EAEAEA') Climático.
+            td(style='background-color: #E4E4E4') Prolongación de las épocas de lluvias más allá de la tercera semana de inicio del ciclo productivo y efecto de las heladas en las primeras cinco semanas.
             td(style='background-color: #EAEAEA') 3
             td(style='background-color: #E4E4E4') 4
             td(style='background-color: #EAEAEA') 20
-            td(style='background-color: #E4E4E4') Crítico
+            td(style='background-color: #E4E4E4') Crítico.
+
     .row.mt-5.mb-4.align-items-center
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 14.
-          span <em>Modelo de matriz de evaluación de riesgos</em>
+          h5 Tabla 13.
+          span Modelo de matriz de evaluación de riesgos
         figure 
           img(src='@/assets/curso/temas/tema3/img18.svg', alt='Para describir con un ejemplo la matriz de riesgos, se tiene en cuenta el impacto, la probabilidad de ocurrencia y se describe si es riesgo crítico, grave, apreciable y marginal.')
 
@@ -671,8 +672,8 @@
     .row.p-3
       .col-lg-7.m-auto
         .titulo-sexto.color-acento-botones.mb-3
-          h5 Figura 11.
-          span <em>Forma de lectura y relación de las partes de la MML</em>
+          h5 Figura 12.
+          span Forma de lectura y relación de las partes de la MML
         figure
           img(src="@/assets/curso/temas/tema3/img23.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-none.d-lg-block.d-md-none
           img(src="@/assets/curso/temas/tema3/img23_m.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-block.d-lg-none.d-md-block

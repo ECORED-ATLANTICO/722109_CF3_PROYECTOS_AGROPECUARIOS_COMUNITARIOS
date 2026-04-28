@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Generalidades del enfoque de marco lógico
+      h1 Generalidades del Enfoque de Marco Lógico
   
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="flip-up")
-        p.mb-0 La metodología de elaboración de proyectos bajo el<strong> Enfoque de Marco Lógico (EML)</strong> es en sí, una <strong>herramienta para la ordenación de información relacionada a un proyecto, basada en el razonamiento lógico</strong>; es decir, donde a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
+        p.mb-0 La metodología de elaboración de proyectos bajo el<strong> Enfoque de Marco Lógico (EML)</strong> es en sí, una <strong>herramienta para la ordenación de información relacionada a un proyecto, basada en el razonamiento lógico</strong>; es decir, donde a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que, en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos, pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
 
     .row.my-4.align-items-center
       .col-lg-12
@@ -34,7 +34,7 @@
                 
               img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03.svg", alt='En el marco lógico y ciclo de vida del proyecto se especifica de la siguiente manera: diseño, ejecución y evaluación.').d-none.d-lg-block.d-md-block
               img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03_m.svg", alt='En el marco lógico y ciclo de vida del proyecto se especifica de la siguiente manera: diseño, ejecución y evaluación.').d-block.d-lg-none.d-md-none              
-              figcaption.my-4 Tomado de Bernal (2021).
+              figcaption.my-4 Nota. Tomado de Bernal (2021).
       div.p-4.my-3(data-aos="flip-right",style="background: #F6FCFA")
         .row.my-4.align-items-center
           .col-lg-8.my-2
