@@ -511,11 +511,11 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 3.
-          span <em>Recomendaciones para la correcta definición de un problema.</em>
+          span Recomendaciones para la correcta definición de un problema.
 
         figure
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-none.d-lg-block.d-md-block
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-block.d-lg-none.d-md-none                
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-none.d-lg-block
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-block.d-lg-none                
         figcaption Nota. Tomado de SENA (2021).
 
     .row.align-items-center 
@@ -1021,7 +1021,8 @@
           h5 Figura 5.
           span Ejemplo de causa y efecto
         figure
-          img(src="@/assets/curso/temas/tema2/img6.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img6.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img6-movil.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
           figcaption Nota. Ejemplo de causa y efecto. Bernal (2021). 
       
     .row.align-items-center.my-4
@@ -1035,18 +1036,20 @@
           h5 Figura 6.
           span Ejemplo de efectos directos e indirectos
         figure
-          img(src="@/assets/curso/temas/tema2/img11.svg", alt="Se detalla en la figura un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos. Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos. Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img11.svg", alt="Se detalla en la figura un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos. Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos. Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img11-movil.svg", alt="Se detalla en la figura un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos. Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos. Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
       p En la segunda etapa se observan las causas y de la misma manera en que se procedió en la primera etapa, pero hacia abajo en la gráfica, establecemos causas directas en un primer nivel y causas indirectas en un segundo e incluso un tercer nivel, estableciendo la relación causal entre todas ellas. Es posible que una causa tenga más de una consecuencia y viceversa. Las causas indirectas dan origen a las directas. Esta etapa es clave debido a que, al hallar las causas originarias del problema de manera diferenciada, estableceremos los componentes del proyecto más adelante. En la medida en que se contrarresten las causas (raíces) del problema se estará contribuyendo a la superación del problema central.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
-        .titulo-sexto.color-acento-contenido.mb-2
+        .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 7.
           span Ejemplo de causas directas e indirectas
         figure
-          img(src="@/assets/curso/temas/tema2/img12.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img12.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
       p Una vez identificados todos los efectos y causas del problema central, <strong>se integra toda la información en un solo cuadro</strong> que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa <strong>(Ortegón et.al, 2005).</strong>
@@ -1057,7 +1060,8 @@
           h5 Figura 8.
           span Ejemplo de árbol de problemas
         figure
-          img(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img13-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
         
     .row.my-3.align-items-center 
@@ -1119,7 +1123,8 @@
           h5 Figura 9.
           span Ejemplo de árbol de objetivos
         figure.my-3
-          img(src="@/assets/curso/temas/tema2/img14.svg", alt="Se detalla en la figura un ejemplo de árbol de objetivos.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img14.svg", alt="Se detalla en la figura un ejemplo de árbol de objetivos.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img14-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de objetivos.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.mt-5.mb-4.align-items-center
       p Para finalizar este ejercicio correctamente se hace necesaria una <strong>validación</strong>, lo que comprende una revisión de las relaciones entre las hipótesis planteadas, detectar y corregir posibles inconsistencias y de ser necesario, eliminar o adicionar nuevos elementos si se considera relevante, siempre y cuando se justifique debidamente. En toda situación, en la medida en que el ejercicio de análisis de problemas haya sido acertado, las acciones también lo serán, así como las alternativas correspondientes. Aquí se evidencia la importancia de una buena planeación y la justificación de la proporción de esta tarea dentro del proyecto general.
