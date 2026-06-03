@@ -331,7 +331,7 @@
               figure 
                 img(src="@/assets/curso/temas/tema3/img76.svg", alt="", width="150px", height="150px")
             .col-lg-10.mt-3
-              p Cabe recordar que para pasar del árbol de problemas al árbol de objetivos, se cambió de <strong>un estado negativo del problema a una situación positiva como propósito,</strong> para luego plantearse como el fin del proyecto o la acción que conduce a esa situación deseada del árbol de objetivos. De acuerdo con Ortegón et.al (2005):
+              p Cabe recordar que para pasar del árbol de problemas al árbol de objetivos, se cambió de <strong>un estado negativo del problema a una situación positiva como propósito,</strong> para luego plantearse como el fin del proyecto o la acción que conduce a esa situación deseada del árbol de objetivos. De acuerdo con Ortegón et al. (2005):
     .row.align-items-center
       .col-lg-10.m-auto
         hr(style="background: #FFA686;height: 3px; border: none;")
@@ -394,7 +394,7 @@
           h3.subtitle.position-relative Resumen narrativo del marco lógico
             img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
     
-    p.mb-4 La primera columna de la MML es <strong>la síntesis del proyecto</strong>, empezando por las actividades, los productos que se entregarán y los resultados a corto, mediano y largo plazo <strong>(Ortegón et.al, 2005)</strong>. De ahí su importancia y la forma de realizar su lectura, que es de abajo hacia arriba. Las actividades provenientes del nivel tres no se encuentran normalmente incluidas en la MML, pero resulta muy útil considerarlas para <strong>alimentar la planeación operativa</strong> y los indicadores correspondientes serán objeto de este análisis posterior. El resumen narrativo corresponde a la primera columna de la matriz.
+    p.mb-4 La primera columna de la MML es <strong>la síntesis del proyecto</strong>, empezando por las actividades, los productos que se entregarán y los resultados a corto, mediano y largo plazo <strong>(Ortegón et al., 2005)</strong>. De ahí su importancia y la forma de realizar su lectura, que es de abajo hacia arriba. Las actividades provenientes del nivel tres no se encuentran normalmente incluidas en la MML, pero resulta muy útil considerarlas para <strong>alimentar la planeación operativa</strong> y los indicadores correspondientes serán objeto de este análisis posterior. El resumen narrativo corresponde a la primera columna de la matriz.
 
 
 
@@ -438,12 +438,12 @@
           img.my-3(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa', style="max-width: 100%; height: auto;")
       .col-md-12.col-lg-8.mt-4.mt-lg-0
         p
-          | Los indicadores conforman la segunda columna de la MML. Son variables cualitativas o cuantitativas que concretan lo definido en el resumen narrativo del proyecto en cada uno de los niveles y dan cuenta de las metas a las que hay que llegar para culminar con éxito, por lo que se convierten en la brújula con la cual se orientan las actividades de gestión, el seguimiento y la evaluación. También dan medida del desempeño y alertan sobre situaciones atípicas. Si los indicadores se encuentran bien formulados, aseguran una buena gestión del proyecto y aportan los elementos necesarios para la toma correcta de decisiones gerenciales que seguramente serán necesarias en el transcurso de la ejecución. Un resultado puede ser medido por varios indicadores, pero el principio de eficiencia nos orienta hacia la construcción del mínimo necesario para la conclusión del logro de los objetivos (Ortegón et.al 2005).
+          | Los indicadores conforman la segunda columna de la MML. Son variables cualitativas o cuantitativas que concretan lo definido en el resumen narrativo del proyecto en cada uno de los niveles y dan cuenta de las metas a las que hay que llegar para culminar con éxito, por lo que se convierten en la brújula con la cual se orientan las actividades de gestión, el seguimiento y la evaluación. También dan medida del desempeño y alertan sobre situaciones atípicas. Si los indicadores se encuentran bien formulados, aseguran una buena gestión del proyecto y aportan los elementos necesarios para la toma correcta de decisiones gerenciales que seguramente serán necesarias en el transcurso de la ejecución. Un resultado puede ser medido por varios indicadores, pero el principio de eficiencia nos orienta hacia la construcción del mínimo necesario para la conclusión del logro de los objetivos (Ortegón et al., 2005).
 
     .row.align-items-center.p-3.my-5
       .col-lg-12
         .cajon.color-secundario.p-4.p-4(data-aos="slide-down",style="background: #EEFBF5")
-          p.mt-0 Los indicadores deben poseer ciertas características para que logren <strong>eficacia</strong>. Para empezar, según la guía para la formulación de proyectos de inversión del sector agropecuario (FAO, 2017) deben ser independientes en cada nivel para evitar la duplicidad de datos. Sólo se formulan para el <strong>cumplimiento de objetivos y resultados</strong>; a las actividades se les asigna la ejecución de un presupuesto a manera de indicador. Según Ortegón et.al (2005) los indicadores “inteligentes” poseen cinco características imprescindibles: son específicos, medibles, realizables, pertinentes y deben estar enmarcados en el tiempo. Existen diversos tipos de indicadores pero una clasificación útil es la hecha en la guía de la <strong>FAO</strong> varias veces citada.
+          p.mt-0 Los indicadores deben poseer ciertas características para que logren <strong>eficacia</strong>. Para empezar, según la guía para la formulación de proyectos de inversión del sector agropecuario (FAO, 2017) deben ser independientes en cada nivel para evitar la duplicidad de datos. Sólo se formulan para el <strong>cumplimiento de objetivos y resultados</strong>; a las actividades se les asigna la ejecución de un presupuesto a manera de indicador. Según Ortegón et al. (2005) los indicadores “inteligentes” poseen cinco características imprescindibles: son específicos, medibles, realizables, pertinentes y deben estar enmarcados en el tiempo. Existen diversos tipos de indicadores pero una clasificación útil es la hecha en la guía de la <strong>FAO</strong> varias veces citada.
     
     .row.align-items-center.p-3.my-5
       .col-lg-10.m-auto
@@ -504,7 +504,7 @@
 
     p Así, un indicador que reúna todos los requisitos mencionados anteriormente alcanzaría <strong>cinco puntos</strong> en esta escala de clasificación. Finalmente, en la última columna se seleccionan los indicadores que han obtenido <strong>mayor puntuación</strong>, que serán los que se incluirán en la matriz del marco lógico.
 
-    h4.text-center Otra propuesta de Ortegón et.al (2005) para los criterios de selección de indicadores “correctamente especificados” es hecha a partir de los siguientes criterios:
+    h4.text-center Otra propuesta de Ortegón et al. (2005) para los criterios de selección de indicadores “correctamente especificados” es hecha a partir de los siguientes criterios:
 
     .row.mt-5.mb-4.align-items-center.my-4
       .col-lg-4.col-md-8.mx-auto
@@ -593,7 +593,7 @@
           tr.text-center
             td(style='background-color: #EAEAEA') Climático.
             td(style='background-color: #E4E4E4') Prolongación de las épocas de lluvias más allá de la tercera semana de inicio del ciclo productivo y efecto de las heladas en las primeras cinco semanas.
-            td(style='background-color: #EAEAEA') 3
+            td(style='background-color: #EAEAEA') 5
             td(style='background-color: #E4E4E4') 4
             td(style='background-color: #EAEAEA') 20
             td(style='background-color: #E4E4E4') Crítico.
@@ -615,7 +615,7 @@
         figure 
           img.my-3(src='@/assets/curso/temas/tema3/img19.png', alt='Imagen decorativa')
       .col-lg-8
-        p El anterior análisis de riesgos contempla lo que <strong>no debe ocurrir</strong> para que el proyecto se desarrolle como se ha planeado. En el caso de los supuestos se establecen las condiciones y requisitos para que se puedan realizar las actividades, lograr los objetivos y cumplir finalmente con el propósito del proyecto. Es por estas razones que este análisis se hace <strong>posteriormente a la definición de los indicadores y el desglose de las actividades</strong>. Es importante tener en cuenta de acuerdo con Ortegón et. al (2005) la forma en que se redactan los supuestos que corresponde a la de un objetivo a alcanzar o mantener por parte de quien fuere necesario a pesar de que estos estén fuera del alcance del ejecutor del proyecto. Ejemplo:
+        p El anterior análisis de riesgos contempla lo que <strong>no debe ocurrir</strong> para que el proyecto se desarrolle como se ha planeado. En el caso de los supuestos se establecen las condiciones y requisitos para que se puedan realizar las actividades, lograr los objetivos y cumplir finalmente con el propósito del proyecto. Es por estas razones que este análisis se hace <strong>posteriormente a la definición de los indicadores y el desglose de las actividades</strong>. Es importante tener en cuenta de acuerdo con Ortegón et al. (2005) la forma en que se redactan los supuestos que corresponde a la de un objetivo a alcanzar o mantener por parte de quien fuere necesario a pesar de que estos estén fuera del alcance del ejecutor del proyecto. Ejemplo:
           .cajon.color-acento-botones.p-4(data-aos="slide-down",style="background: #FFB686")
             h5.mt-0 “Los precios agrícolas mantienen sus niveles (dentro de una banda de + 10 %) en términos reales” (p.89). 
   
@@ -631,7 +631,7 @@
                 h3.subtitle.position-relative Comprobación lógica de la MML
                   img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
           
-          p Finalmente para efectos de la comprobación de la lógica de la <strong>MML</strong>, se debe revisar la coherencia de los vínculos causales de abajo hacia arriba de la matriz (<strong>actividades-componentes-objetivos-fin</strong>) esto es la lógica vertical, con al menos tres criterios que rezan como sigue:
+          p.mt-0 Finalmente para efectos de la comprobación de la lógica de la <strong>MML</strong>, se debe revisar la coherencia de los vínculos causales de abajo hacia arriba de la matriz (<strong>actividades-componentes-objetivos-fin</strong>) esto es la lógica vertical, con al menos cinco criterios que rezan como sigue:
           ol.lista-ol
             li 
               span.text-bold 1. 

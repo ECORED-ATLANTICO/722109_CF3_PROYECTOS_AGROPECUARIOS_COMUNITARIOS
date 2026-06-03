@@ -222,7 +222,7 @@
       p La herramienta de partida del EML se denomina <strong>“mapa de involucrados”</strong>. Este es un análisis simple donde se registra el interés de los actores en el proyecto y sus implicaciones, pero existen herramientas más elaboradas como puede ser una <strong>matriz de expectativa-fuerza</strong> para contemplar los intereses, percepciones, expectativas y el grado de influencia de personas, grupos, comunidades o entidades; esto es muy importante porque permite, por un lado, optimizar los recursos y los beneficios del proyecto, además de potenciar el alcance, la eficacia y el impacto, y por otro lado, prevenir y mitigar los efectos negativos de o hacia otros actores contradictores o afectados, e incluso abordar conflictos de tal manera que el proyecto aporte a su solución.
 
     .row.my-4
-      p.text-center De acuerdo con lo propuesto por <strong>Ortegón et.al (2005)</strong>, el análisis debe proceder a:
+      p.text-center De acuerdo con lo propuesto por <strong>Ortegón et al. (2005)</strong>, el análisis debe proceder a:
 
     TabsA.color-secundario.my-3
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="1. Visibilizar a los <br> involucrados")
@@ -300,7 +300,7 @@
         .cajon.color-primario.p-4(data-aos="slide-down",style="background: #EBF4FD")
           p.mt-0 Muchas fuentes de información acerca del método EML usan un ejemplo recurrente de aplicación de la herramienta de <strong>“lluvia de ideas”</strong> (<em>brainstorming</em>) con el protagonismo de la misma población que es perfectamente válido, pero que se puede fortalecer por medio de la indagación del contexto de la problemática identificada, previamente al ejercicio de definición del problema central.
         
-        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar <strong>esfuerzos proporcionales en la etapa de diagnóstico.</strong> El principal referente de este documento, Ortegón et.al (2005), aclara que la planificación nace de <strong>la percepción que se tiene de la problemática</strong> y que se puede dar en concordancia con los siguientes aspectos:
+        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar <strong>esfuerzos proporcionales en la etapa de diagnóstico.</strong> El principal referente de este documento, Ortegón et al. (2005), aclara que la planificación nace de <strong>la percepción que se tiene de la problemática</strong> y que se puede dar en concordancia con los siguientes aspectos:
     .row.justify-content-center
       .col-10
         .tarjeta--container.row.mb-5
@@ -351,7 +351,7 @@
     
     p.my-4.text-bold.text-center Además, en la actualidad podemos identificar circunstancias problemáticas en torno a:
 
-    row.my-4(data-aos="zoom-in-up")
+    .row.my-4(data-aos="zoom-in-up")
       div.p-5.BGM02.fondo-degradado-2
         ul(style="list-style-position: outside; padding-left: 1.2em; text-indent: -0.6em;")
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
@@ -533,16 +533,16 @@
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 4.
             span Ejemplo de estructura de la matriz de influencia-dependencia (Véster)
-          .tabla-b.color-acento-contenido
+          .tabla-b.color-acento-botones
             table(style="background-color: white")
               thead
                 tr(style='background-color: #006555')
                   th 
-                  th Problema 1
-                  th Problema 2
-                  th Problema 3
-                  th Problema 4
-                  th Problema n
+                  th.text-white Problema 1
+                  th.text-white Problema 2
+                  th.text-white Problema 3
+                  th.text-white Problema 4
+                  th.text-white Problema n
               tbody
                 tr
                   td Problema 1
@@ -586,25 +586,26 @@
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 5.
             span Escala de valores
-          table.text-center
-            thead
-              tr(style='background-color: #006555')
-                th(style="width: 20%") Valor
-                th Descripción
-            tbody
-              tr(style="background-color: white")
-                td 0
-                td No existe relación directa entre el primer y segundo problema.
-              tr(style="background-color: #E9E9E9")
-                td 1
-                td Existe una influencia débil entre el primer y segundo problema.
-              tr(style="background-color: white")
-                td 2
-                td Existe una influencia mediana entre el primer y segundo problema.
-              tr(style="background-color: #E9E9E9")
-                td 3
-                td Existe una influencia fuerte entre el primer y segundo problema.
-          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
+          .tabla-b
+            table.text-center
+              thead
+                tr(style='background-color: #006555')
+                  th(style="width: 20%").text-white Valor
+                  th.text-white Descripción
+              tbody
+                tr(style="background-color: white")
+                  td 0
+                  td No existe relación directa entre el primer y segundo problema.
+                tr(style="background-color: #E9E9E9")
+                  td 1
+                  td Existe una influencia débil entre el primer y segundo problema.
+                tr(style="background-color: white")
+                  td 2
+                  td Existe una influencia mediana entre el primer y segundo problema.
+                tr(style="background-color: #E9E9E9")
+                  td 3
+                  td Existe una influencia fuerte entre el primer y segundo problema.
+            figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
       .row(numero="4" titulo="Paso 4")
         .col-lg-12.mb-4.mb-md-0
           p Una vez llena la matriz, se agrega <strong>una columna y una fila</strong> para registrar las sumatorias de valores de las filas y las columnas, los valores de la columna representan las magnitudes de las influencias y los de la fila representan los de las dependencias. A continuación un ejemplo: 
@@ -615,24 +616,24 @@
             table(style="background-color: white")
               thead
                 tr(style='background-color: #006555')
-                  th
-                  th Descripción
-                  th 1
-                  th 2
-                  th 3
-                  th 4
-                  th 5
-                  th 6
-                  th 7
-                  th 8
-                  th 9
-                  th 10
-                  th 11
-                  th 12
-                  th 13
-                  th 14
-                  th 15
-                  th Influencia
+                  th.text-white
+                  th.text-white Descripción
+                  th.text-white 1
+                  th.text-white 2
+                  th.text-white 3
+                  th.text-white 4
+                  th.text-white 5
+                  th.text-white 6
+                  th.text-white 7
+                  th.text-white 8
+                  th.text-white 9
+                  th.text-white 10
+                  th.text-white 11
+                  th.text-white 12
+                  th.text-white 13
+                  th.text-white 14
+                  th.text-white 15
+                  th.text-white Influencia
               tbody
                 tr
                   td 1
@@ -949,7 +950,7 @@
             table(style="background-color: white")
               thead
                 tr 
-                  td(style="background-color:  #006555; vertical-align: middle;" rowspan="3") <strong>Dependencia</strong>
+                  td(style="background-color:  #006555; vertical-align: middle;" rowspan="3").text-white <strong>Dependencia</strong>
                   td <strong>Cuadrante 1</strong> - Problemas pasivos o de efectos del problema central
                   td <strong>Cuadrante 2</strong> - Problemas críticos del problema central
                 tr
@@ -1052,7 +1053,7 @@
           img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p Una vez identificados todos los efectos y causas del problema central, <strong>se integra toda la información en un solo cuadro</strong> que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa <strong>(Ortegón et.al, 2005).</strong>
+      p Una vez identificados todos los efectos y causas del problema central, <strong>se integra toda la información en un solo cuadro</strong> que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa <strong>(Ortegón et al., 2005).</strong>
 
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1115,7 +1116,7 @@
     .row.align-items-center.my-3
       .col-lg-12.m-auto
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #EEFBF5")
-          p.mt-0 Hasta aquí hablamos de la parte inferior del árbol. Los efectos directos en la parte superior del árbol corresponden con <strong>los fines últimos a los que contribuirá el proyecto.</strong> Una recomendación muy importante es que los objetivos deben ser alcanzables, no se debe plantear por ejemplo, acabar con el hambre en la región o llevar a la población hacia altos niveles de desarrollo pues estos planteamientos deben ser muy objetivos, sensatos y mesurados. En caso de ejecutarse el proyecto, serán <strong>compromisos adquiridos</strong> a los cuales debe respaldar una garantía de cumplimiento.
+          p.mt-0 Hasta aquí hablamos de la parte inferior del árbol. Los efectos directos en la parte superior del árbol corresponden con <strong>los fines últimos a los que contribuirá el proyecto.</strong> Una recomendación muy importante es que los objetivos deben ser alcanzables, no se debe plantear, por ejemplo, acabar con el hambre en la región o llevar a la población hacia altos niveles de desarrollo pues estos planteamientos deben ser muy objetivos, sensatos y mesurados. En caso de ejecutarse el proyecto, serán <strong>compromisos adquiridos</strong> a los cuales debe respaldar una garantía de cumplimiento.
     
     .row.mt-5.mb-4.align-items-center
       .col-lg-10.m-auto
