@@ -13,12 +13,11 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="flip-up")
-        p.mb-0 La metodología de elaboración de proyectos bajo el<strong> Enfoque de Marco Lógico (EML)</strong> es en sí, una <strong>herramienta para la ordenación de información relacionada a un proyecto, basada en el razonamiento lógico</strong>; es decir, donde a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que, en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos, pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
+        p.mb-0 La metodología de elaboración de proyectos bajo el Enfoque de Marco Lógico (EML) es en sí, una herramienta para la ordenación de información relacionada a un proyecto, basada en el razonamiento lógico; es decir, donde a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que, en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos, pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
 
     .row.my-4.align-items-center
       .col-lg-12
-        strong(style="color: #0B481E") El EML se puede usar en todas las etapas del proyecto
-        span <strong>, sea para el análisis de macropolíticas de desarrollo, del contexto de una actividad productiva en un momento y lugar dados, en la formulación de los proyectos, la valoración o evaluación, ejecución y/o desempeño de estos (PCI, 1979).</strong>
+        p El EML se puede usar en todas las etapas del proyecto, sea para el análisis de macropolíticas de desarrollo, del contexto de una actividad productiva en un momento y lugar dados, en la formulación de los proyectos, la valoración o evaluación, ejecución y/o desempeño de estos (PCI, 1979).
         p Este documento se enfocará en la primera parte del ciclo del proyecto, correspondiente al diseño, que abarca dos etapas, el análisis y la planificación.
 
     .row.justify-content-center
@@ -32,13 +31,13 @@
 
             figure
                 
-              img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03.svg", alt='En el marco lógico y ciclo de vida del proyecto se especifica de la siguiente manera: diseño, ejecución y evaluación.').d-none.d-lg-block.d-md-block
-              img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03_m.svg", alt='En el marco lógico y ciclo de vida del proyecto se especifica de la siguiente manera: diseño, ejecución y evaluación.').d-block.d-lg-none.d-md-none              
+              img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03.svg", alt='Se detalla el marco lógico y ciclo de vida del proyecto de la siguiente manera: diseño, ejecución y evaluación.').d-none.d-lg-block.d-md-block
+              img(data-aos="flip-down", src="@/assets/curso/temas/tema1/img03_m.svg", alt='Se detalla el marco lógico y ciclo de vida del proyecto de la siguiente manera: diseño, ejecución y evaluación.').d-block.d-lg-none.d-md-none              
               figcaption.my-4 Nota. Tomado de Bernal (2021).
       div.p-4.my-3(data-aos="flip-right",style="background: #F6FCFA")
         .row.my-4.align-items-center
           .col-lg-8.my-2
-            p Además de dar respuesta a otras metodologías que presentan problemas comunes mencionados ya en la introducción, <strong>el método posee otras ventajas:</strong>
+            p Además de dar respuesta a otras metodologías que presentan problemas comunes mencionados ya en la introducción, el método posee otras ventajas:
             ol.px-4.lista-ol
               li(style="padding-left: 3em; text-indent: -1.4em")
                 span(style="color:#006558").text-bold 1. 
@@ -72,9 +71,7 @@
     
     .row.my-4.align-items-center
       .col-lg-12.my-2
-        span <strong>El EML cuenta con una herramienta principal que es la </strong> 
-        strong(style="color: #0B481E") Matriz de Marco Lógico (MML).  
-        span Si bien la matriz es destacable, el enfoque es más completo, pues recoge instrumentos desde el análisis original hasta el análisis prospectivo del proyecto. La MML es el producto de la aplicación del método, que puede visualizarse en dos etapas o fases claramente diferenciadas:
+        p.mb-0 El EML cuenta con una herramienta principal que es la Matriz de Marco Lógico (MML). Si bien la matriz es destacable, el enfoque es más completo, pues recoge instrumentos desde el análisis original hasta el análisis prospectivo del proyecto. La MML es el producto de la aplicación del método, que puede visualizarse en dos etapas o fases claramente diferenciadas:
 
     .row.align-items-center.mb-4
       .col-lg-12
@@ -94,16 +91,16 @@
 
     TabsB.color-acento-contenido.my-4(data-aos="zoom-in")(style="background: #FFF4EC")
       .tarjeta.p-4.bgr2(titulo="Etapa de análisis" :icono="require('@/assets/curso/temas/tema1/img5.svg')")
-        p En esta fase se realiza <strong>una indagación en la problemática y el contexto</strong> donde se desenvuelven los actores, el estado del arte frente a las actividades productivas, la dinámica de las relaciones sociales y culturales, las actividades o modelos organizacionales colaborativos, el trasfondo político, los antecedentes históricos y las capacidades actuales de la población, así como el acceso a factores productivos o recursos tecnológicos, el manejo de recursos naturales e impacto ambiental y la participación política (interacción con el estado o gobierno y el uso de mecanismos de participación ciudadana), entre otros. 
+        p En esta fase se realiza una indagación en la problemática y el contexto donde se desenvuelven los actores, el estado del arte frente a las actividades productivas, la dinámica de las relaciones sociales y culturales, las actividades o modelos organizacionales colaborativos, el trasfondo político, los antecedentes históricos y las capacidades actuales de la población, así como el acceso a factores productivos o recursos tecnológicos, el manejo de recursos naturales e impacto ambiental y la participación política (interacción con el estado o gobierno y el uso de mecanismos de participación ciudadana), entre otros. 
         div.p-4.my-3(style="background: #FFEEBD; border-radius: 10px")
-          p.mb-0 En términos del marco normativo que brinda el sistema nacional de innovación agropecuaria, <strong>los ejes de análisis se resumen en los cinco aspectos del enfoque de extensión agropecuaria,</strong> pero en la realidad la situación de una población puede obedecer a diversos factores que además al abordarse merecen una visión holística (desde distintos campos de conocimiento) de los fenómenos que transcurren en ese preciso momento y a esa población en especial en su idiosincrasia particular.
-        p Una vez se identifican y priorizan, esto es, se establecen las relaciones y el grado de influencia de cada problema con todos los demás, se plantean en los mismos términos, posibles soluciones a cada problema y de esta manera las relaciones entre estas soluciones usando la misma dinámica. <strong>Una forma de representar este ejercicio es a través de una imagen o “fotografía” del momento actual y una imagen del futuro positivo.</strong>
-        p Esta fase comprenderá los siguientes análisis: <strong>información secundaria, actores involucrados, identificación de problemas (diagnóstico), matriz de priorización de problemas, árbol de problemas, árbol de objetivos y selección de alternativa óptima.</strong>
+          p.mb-0 En términos del marco normativo que brinda el sistema nacional de innovación agropecuaria, los ejes de análisis se resumen en los cinco aspectos del enfoque de extensión agropecuaria, pero en la realidad la situación de una población puede obedecer a diversos factores que además al abordarse merecen una visión holística (desde distintos campos de conocimiento) de los fenómenos que transcurren en ese preciso momento y a esa población en especial en su idiosincrasia particular.
+        p Una vez se identifican y priorizan, esto es, se establecen las relaciones y el grado de influencia de cada problema con todos los demás, se plantean en los mismos términos, posibles soluciones a cada problema y de esta manera las relaciones entre estas soluciones usando la misma dinámica. Una forma de representar este ejercicio es a través de una imagen o “fotografía” del momento actual y una imagen del futuro positivo.
+        p Esta fase comprenderá los siguientes análisis: información secundaria, actores involucrados, identificación de problemas (diagnóstico), matriz de priorización de problemas, árbol de problemas, árbol de objetivos y selección de alternativa óptima.
       .tarjeta.p-4.bgr2(titulo="Etapa de planificación" :icono="require('@/assets/curso/temas/tema1/img6.svg')")
         p A partir de los análisis anteriores, se establece una estrategia que implique el logro de los objetivos planteados desde las ideas y soluciones, esto es, el mapa del plan de acción, plasmado en la primera columna que se concreta en la MML. Seguido al planteamiento de lo relacionado a esta columna, denominada “resumen narrativo del proyecto” constituido por las actividades, productos, objetivos y fin del proyecto, se tiene la segunda columna que corresponde a los indicadores, la tercera que está formada por los medios de verificación y la cuarta que se trata de los supuestos.
         div.p-4.my-3(style="background: #FFEEBD; border-radius: 10px")
-          p.mb-0 Aunque la <strong>MML</strong> es vigente, es posible robustecer esta metodología a través de la incorporación de otras herramientas o incluso la modificación de la <strong>MML</strong>, como por ejemplo lo hace la <strong>MBR</strong> (matriz basada en resultados, una variante, así como lo es <strong>ZOPP</strong>, de la MML). 
-        p Para avanzar en la planificación, se complementa el ejercicio a través de un cronograma que puede ser un diagrama de Gantt o similar. Si al cronograma se agrega un análisis de costos de las actividades y además una delegación de responsabilidades a un equipo de trabajo, contará con los insumos necesarios para el establecimiento del <strong>plan de acción.</strong>
+          p.mb-0 Aunque la MML es vigente, es posible robustecer esta metodología a través de la incorporación de otras herramientas o incluso la modificación de la MML, como por ejemplo lo hace la MBR (matriz basada en resultados, una variante, así como lo es ZOPP, de la MML). 
+        p Para avanzar en la planificación, se complementa el ejercicio a través de un cronograma que puede ser un diagrama de Gantt o similar. Si al cronograma se agrega un análisis de costos de las actividades y además una delegación de responsabilidades a un equipo de trabajo, contará con los insumos necesarios para el establecimiento del plan de acción.
 
         .row.mb-4
           .col-lg-10.m-auto.justify-content-center

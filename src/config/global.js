@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_722109_DU.zip',
+        download: 'downloads/722109_CF2_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -213,7 +213,7 @@ export default {
     {
       termino: 'Beneficiarios',
       significado:
-        'corresponde a la población objetivo identificada en el diagnóstico del proyecto, la cual indica el número de personas directas para quienes se solucionará el problema identificado previamente. (Ortegón et al, 2005).',
+        'corresponde a la población objetivo identificada en el diagnóstico del proyecto, la cual indica el número de personas directas para quienes se solucionará el problema identificado previamente. (Ortegón, et al.2005).',
     },
     {
       termino: 'Beneficio',
@@ -238,7 +238,7 @@ export default {
     {
       termino: 'Efectividad',
       significado:
-        'hace referencia a la medida en que los objetivos de la prestación de servicios se cumplen a través de los productos generados. Este concepto involucra la eficiencia y la eficacia; consistente en realizar las actividades y procesos que realmente deben llevarse a cabo, haciendo un uso óptimo de los recursos involucrados. (Ortegón et al, 2005).',
+        'hace referencia a la medida en que los objetivos de la prestación de servicios se cumplen a través de los productos generados. Este concepto involucra la eficiencia y la eficacia; consiste en realizar las actividades y procesos que realmente deben llevarse a cabo, haciendo un uso óptimo de los recursos involucrados. (Ortegón et al, 2005).',
     },
     {
       termino: 'Eficiencia',
@@ -303,7 +303,7 @@ export default {
     {
       termino: 'Monitoreo',
       significado:
-        'es una herramienta de gestión, que a través de la recolección y análisis continúo de información, le ayuda al gerente del proyecto a controlar los avances durante la fase de ejecución. Se basa en la comparación entre los resultados esperados y el estado de avance de los mismos, lo que permite identificar y valorar posibles problemas y logros de los procesos de ejecución, así como proporcionar información fiable y oportuna, con el fin de hacer ajustes para lograr el objetivo deseado. (Ortegón et al, 2005).',
+        'es una herramienta de gestión, que a través de la recolección y análisis continuo de información, le ayuda al gerente del proyecto a controlar los avances durante la fase de ejecución. Se basa en la comparación entre los resultados esperados y el estado de avance de los mismos, lo que permite identificar y valorar posibles problemas y logros de los procesos de ejecución, así como proporcionar información fiable y oportuna, con el fin de hacer ajustes para lograr el objetivo deseado. (Ortegón et al, 2005).',
     },
     {
       termino: 'Objetivo general',
@@ -514,7 +514,7 @@ export default {
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollo full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {

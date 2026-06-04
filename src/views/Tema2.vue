@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 La primera etapa de <strong> la fase de diseño comprende al menos cuatro partes</strong>, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa-efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
+        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa - efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -22,7 +22,7 @@
     
     .row.my-3
       .col-lg-8.mb-4(data-aos="zoom-in-right")
-        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionarán las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforman un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de <strong>Absalón Machado</strong> o tan simples, pero suficientemente acertados como los aportes de <strong>Ligorio Dussan</strong>, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la <strong>Federación Nacional de Cafeteros de Colombia</strong>.
+        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionarán las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforman un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de Absalón Machado o tan simples, pero suficientemente acertados como los aportes de Ligorio Dussan, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la Federación Nacional de Cafeteros de Colombia.
         .div.grad1
           .row.align-items-center.p-3
             .col-lg-2
@@ -49,7 +49,7 @@
           img(data-aos="zoom-in-left",src="@/assets/curso/temas/tema2/img16.png", alt="Imagen decorativa")
       .col-lg-8.mb-3(data-aos="zoom-in-left")
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 Teniendo en cuenta las <strong> perspectivas del desarrollo rural con enfoque territorial, diferencial y de género</strong>, que enmarcan lineamientos tanto teóricos como normativos vigentes, el  inicio de un análisis contextual parte de un ejercicio participativo donde se registra la <strong>autopercepción de la población de sus problemas y realidades</strong>, así como de sus deseos y aspiraciones. 
+          p.mt-0 Teniendo en cuenta las perspectivas del desarrollo rural con enfoque territorial, diferencial y de género, que enmarcan lineamientos tanto teóricos como normativos vigentes, el inicio de un análisis contextual parte de un ejercicio participativo donde se registra la autopercepción de la población de sus problemas y realidades, así como de sus deseos y aspiraciones. 
 
         p.my-3 Sin embargo, el abordaje del contexto debe contener revisiones de fuentes secundarias para adquirir elementos suficientes que permitan interpretar estas realidades de una manera objetiva, dando el soporte necesario para que el proyecto sea bien ponderado y en especial que brinde soluciones eficaces y con efectos duraderos en el tiempo (sostenibilidad). Los tópicos propuestos a continuación corresponden a temas renombrados en diversas fuentes de información acerca de la problemática rural en general:
 
@@ -219,10 +219,10 @@
       h2(data-aos="fade-left") 2.3 Análisis de actores involucrados
 
     .row.my-4
-      p La herramienta de partida del EML se denomina <strong>“mapa de involucrados”</strong>. Este es un análisis simple donde se registra el interés de los actores en el proyecto y sus implicaciones, pero existen herramientas más elaboradas como puede ser una <strong>matriz de expectativa-fuerza</strong> para contemplar los intereses, percepciones, expectativas y el grado de influencia de personas, grupos, comunidades o entidades; esto es muy importante porque permite, por un lado, optimizar los recursos y los beneficios del proyecto, además de potenciar el alcance, la eficacia y el impacto, y por otro lado, prevenir y mitigar los efectos negativos de o hacia otros actores contradictores o afectados, e incluso abordar conflictos de tal manera que el proyecto aporte a su solución.
+      p La herramienta de partida del EML se denomina “mapa de involucrados”. Este es un análisis simple donde se registra el interés de los actores en el proyecto y sus implicaciones, pero existen herramientas más elaboradas como puede ser una matriz de expectativa-fuerza para contemplar los intereses, percepciones, expectativas y el grado de influencia de personas, grupos, comunidades o entidades; esto es muy importante porque permite, por un lado, optimizar los recursos y los beneficios del proyecto, además de potenciar el alcance, la eficacia y el impacto, y por otro lado, prevenir y mitigar los efectos negativos de o hacia otros actores contradictores o afectados, e incluso abordar conflictos de tal manera que el proyecto aporte a su solución.
 
     .row.my-4
-      p.text-center De acuerdo con lo propuesto por <strong>Ortegón et al. (2005)</strong>, el análisis debe proceder a:
+      p.text-center De acuerdo con lo propuesto por Ortegón et al. (2005), el análisis debe proceder a:
 
     TabsA.color-secundario.my-3
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="1. Visibilizar a los <br> involucrados")
@@ -271,13 +271,13 @@
     
     .row.align-items-center.my-5
       .col-lg-8.mb-2(data-aos="zoom-in-right")
-        p La herramienta del ejemplo anterior es susceptible de mejora aplicando, por ejemplo, la variable de expectativa fuerza, ampliando el espectro de la herramienta hasta especificar las estrategias (otra columna) que se emplearán para la mejora de la participación o la mitigación de efectos adversos y como se mencionó, incluso para la resolución de conflictos entre las partes involucradas o al interior de estas. Existen otras formas de evaluar la participación de los involucrados y que se pueden emplear en conjunto o en sustitución del análisis expectativa fuerza: <strong>poder-interés, influencia-impacto, poder-influencia, etc.</strong>
+        p La herramienta del ejemplo anterior es susceptible de mejora aplicando, por ejemplo, la variable de expectativa fuerza, ampliando el espectro de la herramienta hasta especificar las estrategias (otra columna) que se emplearán para la mejora de la participación o la mitigación de efectos adversos y como se mencionó, incluso para la resolución de conflictos entre las partes involucradas o al interior de estas. Existen otras formas de evaluar la participación de los involucrados y que se pueden emplear en conjunto o en sustitución del análisis expectativa fuerza: poder-interés, influencia-impacto, poder-influencia, etc.
         .row.align-items-center.grad1.p-3
           .col-lg-2
             figure
               img.my-3(data-aos="zoom-in-right",src='@/assets/curso/temas/tema2/img73.svg', alt='Imagen decorativa' width="64px" height="64px")
           .col-lg-7
-            h4 Análisis de Involucrados
+            h4 Análisis de involucrados
             .mb-0(style="font-size: 13px") Para la revisión de una herramienta más completa de análisis de involucrados incluyendo la aplicación de la matriz de expectativa-fuerza con ejemplos ilustrativos, diríjase a:
           .col-lg-3.text-center.my-3
             a.boton(:href="obtenerLink('/downloads/Analisis-de-Involucrados.pdf')" target="_blank" type="application/pdf")
@@ -298,9 +298,9 @@
           img(src='@/assets/curso/temas/tema2/img38.png', alt='Imagen decorativa')
       .col-lg-8.mb-2.my-3
         .cajon.color-primario.p-4(data-aos="slide-down",style="background: #EBF4FD")
-          p.mt-0 Muchas fuentes de información acerca del método EML usan un ejemplo recurrente de aplicación de la herramienta de <strong>“lluvia de ideas”</strong> (<em>brainstorming</em>) con el protagonismo de la misma población que es perfectamente válido, pero que se puede fortalecer por medio de la indagación del contexto de la problemática identificada, previamente al ejercicio de definición del problema central.
+          p.mt-0 Muchas fuentes de información acerca del método EML usan un ejemplo recurrente de aplicación de la herramienta de “lluvia de ideas” (<em>brainstorming</em>) con el protagonismo de la misma población que es perfectamente válido, pero que se puede fortalecer por medio de la indagación del contexto de la problemática identificada, previamente al ejercicio de definición del problema central.
         
-        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar <strong>esfuerzos proporcionales en la etapa de diagnóstico.</strong> El principal referente de este documento, Ortegón et al. (2005), aclara que la planificación nace de <strong>la percepción que se tiene de la problemática</strong> y que se puede dar en concordancia con los siguientes aspectos:
+        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar esfuerzos proporcionales en la etapa de diagnóstico. El principal referente de este documento, Ortegón et al. (2005), aclara que la planificación nace de la percepción que se tiene de la problemática y que se puede dar en concordancia con los siguientes aspectos:
     .row.justify-content-center
       .col-10
         .tarjeta--container.row.mb-5
@@ -355,13 +355,13 @@
       div.p-5.BGM02.fondo-degradado-2
         ul(style="list-style-position: outside; padding-left: 1.2em; text-indent: -0.6em;")
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
-              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Impactos ambientales adversos </strong> de las actividades productivas en todos los sectores de la economía.
+              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Impactos ambientales adversos</strong> de las actividades productivas en todos los sectores de la economía.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
-              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos directos o indirectos </strong> del conflicto armado o del dominio territorial de grupos armados.
+              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos directos o indirectos</strong> del conflicto armado o del dominio territorial de grupos armados.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos regresivos</strong> de políticas de desarrollo o coyunturales.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
-              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Consecuencias socioeconómicas</strong> derivadas de la pandemia por el virus Sars-COV-2.
+              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Consecuencias socioeconómicas</strong> derivadas de la pandemia por el virus SARS-CoV-2.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Aspectos inherentes a los efectos acumulados por décadas</strong> en cuanto a la concentración de la riqueza y la tierra, la pauperización del campesinado, el envejecimiento de la población rural, la migración masiva hacia las urbes, el deterioro del tejido social en la ruralidad, el despojo de la tierra, la capacidad productiva, los derechos y hasta los valores de la cultura rural, el desvanecimiento del relevo y empalme generacional, el rezago educativo para la población rural, el escaso acceso a los factores productivos y la tecnología para la productividad, la ausencia del estado y los programas sociales de los gobiernos en especial en la periferia, la inseguridad alimentaria y el hambre y malnutrición derivados de ésta, la inequidad de género, el deterioro del suelo aprovechable, los efectos del cambio climático sobre los ecosistemas por causas antrópicas, la huella de carbono generada por actividades como la ganadería extensiva, la contaminación de fuentes de agua, la ampliación de la frontera agrícola hacia zonas de reserva protegidas, el debilitamiento de la ciudadanía participativa, la lentitud en la migración hacia fuentes de energía renovables, la escasa infraestructura productiva para las actividades agropecuarias, entre otros.
 
@@ -372,14 +372,14 @@
 
     .row.align-items-center 
       .col-lg-8.my-2
-        p(data-aos="zoom-in-right") La identificación de problemas por parte de la misma comunidad afectada no solo es importante para la adecuada formulación de un plan de intervención exitoso, <strong>la participación de la población en el proceso de desarrollo es importante para la sostenibilidad de los procesos de mejora en las actividades productivas</strong>, ya que muchas veces el fracaso de los proyectos se atribuye a la falta de sentido de pertenencia de las comunidades con estos, porque algunas veces se hacen intervenciones sin contar siquiera con su opinión al respecto.
+        p(data-aos="zoom-in-right") La identificación de problemas por parte de la misma comunidad afectada no solo es importante para la adecuada formulación de un plan de intervención exitoso, la participación de la población en el proceso de desarrollo es importante para la sostenibilidad de los procesos de mejora en las actividades productivas, ya que muchas veces el fracaso de los proyectos se atribuye a la falta de sentido de pertenencia de las comunidades con estos, porque algunas veces se hacen intervenciones sin contar siquiera con su opinión al respecto.
         .cajon.color-terciario.p-4(style="background: #D8E9FB")
-          p.my-4 El paradigma del desarrollo desde abajo viene a contrarrestar las políticas de intervención desde los dirigentes nacionales y grandes actores internacionales <strong>(BM, FMI, tesoro nacional de USA, etc.)</strong> que a partir de los años 80 vienen fomentando la aplicación de políticas derivadas de la receta neoliberal (menor injerencia del estado y mayor orientación del mercado en las dinámicas socioeconómicas) producto del llamado “consenso de Washington”, con un <strong>rotundo fracaso en términos de impacto ambiental y aumento de la brecha social a escala continental.</strong>  
+          p.my-4 El paradigma del desarrollo desde abajo viene a contrarrestar las políticas de intervención desde los dirigentes nacionales y grandes actores internacionales (BM, FMI, tesoro nacional de USA, etc.) que a partir de los años 80 vienen fomentando la aplicación de políticas derivadas de la receta neoliberal (menor injerencia del estado y mayor orientación del mercado en las dinámicas socioeconómicas) producto del llamado “consenso de Washington”, con un rotundo fracaso en términos de impacto ambiental y aumento de la brecha social a escala continental.  
       .col-lg-4.my-2.col-md-8.mx-auto.my-3
         figure
           img(data-aos="zoom-in-left",src='@/assets/curso/temas/tema2/img45.png',  alt='')
 
-    p(data-aos="zoom-in-right").my-4 El extensionismo agropecuario, actividad que data del <strong>siglo XIX en Estados Unidos y Europa como una iniciativa de atención a la ruralidad desde los gobiernos con el apoyo del sector privado</strong>, especialmente el productor de tecnología, ha logrado avances muy interesantes y exitosos en el diseño y ejecución de procesos de intervención integrales más que asistenciales. Uno de los casos destacados en Colombia y la región es la <strong>Federación Nacional de Cafeteros</strong>. Producto de estas experiencias fortalecidas se encuentran metodologías centradas en la participación de la población, como el <strong>Diagnóstico Rural Participativo (DRP)</strong> y la planificación comunitaria, entre otros ejercicios como los realizados por el <strong>Servicio Nacional de Aprendizaje (SENA)</strong> en sus modelos de intervención hechos hasta la década de los años 90 (por efectos de las políticas coyunturales) a partir de los programas <strong>“Capacitación para la Participación Campesina (CAPACA)”,  “capacitación empresarial campesina”, “la capacitación para la organización y participación comunitaria”, “programa de extensión rural del convenio SENA-Gobierno de Holanda”</strong> y el trabajo  <strong>“SENA-Escuela Nacional de Formación Campesina ANUC-ENFOCA”</strong>, estrategias con productos que se pueden consultar en los repositorios institucionales. 
+    p(data-aos="zoom-in-right").my-4 El extensionismo agropecuario, actividad que data del siglo XIX en Estados Unidos y Europa como una iniciativa de atención a la ruralidad desde los gobiernos con el apoyo del sector privado, especialmente el productor de tecnología, ha logrado avances muy interesantes y exitosos en el diseño y ejecución de procesos de intervención integrales más que asistenciales. Uno de los casos destacados en Colombia y la región es la Federación Nacional de Cafeteros. Producto de estas experiencias fortalecidas se encuentran metodologías centradas en la participación de la población, como el Diagnóstico Rural Participativo (DRP) y la planificación comunitaria, entre otros ejercicios como los realizados por el Servicio Nacional de Aprendizaje (SENA) en sus modelos de intervención hechos hasta la década de los años 90 (por efectos de las políticas coyunturales) a partir de los programas “Capacitación para la Participación Campesina (CAPACA)”, “capacitación empresarial campesina”, “la capacitación para la organización y participación comunitaria”, “programa de extensión rural del convenio SENA - Gobierno de Holanda” y el trabajo “SENA - Escuela Nacional de Formación Campesina ANUC-ENFOCA”, estrategias con productos que se pueden consultar en los repositorios institucionales. 
     .row.justify-content-center
       hr.mt-3.justify-content-center(style="background:#FF9751; width: 80%; height: 2px")
 
@@ -400,9 +400,9 @@
             figure
               img(src="@/assets/curso/temas/tema2/img46.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
-            p.m-0 El <strong>DRP</strong> es una metodología recomendable para la <strong>autogestión del desarrollo de las comunidades, lo que supone también la autodeterminación, un valor importante de resaltar</strong>. Posee de manera inherente ventajas que dependen directamente del grado de participación de los involucrados, entre las que se encuentran la <strong>eficacia en el levantamiento de datos de campo, la verificabilidad, confiabilidad, profundidad y suficiencia de la información obtenida.</strong>
+            p.m-0 El <strong>DRP</strong> es una metodología recomendable para la autogestión del desarrollo de las comunidades, lo que supone también la autodeterminación, un valor importante de resaltar. Posee de manera inherente ventajas que dependen directamente del grado de participación de los involucrados, entre las que se encuentran la eficacia en el levantamiento de datos de campo, la verificabilidad, confiabilidad, profundidad y suficiencia de la información obtenida.
     
-    p.my-4 También ayuda a sensibilizar y motivar la participación de la población ante la posible intervención, fomenta la creatividad en las propuestas de solución y puede conllevar un alto impacto de las propuestas respetando la cultura y la forma de ser de la población, así como complementariedad con la información obtenida de fuentes secundarias. Algunos aspectos a tener en cuenta son, por un lado, la necesidad de <strong>un equipo multidisciplinario que planifique el diagnóstico</strong> y por otro de <strong>recursos y tiempo para el trabajo de campo.</strong> Según Expósito (2003), el DRP consta de siete pasos para su realización: 
+    p.my-4 También ayuda a sensibilizar y motivar la participación de la población ante la posible intervención, fomenta la creatividad en las propuestas de solución y puede conllevar un alto impacto de las propuestas respetando la cultura y la forma de ser de la población, así como complementariedad con la información obtenida de fuentes secundarias. Algunos aspectos a tener en cuenta son, por un lado, la necesidad de un equipo multidisciplinario que planifique el diagnóstico y por otro de recursos y tiempo para el trabajo de campo. Según Expósito (2003), el DRP consta de siete pasos para su realización: 
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-3")
       .row.align-items-center(titulo="1. Delimitar la población objetivo")
@@ -454,7 +454,7 @@
 
           .row.my-3
             .col-lg-6
-              p(data-aos="zoom-in-right") Existen otras metodologías, por ejemplo la propuesta hecha por Orlando Fals Borda en 1977, denominada <strong>“Investigación-Acción-Participación” (IAP)</strong>, que centraliza la persona y no el objeto de la investigación. Otras metodologías pueden enfocarse a grupos pequeños como los familiares, es el caso de la Planificación Predial Participativa (PPP) o a organizaciones y empresas rurales como el <strong>“Índice de Capacidades Organizacionales de la Unión Europea” (ICO)</strong> y la <strong>“Medición del Emprendimiento Rural” (MER)</strong> de la FAO que incorporan todas las distintas áreas que componen una organización formal.
+              p(data-aos="zoom-in-right") Existen otras metodologías, por ejemplo la propuesta hecha por Orlando Fals Borda en 1977, denominada “Investigación - Acción - Participación” (IAP), que centraliza la persona y no el objeto de la investigación. Otras metodologías pueden enfocarse a grupos pequeños como los familiares, es el caso de la Planificación Predial Participativa (PPP) o a organizaciones y empresas rurales como el “Índice de Capacidades Organizacionales de la Unión Europea” (ICO) y la “Medición del Emprendimiento Rural” (MER) de la FAO que incorporan todas las distintas áreas que componen una organización formal.
             .col-lg-6
               p(data-aos="zoom-in-right") La gestión de la información, en todo caso, debe ser organizada y metódica, siguiendo la ruta datos - información - conocimiento; es decir, como un proceso de investigación básico y para ello existen diversas herramientas (de las que habla el punto cinco del ciclo de siete pasos del DRP), que pueden aplicarse en la amplitud de las actividades rurales. Algunas son muy versátiles como las entrevistas y las lluvias de ideas, otras más específicas como los mapas de recursos, las caracterizaciones de las actividades productivas mediante mapeos y los calendarios de producción, otras más enfocadas a aspectos de género o de comunicación, sociales u otros. 
 
@@ -477,9 +477,9 @@
     
     .row.my-3.align-items-center
       .col-lg-7
-        p(data-aos="zoom-in-right") El objetivo del proceso de diagnóstico es <strong>identificar y definir muy bien una serie de problemas de diversa índole</strong>, donde una vez colectados, se tienen dos situaciones posibles: que se identifique fácilmente el problema central o que no se tenga claro. En el primer caso, podemos pasar al siguiente punto, el análisis causal (causa-efecto), donde el EML nos introduce a la técnica de árboles, la más adecuada, aunque existan otras formas de análisis causa-efecto.
+        p(data-aos="zoom-in-right") El objetivo del proceso de diagnóstico es identificar y definir muy bien una serie de problemas de diversa índole, donde una vez colectados, se tienen dos situaciones posibles: que se identifique fácilmente el problema central o que no se tenga claro. En el primer caso, podemos pasar al siguiente punto, el análisis causal (causa - efecto), donde el EML nos introduce a la técnica de árboles, la más adecuada, aunque existan otras formas de análisis causa-efecto.
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 En el segundo caso, donde no se tiene definido el problema central, es necesario como siguiente paso <strong>analizar la relación entre los problemas de forma bidireccional</strong>; es decir, escudriñar en la correlación entre los distintos problemas (aquí variables) a fin de establecer el grado de influencia y/o dependencia entre ellos, el método, desarrollado por el alemán <strong>Frederic Vester (1925 - 2003)</strong>, se fundamenta en la matemática (teoría de matrices) estableciendo un valor numérico dentro de un rango determinado que normalmente es [0 - 3] proporcional al grado de influencia a discreción del analista (0 para una influencia nula o indirecta y 3 para una influencia marcada o directa).
+          p.mt-0 En el segundo caso, donde no se tiene definido el problema central, es necesario como siguiente paso analizar la relación entre los problemas de forma bidireccional; es decir, escudriñar en la correlación entre los distintos problemas (aquí variables) a fin de establecer el grado de influencia y/o dependencia entre ellos, el método, desarrollado por el alemán Frederic Vester (1925 - 2003), se fundamenta en la matemática (teoría de matrices) estableciendo un valor numérico dentro de un rango determinado que normalmente es [0 - 3] proporcional al grado de influencia a discreción del analista (0 para una influencia nula o indirecta y 3 para una influencia marcada o directa).
 
       .col-lg-5.mt-4.col-md-8.mx-auto
         figure
@@ -492,9 +492,9 @@
             figure
               img(src="@/assets/curso/temas/tema2/img55.svg", alt="", width= "100px", height="100px")
           .col.my-3(style="z-index:1")
-            p.m-0 Así, a la relación entre los problemas, que son cualitativos, se le atribuye <strong>una magnitud y del ordenamiento matricial</strong> de estos valores, se puede identificar la variable (problema) con mayor influencia en relación a las demás. En resumen, la matriz de Vester, también llamada matriz de <strong>influencia-dependencia (ID)</strong> nos permite <strong>identificar el problema central y tres grupos más o menos diferenciados</strong> (causas, consecuencias y supuestos). Una consideración importante es que la herramienta es eficaz cuando se consideran al menos 13 problemas (mínimo grado en el que adquiere significancia el tratamiento de los datos).
+            p.m-0 Así, a la relación entre los problemas, que son cualitativos, se le atribuye una magnitud y del ordenamiento matricial de estos valores, se puede identificar la variable (problema) con mayor influencia en relación a las demás. En resumen, la matriz de Vester, también llamada matriz de influencia-dependencia (ID) nos permite identificar el problema central y tres grupos más o menos diferenciados (causas, consecuencias y supuestos). Una consideración importante es que la herramienta es eficaz cuando se consideran al menos 13 problemas (mínimo grado en el que adquiere significancia el tratamiento de los datos).
     
-    p.text-center Antes de proseguir con la descripción del método paso por paso vale la pena enfatizar en las siguientes aclaraciones a la hora de <strong>redactar los problemas:</strong>
+    p.text-center Antes de proseguir con la descripción del método paso por paso vale la pena enfatizar en las siguientes aclaraciones a la hora de redactar los problemas:
     
     .row.justify-content-center
       hr.mt-3.justify-content-center(style="background:#FF9751; width: 80%; height: 2px")
@@ -514,8 +514,8 @@
           span Recomendaciones para la correcta definición de un problema.
 
         figure
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-none.d-lg-block
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Muestra los Aspectos para identificar problemáticas, según: La aplicación de una política de desarrollo.  Ej. Agenda 2030  o el Plan Nacional. Recuperación de infraestructura. Necesidades o carencias en la población afectada. Bajos niveles de desarrollo. Condiciones de vida deficitarias. Efectos de la globalización de la economía y de tratados comerciales internacionales. ').d-block.d-lg-none                
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los mas simples hasta los que son casi imposibles.').d-none.d-lg-block
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los mas simples hasta los que son casi imposibles.').d-block.d-lg-none                
         figcaption Nota. Tomado de SENA (2021).
 
     .row.align-items-center 
@@ -529,12 +529,13 @@
         p Redactar, ordenar y numerar los problemas detectados en el diagnóstico. (La numeración ayudará a identificarlos fácilmente).
       .row(numero="2" titulo="Paso 2")
         .col-lg-12.mb-4.mb-md-0
-          p Se procede a la construcción de la matriz <strong>enfrentando los problemas en ambos ejes</strong> como se muestra en la tabla 4. En la intersección de los problemas contra sí mismos, se pone el valor de cero. El problema debe estar redactado de manera <strong>muy precisa.</strong> 
+          p Se procede a la construcción de la matriz enfrentando los problemas en ambos ejes como se muestra en la tabla 4. En la intersección de los problemas contra sí mismos, se pone el valor de cero. El problema debe estar redactado de manera <strong>muy precisa.</strong> 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 4.
             span Ejemplo de estructura de la matriz de influencia-dependencia (Véster)
-          .tabla-b.color-acento-botones
+          .tabla-b.color-acento-botones.tabla-vester-sencilla
             table(style="background-color: white")
+              caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
               thead
                 tr(style='background-color: #006555')
                   th 
@@ -579,15 +580,15 @@
                   td
                   td
                   td 0
-            figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
       .row(numero="3" titulo="Paso 3")
         .col-lg-12.mb-4.mb-md-0
-          p Se asigna la puntuación empezando por <strong>la fila superior de izquierda a derecha</strong>, teniendo en cuenta que esta ponderación corresponde al grado de influencia del problema de la fila con respecto a cada problema de las columnas. Al establecer las relaciones de causalidad, es importante considerar una relación directa entre los problemas. Una forma de verificar que el ejercicio se está haciendo bien es que al terminar de asignar valores, no más del 30 % de ellos corresponde a un valor de tres (3); caso contrario, existe un sesgo atribuible a la falta de definición de los problemas o a la consideración de causas indirectas entre ellos. Se puede hacer esta pregunta cada vez que se confronten los problemas: <strong>¿Cómo influye el problema 1 sobre el problema 2?; ¿Cómo influye el problema 1 sobre el problema 3?</strong>, y así sucesivamente… el orden se establece en las filas, de superior a inferior. Para el valor a asignarse puede usar la siguiente escala:
+          p Se asigna la puntuación empezando por la fila superior de izquierda a derecha, teniendo en cuenta que esta ponderación corresponde al grado de influencia del problema de la fila con respecto a cada problema de las columnas. Al establecer las relaciones de causalidad, es importante considerar una relación directa entre los problemas. Una forma de verificar que el ejercicio se está haciendo bien es que al terminar de asignar valores, no más del 30 % de ellos corresponde a un valor de tres (3); caso contrario, existe un sesgo atribuible a la falta de definición de los problemas o a la consideración de causas indirectas entre ellos. Se puede hacer esta pregunta cada vez que se confronten los problemas: ¿Cómo influye el problema 1 sobre el problema 2?; ¿Cómo influye el problema 1 sobre el problema 3?, y así sucesivamente… el orden se establece en las filas, de superior a inferior. Para el valor a asignarse puede usar la siguiente escala:
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 5.
             span Escala de valores
           .tabla-b
             table.text-center
+              caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
               thead
                 tr(style='background-color: #006555')
                   th(style="width: 20%").text-white Valor
@@ -605,15 +606,15 @@
                 tr(style="background-color: #E9E9E9")
                   td 3
                   td Existe una influencia fuerte entre el primer y segundo problema.
-            figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
       .row(numero="4" titulo="Paso 4")
         .col-lg-12.mb-4.mb-md-0
-          p Una vez llena la matriz, se agrega <strong>una columna y una fila</strong> para registrar las sumatorias de valores de las filas y las columnas, los valores de la columna representan las magnitudes de las influencias y los de la fila representan los de las dependencias. A continuación un ejemplo: 
+          p Una vez llena la matriz, se agrega una columna y una fila para registrar las sumatorias de valores de las filas y las columnas, los valores de la columna representan las magnitudes de las influencias y los de la fila representan los de las dependencias. A continuación un ejemplo: 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 6.
             span Llenado de la matriz de influencia- dependencia (Véster)
-          .tabla-b.color-acento-contenido
+          .tabla-b.color-acento-contenido.tabla-vester
             table(style="background-color: white")
+              caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
               thead
                 tr(style='background-color: #006555')
                   th.text-white
@@ -939,15 +940,15 @@
                   td 2
                   td 11
                   td 
-          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
       .row(numero="5" titulo="Paso 5")
         .col-lg-12.mb-4.mb-md-0
-          p Al tener ya las sumatorias, se procede a <strong>graficar</strong> estos valores. Se usa un <strong>plano cartesiano</strong> donde la intersección de los ejes corresponde al valor promedio de las dependencias e influencias. Cada cuadrante representa un tipo de problema; el primer cuadrante de la figura corresponde a los problemas pasivos, el segundo a los críticos, el tercero a los exógenos o estructurales (posteriormente se pueden usar como supuestos en la <strong>MML</strong>) y el cuarto representa las causas. 
+          p Al tener ya las sumatorias, se procede a <strong>graficar</strong> estos valores. Se usa un plano cartesiano donde la intersección de los ejes corresponde al valor promedio de las dependencias e influencias. Cada cuadrante representa un tipo de problema; el primer cuadrante de la figura corresponde a los problemas pasivos, el segundo a los críticos, el tercero a los exógenos o estructurales (posteriormente se pueden usar como supuestos en la <strong>MML</strong>) y el cuarto representa las causas. 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 7.
             span Esquema de definición de cuadrantes en relación a la influencia y la dependencia
           .tabla-b.color-acento-contenido
             table(style="background-color: white")
+              caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
               thead
                 tr 
                   td(style="background-color:  #006555; vertical-align: middle;" rowspan="3").text-white <strong>Dependencia</strong>
@@ -958,11 +959,9 @@
                   td <strong>Cuadrante 4</strong> - Problemas activos o las causas del problema central                     
                 tr
                   td(colspan="2" style="text-align: center;") Influencia
-          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
-
     .bg-full-width.row.align-items-center(style="background: #FFF6DE")
       .col-lg-4
-        p En el ejemplo del punto cuatro, <strong>el problema uno se encuentra en el cuadrante dos de los problemas críticos y al estar aislado nos da la certeza de ser el problema central.</strong> En caso de que exista más de un problema en este cuadrante, podemos suponer que el problema central estará más alejado de la intersección del plano.
+        p En el ejemplo del punto cuatro, el problema uno se encuentra en el cuadrante dos de los problemas críticos y al estar aislado nos da la certeza de ser el problema central. En caso de que exista más de un problema en este cuadrante, podemos suponer que el problema central estará más alejado de la intersección del plano.
       .col-lg-8.p-2.my-3
         .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 4.
@@ -982,13 +981,13 @@
           img.my-3(src="@/assets/curso/temas/tema2/img61.png", alt="")
       .col-lg-8
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #F6FCFA")
-          p.mt-0 El problema central ya definido anteriormente es el <strong>punto de partida del análisis a efectuar con la herramienta de árboles</strong>, aunque existan otras herramientas de análisis causa-efecto como el método del <strong>“diagrama de flechas” (ADM)</strong> el <strong>“método de la ruta crítica” (CPM)</strong> el <strong>“método del diagrama de precedencias” (PDM) “la técnica de revisión y evaluación de programas” (PERT)</strong> que son métodos complejos usados sobre todo en análisis en el contexto de la industria; además, hay otros más amigables como pueden ser el <strong>“diagrama de Pareto”</strong> o el <strong>“diagrama de Ishikawa” (espina de pescado)</strong>; de todos estos el <strong>“método de árboles”</strong> es el que resulta, en efecto, más conveniente para su aplicación en el EML. 
+          p.mt-0 El problema central ya definido anteriormente es el punto de partida del análisis a efectuar con la herramienta de árboles, aunque existan otras herramientas de análisis causa-efecto como el método del “diagrama de flechas” (ADM), el “método de la ruta crítica” (CPM), el “método del diagrama de precedencias” (PDM) y “la técnica de revisión y evaluación de programas” (PERT), que son métodos complejos usados sobre todo en análisis en el contexto de la industria; además, hay otros más amigables como pueden ser el “diagrama de Pareto” o el “diagrama de Ishikawa” (espina de pescado); de todos estos el “método de árboles” es el que resulta, en efecto, más conveniente para su aplicación en el EML. 
       
     .row.my-4.mb-4
       .col-lg-6
-        p(data-aos="zoom-in-right") Es importante tener en cuenta que <strong>no hay un problema central definitivo o absoluto</strong> sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que <strong>no existe una manera única de abordar una problemática</strong> y por tanto, existen <strong>varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto.</strong> Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente en relación siempre a la capacidad de solucionarlo.
+        p(data-aos="zoom-in-right") Es importante tener en cuenta que no hay un problema central definitivo o absoluto sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que no existe una manera única de abordar una problemática y por tanto, existen varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto. Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente en relación siempre a la capacidad de solucionarlo.
       .col-lg-6
-        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a <strong>una mejor manera de organizar la información</strong> obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posibles. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de la herramienta no es fácil de abordar desde el contexto de la ruralidad, los anteriores pasos son la forma de <strong>producir insumos de calidad</strong> (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
+        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a una mejor manera de organizar la información obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posibles. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de la herramienta no es fácil de abordar desde el contexto de la ruralidad, los anteriores pasos son la forma de producir insumos de calidad (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
 
     .row.align-items-center
       //- Subtitulo
@@ -1022,8 +1021,8 @@
           h5 Figura 5.
           span Ejemplo de causa y efecto
         figure
-          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img6.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
-          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img6-movil.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios. Capacidad limitada de negociación de bienes y / o servicios.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img6.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img6-movil.svg", alt="Se muestra un ejemplo de causa y efecto, así: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y / o servicios.")
           figcaption Nota. Ejemplo de causa y efecto. Bernal (2021). 
       
     .row.align-items-center.my-4
@@ -1049,11 +1048,11 @@
           h5 Figura 7.
           span Ejemplo de causas directas e indirectas
         figure
-          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img12.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
-          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="En la figura se muestra un ejemplo de causas directas e indirectas, de acuerdo a: Causas directas. Deficientes prácticas de separación de materiales. Ineficientes espacios para la valorización de residuos sólidos. Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img12.svg", alt="Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p Una vez identificados todos los efectos y causas del problema central, <strong>se integra toda la información en un solo cuadro</strong> que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa <strong>(Ortegón et al., 2005).</strong>
+      p Una vez identificados todos los efectos y causas del problema central, se integra toda la información en un solo cuadro que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa (Ortegón et al., 2005).
 
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1061,8 +1060,8 @@
           h5 Figura 8.
           span Ejemplo de árbol de problemas
         figure
-          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
-          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img13-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces). A continuación se amplia la información.")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img13-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces). A continuación se amplia la información.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
         
     .row.my-3.align-items-center 
@@ -1072,7 +1071,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img62.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
-            p.m-0 Para avanzar en la elaboración de la propuesta se debe realizar <strong>una descripción más completa del problema</strong> usando todos los elementos definidos como causas y efectos, reforzando estas ideas con información documentada de la zona de estudio, los antecedentes del problema y de anteriores intervenciones, factores agravantes, prospectivas (estimaciones de los efectos por  la prolongación del problema en el tiempo), condiciones actuales del problema y demás datos que refuercen la idea del problema central. El ejemplo tomado del documento oficial del DNP que usamos anteriormente reza así:
+            p.m-0 Para avanzar en la elaboración de la propuesta se debe realizar una descripción más completa del problema usando todos los elementos definidos como causas y efectos, reforzando estas ideas con información documentada de la zona de estudio, los antecedentes del problema y de anteriores intervenciones, factores agravantes, prospectivas (estimaciones de los efectos por  la prolongación del problema en el tiempo), condiciones actuales del problema y demás datos que refuercen la idea del problema central. El ejemplo tomado del documento oficial del DNP que usamos anteriormente reza así:
     .row.justify-content-center
       hr(style="background:#FF9751; height: 2px; width: 79%")
     .row.align-items-center.my-3
@@ -1085,7 +1084,7 @@
           p.bloque-texto-f__texto Esta situación se explica en gran medida por las inadecuadas prácticas de separación de los residuos de los hogares, el comercio y la industria local, por la forma en la que operan las rutas de transporte para su recolección. Los vehículos compactadores terminan mezclando los residuos orgánicos e inorgánicos, por las restricciones de espacios adecuados y dotados con las condiciones tecnológicas para la valorización de diferentes tipos de residuos. <br><br>
           p.bloque-texto-f__texto También las dificultades organizativas y de intermediación comercial con las que operan regularmente 85 personas identificadas como recuperadores informales dedicados al oficio del reciclaje. <br><br>
           p.bloque-texto-f__texto La situación tiende a agravarse en la medida que crece anualmente la generación de residuos en aproximadamente un 3 % anual sin que el plástico, el papel, el vidrio, los metales y los residuos orgánicos se aprovechen y se reincorporen al ciclo productivo. Esto implica una mayor explotación de los recursos naturales para la obtención de estas materias primas y está llevando progresivamente al agotamiento de la vida útil del relleno sanitario donde se disponen los residuos con consecuencias negativas para el medio ambiente y la salud pública. Los afluentes se ven contaminados por la escorrentía de los lixiviados de los materiales orgánicos, la atmósfera por la emisión de gases de efecto invernadero (GEI) y las personas de la zona por la presencia de vectores de transmisión de enfermedades.<br><br>
-          p.bloque-texto-f__texto Adicionalmente, el aumento en la demanda del servicio de disposición final de residuos también ha venido representando el incremento del 15 % en la tarifa de aseo que los usuarios del sistema tienen que pagar periódicamente según estimaciones realizadas por la unidad de servicios públicos domiciliarios. También la pérdida de ingresos que de otra forma podrán generarse gracias a la posibilidad de venta de materiales recuperados según las cifras de comercialización que han sido estimadas mediante el estudio de mercado que se presenta más adelante. <strong>(DNP, 2016, p.18)</strong>.
+          p.bloque-texto-f__texto Adicionalmente, el aumento en la demanda del servicio de disposición final de residuos también ha venido representando el incremento del 15 % en la tarifa de aseo que los usuarios del sistema tienen que pagar periódicamente según estimaciones realizadas por la unidad de servicios públicos domiciliarios. También la pérdida de ingresos que de otra forma podrán generarse gracias a la posibilidad de venta de materiales recuperados según las cifras de comercialización que han sido estimadas mediante el estudio de mercado que se presenta más adelante. (DNP, 2016, p.18).
 
 
     .row.align-items-center.my-3.mb-4
@@ -1103,11 +1102,9 @@
 
     .row.mt-3.mb-4.align-items-center
       .col-lg-8
-        span Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, 
-        strong(style="color: #0B481E") en el árbol de objetivos se procede en primer lugar a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva
-        span , expresando las mismas condiciones pero de la manera deseada o esperada.
-        p.mt-3 Esta "transmutación" de los problemas se realiza bajo el mismo esquema de árbol, <strong>conservando el sentido y lógica causal del relacionamiento de los problemas.</strong>
-        p.mb-3 Así, <strong>el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos</strong> y más adelante será el objetivo general o <strong>“fin”</strong> del proyecto; abajo las causas directas se tornarán en <strong>“medios”</strong> para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo las causas indirectas se convertirán en <strong>“productos y resultados”</strong> del árbol de objetivos y darán lugar a los <strong>“componentes”</strong> del proyecto y en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
+        p Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, #[strong(style="color: #0B481E") en el árbol de objetivos se procede en primer lugar a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva], expresando las mismas condiciones pero de la manera deseada o esperada.
+        p.mt-3 Esta "transmutación" de los problemas se realiza bajo el mismo esquema de árbol, conservando el sentido y lógica causal del relacionamiento de los problemas.
+        p.mb-3 Así, el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos y más adelante será el objetivo general o <strong>“fin”</strong> del proyecto; abajo las causas directas se tornarán en <strong>“medios”</strong> para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo las causas indirectas se convertirán en “productos y resultados” del árbol de objetivos y darán lugar a los “componentes” del proyecto y en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
 
       .col-lg-4.col-md-8.mx-auto
         figure
@@ -1116,7 +1113,7 @@
     .row.align-items-center.my-3
       .col-lg-12.m-auto
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #EEFBF5")
-          p.mt-0 Hasta aquí hablamos de la parte inferior del árbol. Los efectos directos en la parte superior del árbol corresponden con <strong>los fines últimos a los que contribuirá el proyecto.</strong> Una recomendación muy importante es que los objetivos deben ser alcanzables, no se debe plantear, por ejemplo, acabar con el hambre en la región o llevar a la población hacia altos niveles de desarrollo pues estos planteamientos deben ser muy objetivos, sensatos y mesurados. En caso de ejecutarse el proyecto, serán <strong>compromisos adquiridos</strong> a los cuales debe respaldar una garantía de cumplimiento.
+          p.mt-0 Hasta aquí hablamos de la parte inferior del árbol. Los efectos directos en la parte superior del árbol corresponden con los fines últimos a los que contribuirá el proyecto. Una recomendación muy importante es que los objetivos deben ser alcanzables, no se debe plantear, por ejemplo, acabar con el hambre en la región o llevar a la población hacia altos niveles de desarrollo pues estos planteamientos deben ser muy objetivos, sensatos y mesurados. En caso de ejecutarse el proyecto, serán compromisos adquiridos a los cuales debe respaldar una garantía de cumplimiento.
     
     .row.mt-5.mb-4.align-items-center
       .col-lg-10.m-auto
@@ -1155,4 +1152,34 @@ export default {
   min-height: 130px
 .bloque-texto-b.color-primario.p-4::before
   background-color: #FFF8DA
+
+.tabla-vester
+  table
+    table-layout: auto !important
+  tr, td, th
+    border: 1px solid #e8e8e8 !important
+  th, td
+    padding: 8px 4px !important
+    font-size: 0.82em
+    text-align: center
+  th
+    width: auto !important
+  td:nth-child(2), th:nth-child(2)
+    text-align: left
+    min-width: 190px
+
+.tabla-vester-sencilla
+  table
+    table-layout: auto !important
+  tr, td, th
+    border: 1px solid #e8e8e8 !important
+  th, td
+    padding: 12px 10px !important
+    font-size: 0.82em
+    text-align: center
+  th
+    width: auto !important
+  td:first-child, th:first-child
+    text-align: left
+    min-width: 120px
 </style>
