@@ -52,15 +52,18 @@ table
       color: $white
 
   table
-    table-layout: fixed
+    table-layout: auto
     min-width: 700px
   tr
     &:nth-child(even)
       background-color: transparentize($color-sistema-f, 0.6)
 
-  td, th
-    border: none
-    padding: 20px 40px
+    td, th
+      border: none
+      padding: 20px 40px
+      word-wrap: break-word
+      overflow-wrap: break-word
+      white-space: normal
 
   th
     width: 200px

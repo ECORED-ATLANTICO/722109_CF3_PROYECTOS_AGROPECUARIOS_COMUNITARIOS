@@ -527,6 +527,7 @@
       span Herramienta de selección de indicadores
     .tabla-b.color-acento-contenido.mb-5
       table
+        caption Nota. <strong class="text-regular">Tomado de la guía de proyectos del DNP (2017).</strong>
         thead
           tr(style='background-color: #D8E9FB')
             th Nivel
@@ -564,7 +565,6 @@
             td
             td
             td
-      figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2017).
 
     p.pt-4  Para la determinación de los medios de verificación la misma guía nos indica que es necesario identificar y definir las fuentes de información, las herramientas y los métodos usados para comprobar el estado de progreso del proyecto, siendo esta columna el fundamento del sistema de monitoreo y evaluación del proyecto.
     p Al igual que para los indicadores en la <strong>MML</strong> no se ubican los medios de verificación para las actividades, solo para los objetivos y resultados: aquí se deben especificar la ubicación de las fuentes de información de ejecución del presupuesto asignado, para efectuar el respectivo monitoreo.
@@ -580,6 +580,7 @@
       span Ejemplos de análisis de riesgos
     .tabla-b.color-acento-contenido.mb-5
       table
+        caption Nota. <span class="text-regular">SENA, (2026).</span>
         thead
           tr(style='background-color: #D8E9FB')
             th Tipo (Físico, ergonómico, logístico, biológico, químico, psicosocial, climático, político, legal, etc.)
@@ -598,17 +599,97 @@
             td(style='background-color: #E4E4E4') Crítico.
 
     .row.mt-5.mb-4.align-items-center
-      .col-lg-10.m-auto
+      .col-lg-12.m-auto
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 13.
           span Modelo de matriz de evaluación de riesgos
-        
-        h3.text-center.mb-2 Matriz de evaluación de riesgos
-        figure 
-          img(src='@/assets/curso/temas/tema3/img18.svg', alt='Para describir con un ejemplo la matriz de riesgos, se tiene en cuenta el impacto, la probabilidad de ocurrencia y se describe si es riesgo crítico, grave, apreciable y marginal.')
 
-          figcaption.my-3.text-regular <strong>Nota.</strong> Adaptación de Bernal (2021).
+        .tabla-b.color-acento-contenido.mb-4
+          table(style="min-width: 800px; border-collapse: collapse")
+            caption Nota. <span class="text-regular">Adaptación de Bernal (2021).</span>
 
+            thead
+              tr(style='background-color: #F6F6F6')
+                th(rowspan='2' colspan='3' style='border-top: none; border-left: none; border-right: 1px solid #D3D3D3; border-bottom: 1px solid #D3D3D3; background-color: #FFFFFF')
+                th(colspan='5' class='text-center' style='border: 1px solid #D3D3D3; font-size: 1.1em; font-weight: bold; background-color: #F6F6F6; color: #12263F; padding: 10px') Gravedad del impacto
+              tr(style='background-color: #F6F6F6')
+                th(style='border: 1px solid #D3D3D3; text-align: center; color: #0A3A6B; background-color: #F6F6F6; font-weight: bold; padding: 10px') Despreciable (1)
+                th(style='border: 1px solid #D3D3D3; text-align: center; color: #0A3A6B; background-color: #F6F6F6; font-weight: bold; padding: 10px') Considerable (2)
+                th(style='border: 1px solid #D3D3D3; text-align: center; color: #0A3A6B; background-color: #F6F6F6; font-weight: bold; padding: 10px') Importante (3)
+                th(style='border: 1px solid #D3D3D3; text-align: center; color: #0A3A6B; background-color: #F6F6F6; font-weight: bold; padding: 10px') Grave (4)
+                th(style='border: 1px solid #D3D3D3; text-align: center; color: #0A3A6B; background-color: #F6F6F6; font-weight: bold; padding: 10px') Catastrófica (5)
+            tbody
+              tr
+                td(rowspan='5' style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; width: 18%; vertical-align: middle; color: #12263F; padding: 10px') Probabilidad de ocurrencia
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; width: 18%; color: #0A3A6B; padding: 10px') Muy alta (81-100%)
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; width: 6%; color: #0A3A6B; padding: 10px') 5
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 5
+                td(style='border: 1px solid #D3D3D3; background-color: #FF9300; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 10
+                td(style='border: 1px solid #D3D3D3; background-color: #FF8000; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 15
+                td(style='border: 1px solid #D3D3D3; background-color: #FF0000; text-align: center; font-weight: bold; color: #FFFFFF; padding: 10px') 20
+                td(style='border: 1px solid #D3D3D3; background-color: #FF0000; text-align: center; font-weight: bold; color: #FFFFFF; padding: 10px') 25
+              tr
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; color: #0A3A6B; padding: 10px') Alta (61-80%)
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 4
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 4
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 8
+                td(style='border: 1px solid #D3D3D3; background-color: #FF9300; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 12
+                td(style='border: 1px solid #D3D3D3; background-color: #FF9300; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 16
+                td(style='border: 1px solid #D3D3D3; background-color: #FF0000; text-align: center; font-weight: bold; color: #FFFFFF; padding: 10px') 20
+              tr
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; color: #0A3A6B; padding: 10px') Media (41-60%)
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 3
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 3
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 6
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 9
+                td(style='border: 1px solid #D3D3D3; background-color: #FF9300; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 12
+                td(style='border: 1px solid #D3D3D3; background-color: #FF8000; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 15
+              tr
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; color: #0A3A6B; padding: 10px') Baja (21-40%)
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 2
+                td(style='border: 1px solid #D3D3D3; background-color: #FFF; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 2
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 4
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 6
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 8
+                td(style='border: 1px solid #D3D3D3; background-color: #FF9300; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 12
+              tr
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; color: #0A3A6B; padding: 10px') Muy baja (<20%)
+                td(style='border: 1px solid #D3D3D3; background-color: #F6F6F6; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 1
+                td(style='border: 1px solid #D3D3D3; background-color: #FFF; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 1
+                td(style='border: 1px solid #D3D3D3; background-color: #FFF; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 2
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 3
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 4
+                td(style='border: 1px solid #D3D3D3; background-color: #FAFCA3; text-align: center; font-weight: bold; color: #0A3A6B; padding: 10px') 5
+
+    
+
+    div(style='display:flex; flex-direction:column; gap:1rem; margin:1.5rem 0;')
+      div(style='display:flex; flex-direction:row; align-items:center; gap:1rem;')
+        span(style='display:block; min-width:80px; width:80px; height:40px; background-color:#FF0000; border:1px solid #ccc; flex-shrink:0;')
+        div
+          p(style='margin:0;')
+            b Riesgo crítico
+          p(style='margin:0;') Requiere medidas preventivas urgentes. No se debe iniciar el proyecto sin la confirmación de su prevención o mitigación hasta niveles aceptables.
+      div(style='display:flex; flex-direction:row; align-items:center; gap:1rem;')
+        span(style='display:block; min-width:80px; width:80px; height:40px; background-color:#FF8000; border:1px solid #ccc; flex-shrink:0;')
+        div
+          p(style='margin:0;')
+            b Riesgo grave
+          p(style='margin:0;') Requiere medidas preventivas obligatorias. Se deben controlar fuertemente las variables del riesgo durante el proyecto y diseñar un plan de mitigación.
+      div(style='display:flex; flex-direction:row; align-items:center; gap:1rem;')
+        span(style='display:block; min-width:80px; width:80px; height:40px; background-color:#FAFCA3; border:1px solid #ccc; flex-shrink:0;')
+        div
+          p(style='margin:0;')
+            b Riesgo apreciable
+          p(style='margin:0;') Estudiar y aplicar las posibles medidas preventivas para reducir el nivel de riesgo. Se deben monitorear y controlar las variables.
+      div(style='display:flex; flex-direction:row; align-items:center; gap:1rem;')
+        span(style='display:block; min-width:80px; width:80px; height:40px; background-color:#FFFFFF; border:1px solid #ccc; flex-shrink:0;')
+        div
+          p(style='margin:0;')
+            b Riesgo marginal
+          p(style='margin:0;') Se vigilará aunque no requiera medidas preventivas de partida.
+
+      
     .row.mt-5.mb-4.align-items-center
       .col-md-8.col-lg-4.mx-auto
         figure 
