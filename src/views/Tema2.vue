@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa - efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
+        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa - efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y, de paso, al análisis de causas de este, la Matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -22,15 +22,15 @@
     
     .row.my-3
       .col-lg-8.mb-4(data-aos="zoom-in-right")
-        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionarán las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforman un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de Absalón Machado o tan simples, pero suficientemente acertados como los aportes de Ligorio Dussan, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la Federación Nacional de Cafeteros de Colombia.
+        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionará las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforma un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de Absalón Machado o tan simples, pero suficientemente acertados como los aportes de Ligorio Dussán, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la Federación Nacional de Cafeteros de Colombia.
         .div.grad1
           .row.align-items-center.p-3
             .col-lg-2
               figure
                 img.my-3(src='@/assets/curso/temas/tema2/img73.svg', alt='Imagen decorativa' width="64px" height="64px")
             .col-lg-7
-              h4 ODS - Objetivos Desarrollo Sostenible
-              .mb-0(style="font-size: 13px") Para conocer más acerca de los objetivos del desarrollo sostenible contemplados en la agenda 2030 de la Organización de las Naciones Unidas, diríjase a:
+              h4 ODS - Objetivos de Desarrollo Sostenible
+              .mb-0(style="font-size: 13px") Para conocer más acerca de los Objetivos de Desarrollo Sostenible contemplados en la Agenda 2030 de la Organización de las Naciones Unidas, diríjase a:
             .col-lg-3.text-center.my-3
               a.boton(href="https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/" target="_blank" type="application/pdf")
                 span Ir a sitio
@@ -49,7 +49,7 @@
           img(data-aos="zoom-in-left",src="@/assets/curso/temas/tema2/img16.png", alt="Imagen decorativa")
       .col-lg-8.mb-3(data-aos="zoom-in-left")
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 Teniendo en cuenta las perspectivas del desarrollo rural con enfoque territorial, diferencial y de género, que enmarcan lineamientos tanto teóricos como normativos vigentes, el inicio de un análisis contextual parte de un ejercicio participativo donde se registra la autopercepción de la población de sus problemas y realidades, así como de sus deseos y aspiraciones. 
+          p.mt-0 Teniendo en cuenta las perspectivas del desarrollo rural con enfoque territorial, diferencial y de género, que enmarcan lineamientos tanto teóricos como normativos vigentes, el inicio de un análisis contextual parte de un ejercicio participativo donde se registra la autopercepción de la población sobre sus problemas y realidades, así como de sus deseos y aspiraciones. 
 
         p.my-3 Sin embargo, el abordaje del contexto debe contener revisiones de fuentes secundarias para adquirir elementos suficientes que permitan interpretar estas realidades de una manera objetiva, dando el soporte necesario para que el proyecto sea bien ponderado y en especial que brinde soluciones eficaces y con efectos duraderos en el tiempo (sostenibilidad). Los tópicos propuestos a continuación corresponden a temas renombrados en diversas fuentes de información acerca de la problemática rural en general:
 
@@ -58,7 +58,7 @@
         .row.align-items-center
           .col-auto(style="z-index:1")
             figure
-              img(data-aos="zoom-out-right",src="@/assets/curso/temas/tema2/img4.svg", alt="Muestra los temas relevantes de la problemática rural: Modelos de desarrollo. Paradigmas del desarrollo en Latinoamérica. Objetivos del desarrollo de  las naciones unidas. Desarrollo rural con enfoque territorial. Políticas de enfoque diferencial. Políticas de enfoque de género. Nueva ruralidad. Marco normativo para el desarrollo rural en Colombia. Extensionismo rural y/o agropecuario. Sistema Nacional de Innovación Agropecuaria SNIA. Plan de desarrollo nacional. Plan de desarrollo departamental y municipal.", width= "100px", height="100px")
+              img(data-aos="zoom-out-right",src="@/assets/curso/temas/tema2/img4.svg", alt="Muestra los temas relevantes de la problemática rural: Modelos de desarrollo. Paradigmas del desarrollo en Latinoamérica. Objetivos de Desarrollo de las Naciones Unidas. Desarrollo rural con enfoque territorial. Políticas de enfoque diferencial. Políticas de enfoque de género. Nueva ruralidad. Marco normativo para el desarrollo rural en Colombia. Extensionismo rural y/o agropecuario. Sistema Nacional de Innovación Agropecuaria SNIA. Plan de desarrollo nacional. Plan de desarrollo departamental y municipal.", width= "100px", height="100px")
           .col(style="z-index:1")
             .number 01
             p.m-0 Modelos de desarrollo.
@@ -87,7 +87,7 @@
               img(data-aos="zoom-out-right",src="@/assets/curso/temas/tema2/img19.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
             .number 04
-            p.m-0 Objetivos del desarrollo de la Organización de las Naciones Unidas.
+            p.m-0 Objetivos de Desarrollo de la Organización de las Naciones Unidas.
       .col-lg-4.crd.crd--avatarHorizontal-left-bgr3.py-3.mb-3
         .row.align-items-center
           .col-auto(style="z-index:1")
@@ -300,7 +300,7 @@
         .cajon.color-primario.p-4(data-aos="slide-down",style="background: #EBF4FD")
           p.mt-0 Muchas fuentes de información acerca del método EML usan un ejemplo recurrente de aplicación de la herramienta de “lluvia de ideas” (<em>brainstorming</em>) con el protagonismo de la misma población que es perfectamente válido, pero que se puede fortalecer por medio de la indagación del contexto de la problemática identificada, previamente al ejercicio de definición del problema central.
         
-        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar esfuerzos proporcionales en la etapa de diagnóstico. El principal referente de este documento, Ortegón et al. (2005), aclara que la planificación nace de la percepción que se tiene de la problemática y que se puede dar en concordancia con los siguientes aspectos:
+        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema. Por esto, se deben dedicar esfuerzos proporcionales en la etapa de diagnóstico. El principal referente de este documento, Ortegón et al. (2005), aclara que la planificación nace de la percepción que se tiene de la problemática y que se puede dar en concordancia con los siguientes aspectos:
     .row.justify-content-center
       .col-10
         .tarjeta--container.row.mb-5
@@ -532,7 +532,7 @@
           p Se procede a la construcción de la matriz enfrentando los problemas en ambos ejes como se muestra en la tabla 4. En la intersección de los problemas contra sí mismos, se pone el valor de cero. El problema debe estar redactado de manera <strong>muy precisa.</strong> 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 4.
-            span Ejemplo de estructura de la matriz de influencia-dependencia (Véster)
+            span Ejemplo de estructura de la matriz de influencia-dependencia (Vester)
           .tabla-b.color-acento-botones.tabla-vester-sencilla
             table(style="background-color: white")
               caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
@@ -611,7 +611,7 @@
           p Una vez llena la matriz, se agrega una columna y una fila para registrar las sumatorias de valores de las filas y las columnas, los valores de la columna representan las magnitudes de las influencias y los de la fila representan los de las dependencias. A continuación un ejemplo: 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 6.
-            span Llenado de la matriz de influencia- dependencia (Véster)
+            span Llenado de la matriz de influencia- dependencia (Vester)
           .tabla-b.color-acento-contenido.tabla-vester
             table(style="background-color: white")
               caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
@@ -981,13 +981,13 @@
           img.my-3(src="@/assets/curso/temas/tema2/img61.png", alt="")
       .col-lg-8
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #F6FCFA")
-          p.mt-0 El problema central ya definido anteriormente es el punto de partida del análisis a efectuar con la herramienta de árboles, aunque existan otras herramientas de análisis causa-efecto como el método del “diagrama de flechas” (ADM), el “método de la ruta crítica” (CPM), el “método del diagrama de precedencias” (PDM) y “la técnica de revisión y evaluación de programas” (PERT), que son métodos complejos usados sobre todo en análisis en el contexto de la industria; además, hay otros más amigables como pueden ser el “diagrama de Pareto” o el “diagrama de Ishikawa” (espina de pescado); de todos estos el “método de árboles” es el que resulta, en efecto, más conveniente para su aplicación en el EML. 
+          p.mt-0 El problema central ya definido anteriormente es el punto de partida del análisis por efectuar con la herramienta de árboles, aunque existan otras herramientas de análisis causa-efecto como el método del “diagrama de flechas” (ADM), el “método de la ruta crítica” (CPM), el “método del diagrama de precedencias” (PDM) y “la técnica de revisión y evaluación de programas” (PERT), que son métodos complejos usados sobre todo en análisis en el contexto de la industria; además, hay otros más amigables como pueden ser el “diagrama de Pareto” o el “diagrama de Ishikawa” (espina de pescado); de todos estos, el “método de árboles” es el que resulta, en efecto, más conveniente para su aplicación en el EML. 
       
     .row.my-4.mb-4
       .col-lg-6
-        p(data-aos="zoom-in-right") Es importante tener en cuenta que no hay un problema central definitivo o absoluto sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que no existe una manera única de abordar una problemática y por tanto, existen varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto. Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente en relación siempre a la capacidad de solucionarlo.
+        p(data-aos="zoom-in-right") Es importante tener en cuenta que no hay un problema central definitivo o absoluto, sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que no existe una manera única de abordar una problemática y, por tanto, existen varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto. Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente, siempre en relación con la capacidad de solucionarlo.
       .col-lg-6
-        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a una mejor manera de organizar la información obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posibles. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de la herramienta no es fácil de abordar desde el contexto de la ruralidad, los anteriores pasos son la forma de producir insumos de calidad (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
+        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a una mejor manera de organizar la información obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posible. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de la herramienta no es fácil de abordar desde el contexto de la ruralidad, los anteriores pasos son la forma de producir insumos de calidad (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
 
     .row.align-items-center
       //- Subtitulo
@@ -1009,7 +1009,7 @@
           li(style="display: flex; align-items: flex-start;")
             .lista-ol--cuadro__vineta(style="background: #ADECD1; color: #12263F")
               span(style="min-width: 30px; text-align: right; padding-right: 10px;") <b>B</b>
-            span Las acciones o hechos tienen una relación de precedencia (en el tiempo): si A precede a B, entonces A puede ser causa de B o B es efecto de A, teniendo como condición una proximidad en el espacio y tiempo.
+            span Las acciones o hechos tienen una relación de precedencia (en el tiempo): si A precede a B, entonces A puede ser causa de B o B es efecto de A, teniendo como condición una proximidad en el espacio y el tiempo.
       
       .col-lg-4.col-md-8.mx-auto
         figure
@@ -1028,7 +1028,7 @@
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas, la primera de ellas es el establecimiento de los efectos del problema central denominado “árbol de efectos”. A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás en un segundo nivel estableciendo las relaciones causales entre ellos (Ortegón et.al, 2005). La gravedad de los efectos también es importante; en proporción a esta se establecerá la prioridad y el tipo de acciones para su solución o mitigación. La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas, esto de acuerdo con los procedimientos descritos anteriormente en este documento.
+          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas, la primera de ellas es el establecimiento de los efectos del problema central, denominado “árbol de efectos”. A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás, en un segundo nivel, estableciendo las relaciones causales entre ellos (Ortegón et al., 2005). La gravedad de los efectos también es importante; en proporción con esta, se establecerá la prioridad y el tipo de acciones para su solución o mitigación. La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas; esto de acuerdo con los procedimientos descritos anteriormente en este documento.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1040,7 +1040,7 @@
           img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img11-movil.svg", alt="Se detalla en la figura un ejemplo de efectos directos e indirectos, teniendo en cuenta: Efectos directos. Aumento de impactos ambientales (contaminación fuentes y GEI). Mayor valor de la tarifa de aseo para los usuarios. Efectos Indirectos. Alto uso de recursos para obtención de materias primas. Aumento del volumen de toneladas dispuestas en relleno. Pérdida de ingresos por ventas potenciales.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p En la segunda etapa se observan las causas y de la misma manera en que se procedió en la primera etapa, pero hacia abajo en la gráfica, establecemos causas directas en un primer nivel y causas indirectas en un segundo e incluso un tercer nivel, estableciendo la relación causal entre todas ellas. Es posible que una causa tenga más de una consecuencia y viceversa. Las causas indirectas dan origen a las directas. Esta etapa es clave debido a que, al hallar las causas originarias del problema de manera diferenciada, estableceremos los componentes del proyecto más adelante. En la medida en que se contrarresten las causas (raíces) del problema se estará contribuyendo a la superación del problema central.
+      p En la segunda etapa se observan las causas y, de la misma manera en que se procedió en la primera etapa, pero hacia abajo en la gráfica, establecemos causas directas en un primer nivel y causas indirectas en un segundo e incluso un tercer nivel, estableciendo la relación causal entre todas ellas. Es posible que una causa tenga más de una consecuencia y viceversa. Las causas indirectas dan origen a las directas. Esta etapa es clave debido a que, al hallar las causas originarias del problema de manera diferenciada, estableceremos los componentes del proyecto más adelante. En la medida en que se contrarresten las causas (raíces) del problema, se estará contribuyendo a la superación del problema central.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1071,7 +1071,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img62.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
-            p.m-0 Para avanzar en la elaboración de la propuesta se debe realizar una descripción más completa del problema usando todos los elementos definidos como causas y efectos, reforzando estas ideas con información documentada de la zona de estudio, los antecedentes del problema y de anteriores intervenciones, factores agravantes, prospectivas (estimaciones de los efectos por  la prolongación del problema en el tiempo), condiciones actuales del problema y demás datos que refuercen la idea del problema central. El ejemplo tomado del documento oficial del DNP que usamos anteriormente reza así:
+            p.m-0 Para avanzar en la elaboración de la propuesta, se debe realizar una descripción más completa del problema usando todos los elementos definidos como causas y efectos, reforzando estas ideas con información documentada de la zona de estudio, los antecedentes del problema y de anteriores intervenciones, factores agravantes, prospectivas (estimaciones de los efectos de la prolongación del problema en el tiempo), condiciones actuales del problema y demás datos que refuercen la idea del problema central. El ejemplo tomado del documento oficial del DNP que usamos anteriormente reza así:
     .row.justify-content-center
       hr(style="background:#FF9751; height: 2px; width: 79%")
     .row.align-items-center.my-3
@@ -1104,7 +1104,7 @@
       .col-lg-8
         p Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, #[strong(style="color: #0B481E") en el árbol de objetivos se procede en primer lugar a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva], expresando las mismas condiciones pero de la manera deseada o esperada.
         p.mt-3 Esta "transmutación" de los problemas se realiza bajo el mismo esquema de árbol, conservando el sentido y lógica causal del relacionamiento de los problemas.
-        p.mb-3 Así, el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos y más adelante será el objetivo general o <strong>“fin”</strong> del proyecto; abajo las causas directas se tornarán en <strong>“medios”</strong> para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo las causas indirectas se convertirán en “productos y resultados” del árbol de objetivos y darán lugar a los “componentes” del proyecto y en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
+        p.mb-3 Así, el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos y más adelante será el objetivo general o <strong>“fin”</strong> del proyecto; abajo, las causas directas se tornarán en <strong>“medios”</strong> para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo, las causas indirectas se convertirán en “productos y resultados” del árbol de objetivos y darán lugar a los “componentes” del proyecto y, en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
 
       .col-lg-4.col-md-8.mx-auto
         figure

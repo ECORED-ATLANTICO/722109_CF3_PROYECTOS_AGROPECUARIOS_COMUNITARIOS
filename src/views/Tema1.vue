@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="flip-up")
-        p.mb-0 La metodología de elaboración de proyectos bajo el Enfoque de Marco Lógico (EML) es en sí, una herramienta para la ordenación de información relacionada a un proyecto, basada en el razonamiento lógico; es decir, donde a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que, en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos, pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
+        p.mb-0 La metodología de elaboración de proyectos bajo el Enfoque de Marco Lógico (EML) es, en sí, una herramienta para la ordenación de información relacionada con un proyecto, basada en el razonamiento lógico; es decir, donde, a partir de unas observaciones asumidas como verdaderas, se puede inferir, en ambos sentidos (causas o efectos), otras que, en consecuencia, también serán verdaderas y que se denominan hipótesis. El EML se usa principalmente para la indagación de problemas, diseño, ejecución y evaluación de proyectos (CEPAL, 2005). Se enfoca principalmente hacia la consecución de objetivos, pero facilitando la participación de los interesados, llamados <em>stakeholders</em>.
 
     .row.my-4.align-items-center
       .col-lg-12

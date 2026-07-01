@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico',
+      'Formulación de proyectos agropecuarios bajo el enfoque metodológico de Marco Lógico',
     Description:
       'El marco lógico es una metodología versátil y potente que permite un análisis amplio y participativo de problemas y soluciones. Considera el contexto, actores, causas, riesgos y alternativas, utilizando un enfoque sistémico y organizado. Se divide en tres fases: identificación del problema, selección de la mejor solución y construcción de la matriz de marco lógico.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/722109_CF2_DU.zip',
+        download: 'downloads/722109-CF03_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -178,7 +178,7 @@ export default {
     {
       tema: 'Guía de planificación participativa basada en el marco lógico',
       referencia:
-        'SENA. (2020). Cartilla resumen marco lógico para formulación de proyectos. SENA.',
+        'SENA. (2020). Cartilla resumen de Marco Lógico para la formulación de proyectos. SENA.',
       tipo: 'Manual',
       link:
         'https://www.sena.edu.co/es-co/sena/Documents/DM_12_Guia_de_Planificacion_participativa_based_en_el_marco_logico.pdf',
@@ -323,7 +323,7 @@ export default {
     {
       termino: 'Prefactibilidad',
       significado:
-        'en este estudio se evalúan las alternativas que fueron seleccionadas en la fase precedente. Se realizan estudios técnicos especializados de manera que al mejorar la calidad de la información reduzcan la incertidumbre para poder comparar las alternativas y decidir cuáles se descartan y cuál se selecciona. Estos estudios deben incluir al menos los efectos producidos por cambios en las variables relevantes del proyecto (sobre el valor presente neto, VPN, sobre cambios en los gastos de inversión y de operación del proyecto, y las estimaciones de la demanda y de la oferta). (Ortegón et al, 2005).',
+        'En este estudio se evalúan las alternativas que fueron seleccionadas en la fase precedente. Se realizan estudios técnicos especializados de manera que, al mejorar la calidad de la información, se reduzca la incertidumbre para poder comparar las alternativas y decidir cuáles se descartan y cuál se selecciona. (Ortegón et al., 2005).',
     },
     {
       termino: 'Preparación',
@@ -344,7 +344,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la metodología de marco lógico</em>. Naciones Unidas, Santiago de Chile.',
+        'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la Metodología de Marco Lógico</em>. Naciones Unidas, Santiago de Chile.',
       link:
         'https://repositorio.cepal.org/server/api/core/bitstreams/2d86ecfb-f922-49d3-a919-e4fd4d463bd7/content',
     },
@@ -354,7 +354,7 @@ export default {
     },
     {
       referencia:
-        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad opciones de adaptación y mitigación Aspectos Distributivos del cambio climático</em>. Cepal',
+        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad: opciones de adaptación y mitigación. Aspectos distributivos del cambio climático</em>. CEPAL.',
       link:
         'https://www.cepal.org/sites/default/files/courses/files/presentacion_carmenza_castiblanco.pdf',
     },
@@ -381,7 +381,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de desarrollo agropecuario de Panamá. (2017). <em>Guía para la formulación de proyectos de inversión del sector agropecuario bajo el enfoque de planificación estratégica y gestión por resultados</em>. MIDA-FAO.',
+        'Ministerio de Desarrollo Agropecuario de Panamá. (2017). <em>Guía para la formulación de proyectos de inversión del sector agropecuario bajo el enfoque de planificación estratégica y gestión por resultados</em>. MIDA-FAO.',
       link: 'http://www.fao.org/3/i8097es/I8097ES.pdf',
     },
     {
