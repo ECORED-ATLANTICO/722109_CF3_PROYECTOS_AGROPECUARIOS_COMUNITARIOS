@@ -153,7 +153,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/722109-CF03_DU.zip',
+        download: 'downloads/722109_CF03_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -445,12 +445,12 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
-          centro: 'Centro Agroturístico – Regional Santander',
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
@@ -459,14 +459,48 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Andrés Javier Pacheco Wandurraga',
+          nombre: 'Roberto Augusto Bernal Duque',
           cargo: 'Experto temático',
-          centro: 'Centro Agroturístico – Regional Santander',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
-          nombre: 'Jair Coll Gallardo',
+          nombre: 'Yeison Farid Méndez Ortiz',
+          cargo: 'Experto temático',
+          centro: 'Centro Agropecuario “La Granja” - Regional Tolima',
+        },
+        {
+          nombre: 'Orlando Barón Méndez',
+          cargo: 'Experto temático',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica– Regional Distrito Capital',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+        },
+        {
+          nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -474,22 +508,22 @@ export default {
       titulo: 'DISEÑADOR Y DESARROLLADOR DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseño web',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Alexander Donado Molinares',
-          cargo: 'Desarrollador <em>full stack</em>',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollo full stack',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nelson Iván Vera Briceño',
+          nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Alexander Rafael Acosta Bedoya',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
