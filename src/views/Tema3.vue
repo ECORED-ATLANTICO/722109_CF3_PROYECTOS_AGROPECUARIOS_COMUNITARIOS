@@ -306,21 +306,21 @@
                 th Matriz de marco lógico
             tbody
               tr
-                td Problema central.
-                td Propósito.
-                td Objetivo general o "<strong>fin</strong>" del proyecto.
+                td Problema central
+                td Propósito
+                td Objetivo general o "<strong>fin</strong>" del proyecto
               tr
-                td Causas nivel 1.
-                td Medios.
-                td Objetivos específicos.
+                td Causas nivel 1
+                td Medios
+                td Objetivos específicos
               tr
-                td Causas nivel 2.
-                td Productos.
-                td Componentes.
+                td Causas nivel 2
+                td Productos
+                td Componentes
               tr
-                td Causas nivel 3.
-                td Actividades.
-                td Actividades.
+                td Causas nivel 3
+                td Actividades
+                td Actividades
 
         figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
     .row.p-3.my-5
@@ -353,7 +353,7 @@
       .col-lg-10.m-auto
         .titulo-sexto.color-acento-botones.mb-3
           h5 Tabla 10.
-          span Relación entre el árbol de problemas, árbol de objetivos y la MML
+          span Ejemplo de Matriz de Marco Lógico y la gestión por resultados
         .tabla-b.color-acento-contenido.mb-5
           table
             thead
@@ -538,28 +538,28 @@
             th Selección
         tbody
           tr
-            td Fin.
+            td Fin
             td
             td
             td A B C D E F G
             td
             td
           tr
-            td Propósito.
+            td Propósito
             td
             td
             td
             td
             td
           tr
-            td Componentes.
+            td Componentes
             td
             td
             td
             td
             td
           tr
-            td Actividades.
+            td Actividades
             td
             td
             td
@@ -591,12 +591,12 @@
             th Nivel de riesgo (Ubicar en la matriz de riesgos)
         tbody
           tr.text-center
-            td(style='background-color: #EAEAEA') Climático.
+            td(style='background-color: #EAEAEA') Climático
             td(style='background-color: #E4E4E4') Prolongación de las épocas de lluvias más allá de la tercera semana de inicio del ciclo productivo y efecto de las heladas en las primeras cinco semanas.
             td(style='background-color: #EAEAEA') 5
             td(style='background-color: #E4E4E4') 4
             td(style='background-color: #EAEAEA') 20
-            td(style='background-color: #E4E4E4') Crítico.
+            td(style='background-color: #E4E4E4') Crítico
 
     .row.mt-5.mb-4.align-items-center
       .col-lg-12.m-auto

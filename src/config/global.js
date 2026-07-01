@@ -191,6 +191,11 @@ export default {
         'es la acción que contribuye a la transformación de insumos en productos.',
     },
     {
+      termino: 'Actividad económica auxiliar',
+      significado:
+        'actividad que se realiza para respaldar las actividades de producción principales del proyecto que generan productos o servicios no duraderos. (Ortegón et al, 2005).',
+    },
+    {
       termino: 'Actividad económica principal',
       significado:
         'actividad que genera la mayor parte del valor agregado o la actividad cuyo valor agregado supera al de todas las demás actividades que realiza el proyecto.',
@@ -199,11 +204,6 @@ export default {
       termino: 'Actividad económica secundaria',
       significado:
         'actividad independiente que genera productos destinados en última instancia a terceros y no corresponde a alguna actividad principal del proyecto.',
-    },
-    {
-      termino: 'Actividad económica auxiliar',
-      significado:
-        'actividad que se realiza para respaldar las actividades de producción principales del proyecto que generan productos o servicios no duraderos. (Ortegón et al, 2005).',
     },
     {
       termino: 'Alcance',
@@ -278,7 +278,7 @@ export default {
     {
       termino: 'Indicador',
       significado:
-        'es una representación cuantitativa (variable o relación entre variables), verificable objetivamente, a partir de la cual se registra, procesa y presenta la información necesaria para medir el avance o retroceso en el logro de un determinado objetivo. En consecuencia, es a partir de indicadores que se pueden determinar objetivamente, los resultados de las intervenciones públicas y valorar su desempeño.Los indicadores deben ser: <br>• C - Claros. <br>• R - Relevantes. <br>• E - Económicos. <br>• M - Medibles. <br>• A - Adecuados. (Ortegón et al, 2005).',
+        'es una representación cuantitativa (variable o relación entre variables), verificable objetivamente, a partir de la cual se registra, procesa y presenta la información necesaria para medir el avance o retroceso en el logro de un determinado objetivo. En consecuencia, es a partir de indicadores que se pueden determinar objetivamente, los resultados de las intervenciones públicas y valorar su desempeño. Los indicadores deben ser: <br>• C - Claros. <br>• R - Relevantes. <br>• E - Económicos. <br>• M - Medibles. <br>• A - Adecuados. (Ortegón et al, 2005).',
     },
     {
       termino: 'Indicador de gestión',
@@ -398,7 +398,7 @@ export default {
     },
     {
       referencia:
-        'Sánchez, f. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile',
+        'Sánchez, F. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile',
       link:
         'https://www.cepal.org/es/publicaciones/7284-planificacion-estrategica-gestion-publica-objetivos',
     },
@@ -413,7 +413,7 @@ export default {
     },
     {
       referencia:
-        'Sarandón, S. (2009). Biodiversidad, agrobiodiversidad y agricultura sustentable: análisis del Convenio sobre Diversidad Biológica. En M. A. Altieri (Ed). <em>Vertientes del pensamiento agroecológico: fundamentos y aplicaciones</em>. Sociedad Científica Latinoamericana de Agroecología. Socla',
+        'Sarandón, S. (2009). Biodiversidad, agrobiodiversidad y agricultura sustentable: análisis del Convenio sobre Diversidad Biológica. En M. A. Altieri (Ed). <em>Vertientes del pensamiento agroecológico: fundamentos y aplicaciones</em>. Sociedad Científica Latinoamericana de Agroecología. SOCLA',
       link:
         'https://www.agroecologia.net/wp-content/uploads/2020/12/biodiversidad-agroecologia-santiago-sarandon.pdf',
     },
@@ -445,12 +445,12 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Centro Agroturístico - Regional Santander',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
         {
-          nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de la línea de producción',
+          nombre: 'Miguel De Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
@@ -459,71 +459,37 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Roberto Augusto Bernal Duque',
+          nombre: 'Andrés Javier Pacheco Wandurraga',
           cargo: 'Experto temático',
-          centro:
-            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
         {
-          nombre: 'Yeison Farid Méndez Ortiz',
-          cargo: 'Experto temático',
-          centro: 'Centro Agropecuario “La Granja” - Regional Tolima',
-        },
-        {
-          nombre: 'Orlando Barón Méndez',
-          cargo: 'Experto temático',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Paula Andrea Taborda Ortiz',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Diseñadora instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica– Regional Distrito Capital',
-        },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de diseño y Metrología – Regional Distrito Capital',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
-        },
-        {
-          nombre: 'Fabian Cuartas Donado',
+          nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
     {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'DISEÑADOR Y DESARROLLADOR DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseño web',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Álvaro Guillermo Araújo Angarita',
+          nombre: 'Alexander Donado Molinares',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Carmen Alicia Martínez Torres',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nelson Iván Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
@@ -533,23 +499,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
-        },
-        {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
           nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
