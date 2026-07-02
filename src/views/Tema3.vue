@@ -331,7 +331,7 @@
               figure 
                 img(src="@/assets/curso/temas/tema3/img76.svg", alt="", width="150px", height="150px")
             .col-lg-10.mt-3
-              p Cabe recordar que para pasar del árbol de problemas al árbol de objetivos, se cambió de un estado negativo del problema a una situación positiva como propósito, para luego plantearse como el fin del proyecto o la acción que conduce a esa situación deseada del árbol de objetivos. De acuerdo con Ortegón et al. (2005):
+              p Cabe recordar que para pasar del árbol de problemas al árbol de objetivos, se cambió de un estado negativo del problema a una situación positiva como propósito, para luego plantearse como el propósito del proyecto o la acción que conduce a esa situación deseada del árbol de objetivos. De acuerdo con Ortegón et al. (2005):
     .row.align-items-center
       .col-lg-10.m-auto
         hr(style="background: #FFA686;height: 3px; border: none;")
@@ -345,7 +345,7 @@
       h5.my-5.text-center Para estructurar la MML, según la guía de formulación de proyectos de inversión del sector agropecuario de la FAO en 2017, se pueden seguir los siguientes pasos:
       .row.align-items-center.my-3 
         .col-lg-6
-          p Primer momento: “la relación causa-efecto entre las diferentes partes de la primera columna (ver esquema de la MML) corresponde a los cuatro niveles (o filas) de la estructura, de abajo hacia arriba: 1) actividades (o insumos), 2) componentes (o resultados), 3) propósito y 4) meta o fin, estando estos dos últimos definidos por la jerarquía de objetivos del proyecto, o sea, objetivo central y objetivos secundarios” (p.16).
+          p Primer momento: “la relación causa-efecto entre las diferentes partes de la primera columna (ver esquema de la MML) corresponde a los cuatro niveles (o filas) de la estructura, de abajo hacia arriba: 1) actividades (o insumos), 2) componentes (o resultados), 3) propósito y 4) meta o fin, estando estos últimos definidos por la jerarquía de objetivos del proyecto.” (p. 16).
         .col-lg-6
           p Segundo momento: “el formato cuatro por cuatro, que permite a los equipos de proyecto resaltar gráficamente los objetivos, los resultados y las actividades que se espera generar dentro del ciclo de vida del proyecto. Las 16 celdas que conforman la matriz del marco lógico se encuentran dinámicamente relacionadas por una lógica vertical y horizontal o de causa-efecto; por lo tanto, los cambios que se efectúen en una celda normalmente ocasionarán cambios en el resto de las celdas” (p.17). 
 

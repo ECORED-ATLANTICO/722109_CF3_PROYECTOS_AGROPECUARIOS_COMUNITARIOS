@@ -218,7 +218,7 @@ export default {
     {
       termino: 'Beneficio',
       significado:
-        'es la riqueza en el ámbito social, ambiental o económico que obtiene la población objetivo en el momento que se decide ejecutar un proyecto de inversión. La valoración de beneficios depende de la identificación de los problemas resueltos y su descripción tiene que ver con el impacto o los fines que tiene la utilización de los bienes producidos. Los beneficios son de carácter cualitativo y cuantitativo que se presentan bajo la forma del problema resuelto o la necesidad satisfecha. (Ortegón et al, 2005).',
+        'es la riqueza en el ámbito social, ambiental o económico que obtiene la población objetivo en el momento en que se decide ejecutar un proyecto de inversión. La valoración de beneficios depende de la identificación de los problemas resueltos y su descripción tiene que ver con el impacto o los fines que tiene la utilización de los bienes producidos. Los beneficios son de carácter cualitativo y cuantitativo, y se presentan bajo la forma del problema resuelto o la necesidad satisfecha. (Ortegón et al, 2005).',
     },
     {
       termino: 'Bien',
@@ -243,12 +243,12 @@ export default {
     {
       termino: 'Eficiencia',
       significado:
-        'el concepto hace referencia al uso óptimo de recursos en una actividad productiva; esto es, obtener el mismo producto con una menor cantidad de recursos por unidad producida o en obtener más productos con la misma cantidad de recursos. En el marco de los proyectos de inversión, la eficiencia puede ser abordada, entre otros, a través del análisis de Eficiencia Técnica. Este análisis evalúa qué tan bueno es un proyecto determinado transformando insumos en productos requeridos (esto es, qué tan productivo es su gasto), en comparación con sí mismo u otros proyectos similares. En este sentido es posible medir la eficiencia técnica como la relación entre la productividad observada de un proyecto y su productividad esperada (o una productividad referente que sea considerada óptima). Este concepto permite responder la pregunta de ¿qué tan bueno es el sector público transformando dinero en servicios prestados, comparado con otros? (Ortegón et al, 2005).',
+        'el concepto hace referencia al uso óptimo de recursos en una actividad productiva; esto es, obtener el mismo producto con una menor cantidad de recursos por unidad producida u obtener más productos con la misma cantidad de recursos. En el marco de los proyectos de inversión, la eficiencia puede ser abordada, entre otros, a través del análisis de Eficiencia Técnica. Este análisis evalúa qué tan bueno es un proyecto determinado transformando insumos en productos requeridos (esto es, qué tan productivo es su gasto), en comparación con sí mismo u otros proyectos similares. En este sentido es posible medir la eficiencia técnica como la relación entre la productividad observada de un proyecto y su productividad esperada (o una productividad referente que sea considerada óptima). Este concepto permite responder la pregunta de ¿qué tan bueno es el sector público transformando dinero en servicios prestados, comparado con otros? (Ortegón et al, 2005).',
     },
     {
       termino: 'Etapa de funcionamiento u operación',
       significado:
-        'momento en el cual se empieza a utilizar el bien o servicio obtenido en la etapa de inversión y por tanto, se inicia la generación del beneficio. Esta etapa dura el tiempo que se estipula en la etapa de preinversión para alcanzar los objetivos del proyecto, es decir, la operación va hasta el periodo en que se espera que ya no se presente el problema que se está atacando con el proyecto. Durante esta etapa también existe seguimiento, el cual busca medir los resultados y el impacto en la cadena de valor; este se realiza a los componentes y la finalidad en la matriz de marco lógico. (Ortegón et al, 2005).',
+        'momento en el cual se empieza a utilizar el bien o servicio obtenido en la etapa de inversión y por tanto, se inicia la generación del beneficio. Esta etapa dura el tiempo que se estipula en la etapa de preinversión para alcanzar los objetivos del proyecto, es decir, la operación va hasta el período en que se espera que ya no se presente el problema que se está atacando con el proyecto. Durante esta etapa también existe seguimiento, el cual busca medir los resultados y el impacto en la cadena de valor; este se realiza a los componentes y la finalidad en la matriz de marco lógico. (Ortegón et al, 2005).',
     },
     {
       termino: 'Etapa de inversión',
@@ -263,7 +263,7 @@ export default {
     {
       termino: 'Formulación',
       significado:
-        'es la fase de la preinversión en la cual se identifican la situación actual, la situación esperada y las alternativas de solución para la problemática que se está analizando, que seguidamente pasarán a preparación para iniciar el levantamiento de la información relacionada con los insumos, actividades, costos, tiempos y demás elementos necesarios para obtener el o los productos que las contienen. (Ortegón et al, 2005).',
+        'es la fase de la preinversión en la cual se identifica la situación actual, la situación esperada y las alternativas de solución para la problemática que se está analizando, que seguidamente pasarán a preparación para iniciar el levantamiento de la información relacionada con los insumos, actividades, costos, tiempos y demás elementos necesarios para obtener el o los productos que las contienen. (Ortegón et al, 2005).',
     },
     {
       termino: 'Identificación',
@@ -308,7 +308,7 @@ export default {
     {
       termino: 'Objetivo general',
       significado:
-        'es la situación deseada para la población con relación al problema identificado. El objetivo general se origina al convertir en positivo el árbol del problema. Los objetivos deben ser:<br>• Realistas: se pueden alcanzar con los recursos disponibles.<br>• Eficaces: no sólo responde a problemas presentes sino al tiempo futuro en que se ubica el objetivo.<br>• Coherentes: el cumplimiento de un objetivo no imposibilita el cumplimiento de otro.<br>• Cuantificables: son susceptibles de medición en el tiempo. (Ortegón et al, 2005).',
+        'es la situación deseada para la población con relación al problema identificado. El objetivo general se origina al convertir en positivo el árbol de problemas. Los objetivos deben ser:<br>• Realistas: se pueden alcanzar con los recursos disponibles.<br>• Eficaces: no sólo responde a problemas presentes sino al tiempo futuro en que se ubica el objetivo.<br>• Coherentes: el cumplimiento de un objetivo no imposibilita el cumplimiento de otro.<br>• Cuantificables: son susceptibles de medición en el tiempo. (Ortegón et al, 2005).',
     },
     {
       termino: 'Perfil',
