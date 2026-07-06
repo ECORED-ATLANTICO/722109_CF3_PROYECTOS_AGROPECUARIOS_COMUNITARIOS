@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa - efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y, de paso, al análisis de causas de este, la Matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
+        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa-efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -22,7 +22,7 @@
     
     .row.my-3
       .col-lg-8.mb-4(data-aos="zoom-in-right")
-        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionará las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforma un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de Absalón Machado o tan simples, pero suficientemente acertados como los aportes de Ligorio Dussán, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la Federación Nacional de Cafeteros de Colombia.
+        p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionarán las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforman un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de Absalón Machado o tan simples, pero suficientemente acertados como los aportes de Ligorio Dussan, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la Federación Nacional de Cafeteros de Colombia.
         .div.grad1
           .row.align-items-center.p-3
             .col-lg-2
@@ -49,7 +49,7 @@
           img(data-aos="zoom-in-left",src="@/assets/curso/temas/tema2/img16.png", alt="Imagen decorativa")
       .col-lg-8.mb-3(data-aos="zoom-in-left")
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 Teniendo en cuenta las perspectivas del desarrollo rural con enfoque territorial, diferencial y de género, que enmarcan lineamientos tanto teóricos como normativos vigentes, el inicio de un análisis contextual parte de un ejercicio participativo donde se registra la autopercepción de la población sobre sus problemas y realidades, así como de sus deseos y aspiraciones. 
+          p.mt-0 Teniendo en cuenta las perspectivas del desarrollo rural con enfoque territorial, diferencial y de género, que enmarcan lineamientos tanto teóricos como normativos vigentes, el inicio de un análisis contextual parte de un ejercicio participativo donde se registra la autopercepción de la población de sus problemas y realidades, así como de sus deseos y aspiraciones. 
 
         p.my-3 Sin embargo, el abordaje del contexto debe contener revisiones de fuentes secundarias para adquirir elementos suficientes que permitan interpretar estas realidades de una manera objetiva, dando el soporte necesario para que el proyecto sea bien ponderado y en especial que brinde soluciones eficaces y con efectos duraderos en el tiempo (sostenibilidad). Los tópicos propuestos a continuación corresponden a temas renombrados en diversas fuentes de información acerca de la problemática rural en general:
 
@@ -87,7 +87,7 @@
               img(data-aos="zoom-out-right",src="@/assets/curso/temas/tema2/img19.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
             .number 04
-            p.m-0 Objetivos de Desarrollo de la Organización de las Naciones Unidas.
+            p.m-0 Objetivos del desarrollo de la Organización de las Naciones Unidas.
       .col-lg-4.crd.crd--avatarHorizontal-left-bgr3.py-3.mb-3
         .row.align-items-center
           .col-auto(style="z-index:1")
@@ -219,10 +219,10 @@
       h2(data-aos="fade-left") 2.3 Análisis de actores involucrados
 
     .row.my-4
-      p La herramienta de partida del EML se denomina “mapa de involucrados”. Este es un análisis simple donde se registra el interés de los actores por el proyecto y sus implicaciones, pero existen herramientas más elaboradas como puede ser una matriz de expectativa-fuerza para contemplar los intereses, percepciones, expectativas y el grado de influencia de personas, grupos, comunidades o entidades; esto es muy importante porque permite, por un lado, optimizar los recursos y los beneficios del proyecto, además de potenciar el alcance, la eficacia y el impacto, y por otro lado, prevenir y mitigar los efectos negativos hacia o por parte de otros actores opositores o afectados, e incluso abordar conflictos de tal manera que el proyecto aporte a su solución.
+      p La herramienta de partida del EML se denomina “mapa de involucrados”. Este es un análisis simple donde se registra el interés de los actores en el proyecto y sus implicaciones, pero existen herramientas más elaboradas como puede ser una matriz de expectativa-fuerza para contemplar los intereses, percepciones, expectativas y el grado de influencia de personas, grupos, comunidades o entidades; esto es muy importante porque permite, por un lado, optimizar los recursos y los beneficios del proyecto, además de potenciar el alcance, la eficacia y el impacto, y por otro lado, prevenir y mitigar los efectos negativos de o hacia otros actores contradictores o afectados, e incluso abordar conflictos de tal manera que el proyecto aporte a su solución.
 
     .row.my-4
-      p.text-center De acuerdo con lo propuesto por Ortegón et al. (2005), el análisis debe proceder a:
+      p.text-center De acuerdo con lo propuesto por Ortegón <em>et al.</em> (2005), el análisis debe proceder a:
 
     TabsA.color-secundario.my-3
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="1. Visibilizar a los <br> involucrados")
@@ -235,21 +235,21 @@
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="2. Categorizar a los <br> involucrados")
         .row.bgr-verde-claro.p-4.bordes-redondeados
           .col-lg-7.mb-4
-            p.my-5 Indagar sobre su entorno, roles, intereses, grado de influencia o capacidad de integración en el proyecto, etc. Aquí puede ser necesario el contacto directo.
+            p.my-5 Indagar sobre sus entornos, roles, intereses, grado de influencia o capacidad de integración al proyecto, etc. Aquí puede ser necesario el contacto directo.
           .col-lg-5
             figure
               img.my-5(data-aos="zoom-in",src='@/assets/curso/temas/tema2/img34.svg', alt='Imagen decorativa',width="150px",height="150px")
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="3. Valorar sus <br> intereses")
         .row.bgr-verde-claro.p-4.bordes-redondeados
           .col-lg-7.mb-4
-            p.my-5 Identificar sus percepciones, su actitud y/o posición frente al proyecto, los conflictos existentes y posibles y los recursos políticos, legales, humanos y financieros que puedan aportar a la solución de los problemas. En conclusión, identificar oportunidades y amenazas.
+            p.my-5 Identificar sus percepciones, su actitud y posición frente al proyecto, los conflictos existentes y posibles, y los recursos políticos, legales, humanos y financieros que puedan aportar a la solución de los problemas. En conclusión, identificar oportunidades y amenazas.
           .col-lg-5
             figure
               img.my-5(data-aos="zoom-in",src='@/assets/curso/temas/tema2/img35.svg', alt='Imagen decorativa',width="150px",height="150px")
       .tarjeta.p-4.color-tarjeta(style="background: #EEFBF5")(titulo="4. Diseñar estrategias de <br> participación")
         .row.bgr-verde-claro.p-4.bordes-redondeados
           .col-lg-7.mb-4
-            p.my-5 Analizar e interpretar la información para concluir acerca de la participación en el proyecto o de su modificación dado el caso.
+            p.my-5 Analizar la información e interpretar el análisis concluyendo acerca de su participación en el proyecto o de la modificación del proyecto si fuese posible.
           .col-lg-5
             figure
               img.my-5(data-aos="zoom-in",src='@/assets/curso/temas/tema2/img36.svg', alt='Imagen decorativa',width="150px",height="150px")
@@ -271,7 +271,7 @@
     
     .row.align-items-center.my-5
       .col-lg-8.mb-2(data-aos="zoom-in-right")
-        p La herramienta del ejemplo anterior es susceptible de mejora aplicando, por ejemplo, la variable de expectativa-fuerza, ampliando el espectro de la herramienta hasta especificar las estrategias (otra columna) que se emplearán para la mejora de la participación o la mitigación de efectos adversos y, como se mencionó, incluso para la resolución de conflictos entre las partes involucradas o al interior de estas. Existen otras formas de evaluar la participación de los involucrados y que se pueden emplear en conjunto o en sustitución del análisis expectativa fuerza: poder-interés, influencia-impacto, poder-influencia, etc.
+        p La herramienta del ejemplo anterior es susceptible de mejora aplicando, por ejemplo, la variable de expectativa fuerza, ampliando el espectro de la herramienta hasta especificar las estrategias (otra columna) que se emplearán para la mejora de la participación o la mitigación de efectos adversos y como se mencionó, incluso para la resolución de conflictos entre las partes involucradas o al interior de estas. Existen otras formas de evaluar la participación de los involucrados y que se pueden emplear en conjunto o en sustitución del análisis expectativa fuerza: poder-interés, influencia-impacto, poder-influencia, etc.
         .row.align-items-center.grad1.p-3
           .col-lg-2
             figure
@@ -280,7 +280,7 @@
             h4 Análisis de involucrados
             .mb-0(style="font-size: 13px") Para la revisión de una herramienta más completa de análisis de involucrados incluyendo la aplicación de la matriz de expectativa-fuerza con ejemplos ilustrativos, diríjase a:
           .col-lg-3.text-center.my-3
-            a.boton(:href="obtenerLink('/downloads/Analisis-de-Involucrados.pdf')" target="_blank" type="application/pdf")
+            a.boton(:href="obtenerLink('/downloads/Analisis_de_involucrados.pdf')" target="_blank" type="application/pdf")
               span Ir a sitio
               i.fas.fa-link
 
@@ -300,7 +300,7 @@
         .cajon.color-primario.p-4(data-aos="slide-down",style="background: #EBF4FD")
           p.mt-0 Muchas fuentes de información acerca del método EML usan un ejemplo recurrente de aplicación de la herramienta de “lluvia de ideas” (<em>brainstorming</em>) con el protagonismo de la misma población que es perfectamente válido, pero que se puede fortalecer por medio de la indagación del contexto de la problemática identificada, previamente al ejercicio de definición del problema central.
         
-        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema. Por esto, se deben dedicar esfuerzos proporcionales en la etapa de diagnóstico. El principal referente de este documento, Ortegón et al. (2005) aclaran que la planificación nace de la percepción que se tiene de la problemática y que se puede dar en concordancia con los siguientes aspectos:
+        p.mt-3 La acertada formulación del proyecto y el mismo éxito de la intervención dependen en gran medida de la adecuada identificación del problema, es por esto que se deben dedicar esfuerzos proporcionales en la etapa de diagnóstico. El principal referente de este documento, Ortegón <em>et al.</em> (2005), aclara que la planificación nace de la percepción que se tiene de la problemática y que se puede dar en concordancia con los siguientes aspectos:
     .row.justify-content-center
       .col-10
         .tarjeta--container.row.mb-5
@@ -361,9 +361,7 @@
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos regresivos</strong> de políticas de desarrollo o coyunturales.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
-              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Consecuencias socioeconómicas</strong> derivadas de la pandemia por el virus SARS-CoV-2.
-            li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
-              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Aspectos inherentes a los efectos acumulados por décadas</strong> en cuanto a la concentración de la riqueza y la tierra, la pauperización del campesinado, el envejecimiento de la población rural, la migración masiva hacia las urbes, el deterioro del tejido social en la ruralidad, el despojo de la tierra, la capacidad productiva, los derechos y hasta los valores de la cultura rural, el desvanecimiento del relevo y empalme generacional, el rezago educativo para la población rural, el escaso acceso a los factores productivos y la tecnología para la productividad, la ausencia del Estado y los programas sociales de los gobiernos en especial en la periferia, la inseguridad alimentaria y el hambre y malnutrición derivados de esta, la inequidad de género, el deterioro del suelo aprovechable, los efectos del cambio climático sobre los ecosistemas por causas antrópicas, la huella de carbono generada por actividades como la ganadería extensiva, la contaminación de fuentes de agua, la ampliación de la frontera agrícola hacia zonas de reserva protegidas, el debilitamiento de la ciudadanía participativa, la lentitud en la migración hacia fuentes de energía renovables, la escasa infraestructura productiva para las actividades agropecuarias, entre otros.
+              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Aspectos inherentes a los efectos acumulados por décadas</strong> en cuanto a la concentración de la riqueza y la tierra, la pauperización del campesinado, el envejecimiento de la población rural, la migración masiva hacia las urbes, el deterioro del tejido social en la ruralidad, el despojo de la tierra, la capacidad productiva, los derechos y hasta los valores de la cultura rural, el desvanecimiento del relevo y empalme generacional, el rezago educativo para la población rural, el escaso acceso a los factores productivos y la tecnología para la productividad, la ausencia del estado y los programas sociales de los gobiernos en especial en la periferia, la inseguridad alimentaria y el hambre y malnutrición derivados de ésta, la inequidad de género, el deterioro del suelo aprovechable, los efectos del cambio climático sobre los ecosistemas por causas antrópicas, la huella de carbono generada por actividades como la ganadería extensiva, la contaminación de fuentes de agua, la ampliación de la frontera agrícola hacia zonas de reserva protegidas, el debilitamiento de la ciudadanía participativa, la lentitud en la migración hacia fuentes de energía renovables, la escasa infraestructura productiva para las actividades agropecuarias, entre otros.
 
 
     Separador
@@ -372,14 +370,14 @@
 
     .row.align-items-center 
       .col-lg-8.my-2
-        p(data-aos="zoom-in-right") La identificación de problemas por parte de la misma comunidad afectada no solo es importante para la adecuada formulación de un plan de intervención exitoso, la participación de la población en el proceso de desarrollo es importante para la sostenibilidad de los procesos de mejora en las actividades productivas, ya que muchas veces el fracaso de los proyectos se atribuye a la falta de sentido de pertenencia de las comunidades con ellos, dado que algunas veces se hacen intervenciones sin contar siquiera con su opinión al respecto.
+        p(data-aos="zoom-in-right") La identificación de problemas por parte de la misma comunidad afectada no solo es importante para la adecuada formulación de un plan de intervención exitoso, la participación de la población en el proceso de desarrollo es importante para la sostenibilidad de los procesos de mejora en las actividades productivas, ya que muchas veces el fracaso de los proyectos se atribuye a la falta de sentido de pertenencia de las comunidades con estos, porque algunas veces se hacen intervenciones sin contar siquiera con su opinión al respecto.
         .cajon.color-terciario.p-4(style="background: #D8E9FB")
-          p.my-4 El paradigma del desarrollo desde abajo viene a contrarrestar las políticas de intervención desde los dirigentes nacionales y grandes actores internacionales (BM, FMI, tesoro nacional de USA, etc.) que a partir de los años 80 vienen fomentando la aplicación de políticas derivadas de la receta neoliberal (menor injerencia del Estado y mayor orientación del mercado en las dinámicas socioeconómicas), producto del llamado “consenso de Washington”, con un rotundo fracaso en términos de impacto ambiental y aumento de la brecha social a escala continental.  
+          p.my-4 El paradigma del desarrollo desde abajo viene a contrarrestar las políticas de intervención desde los dirigentes nacionales y grandes actores internacionales (BM, FMI, tesoro nacional de USA, etc.) que a partir de los años 80 vienen fomentando la aplicación de políticas derivadas de la receta neoliberal (menor injerencia del estado y mayor orientación del mercado en las dinámicas socioeconómicas) producto del llamado “consenso de Washington”, con un rotundo fracaso en términos de impacto ambiental and aumento de la brecha social a escala continental.  
       .col-lg-4.my-2.col-md-8.mx-auto.my-3
         figure
           img(data-aos="zoom-in-left",src='@/assets/curso/temas/tema2/img45.png',  alt='')
 
-    p(data-aos="zoom-in-right").my-4 El extensionismo agropecuario, actividad que data del siglo XIX en Estados Unidos y Europa como una iniciativa de atención a la ruralidad desde los gobiernos con el apoyo del sector privado, especialmente el productor de tecnología, ha logrado avances muy interesantes y exitosos en el diseño y ejecución de procesos de intervención integrales más que asistenciales. Uno de los casos destacados en Colombia y la región es el de la Federación Nacional de Cafeteros. Como producto de estas experiencias fortalecidas se encuentran metodologías centradas en la participación de la población, como el Diagnóstico Rural Participativo (DRP) y la planificación comunitaria, entre otros ejercicios como los realizados por el Servicio Nacional de Aprendizaje (SENA) en sus modelos de intervención hechos hasta la década de los años 90 (por efectos de las políticas coyunturales) a partir de los programas “Capacitación para la Participación Campesina (CAPACA)”, “capacitación empresarial campesina”, “la capacitación para la organización y participación comunitaria”, “programa de extensión rural del convenio SENA - Gobierno de Holanda” y el trabajo “SENA - Escuela Nacional de Formación Campesina ANUC-ENFOCA”, estrategias con productos que se pueden consultar en los repositorios institucionales. 
+    p(data-aos="zoom-in-right").my-4 El extensionismo agropecuario, actividad que data del siglo XIX en Estados Unidos y Europa como una iniciativa de atención a la ruralidad desde los gobiernos con el apoyo del sector privado, especialmente el productor de tecnología, ha logrado avances muy interesantes y exitosos en el diseño y ejecución de procesos de intervención integrales más que asistenciales. Uno de los casos destacados en Colombia y la región es la Federación Nacional de Cafeteros. Producto de estas experiencias fortalecidas se encuentran metodologías centradas en la participación de la población, como el Diagnóstico Rural Participativo (DRP) y la planificación comunitaria, entre otros ejercicios como los realizados por el Servicio Nacional de Aprendizaje (SENA) en sus modelos de intervención hechos hasta la década de los años 90 (por efectos de las políticas coyunturales) a partir de los programas “Capacitación para la Participación Campesina (CAPACA)”, “capacitación empresarial campesina”, “la capacitación para la organización y participación comunitaria”, “programa de extensión rural del convenio SENA-Gobierno de Holanda” y el trabajo “SENA-Escuela Nacional de Formación Campesina ANUC-ENFOCA”, estrategias con productos que se pueden consultar en los repositorios institucionales. 
     .row.justify-content-center
       hr.mt-3.justify-content-center(style="background:#FF9751; width: 80%; height: 2px")
 
@@ -388,7 +386,7 @@
         .bloque-texto-b.py-4._bgr1
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p El DRP es una actividad participativa que permite la identificación de los principales problemas técnicos productivos, sociales y de organización para lograr la convivencia con los productores. Con el fin de conocer más de cerca los diferentes aspectos de la comunidad, generando la información básica para la elaboración de los planes de acción comunitaria
+            p El DRP, es una actividad participativa que permite la identificación de los principales problemas técnicos productivos, sociales y de organización para lograr la convivencia con los productores. Con el fin de conocer más de cerca los diferentes aspectos de la comunidad, generando la información básica para la elaboración de los planes de acción comunitaria.
             h3  (DNP, 2016, p.15).
             i.fas.fa-quote-right
             
@@ -951,7 +949,7 @@
               caption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012). 
               thead
                 tr 
-                  td(style="background-color:  #006555; vertical-align: middle;" rowspan="3").text-white <strong>Dependencia</strong>
+                  td(style="background-color:  #006555; vertical-align: middle;" width="18%" rowspan="3").text-white <strong>Dependencia</strong>
                   td <strong>Cuadrante 1</strong> - Problemas pasivos o de efectos del problema central
                   td <strong>Cuadrante 2</strong> - Problemas críticos del problema central
                 tr
@@ -1028,7 +1026,7 @@
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
-          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas: la primera de ellas es el establecimiento de los efectos del problema central, denominado “árbol de efectos”. A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás, en un segundo nivel, estableciendo las relaciones causales entre ellos (Ortegón et al., 2005). La gravedad de los efectos también es importante; en proporción con esta, se establecerá la prioridad y el tipo de acciones para su solución o mitigación. La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas; esto de acuerdo con los procedimientos descritos anteriormente en este documento.
+          p.mt-0 El ejercicio del árbol de problemas se debe efectuar en dos etapas: la primera de ellas es el establecimiento de los efectos del problema central, denominado “árbol de efectos”. A los efectos (consecuencias) directos del problema central se les esquematiza en un primer nivel hacia arriba de la gráfica. A los demás, en un segundo nivel, estableciendo las relaciones causales entre ellos (Ortegón <em>et al.</em>, 2005). La gravedad de los efectos también es importante; en proporción con esta, se establecerá la prioridad y el tipo de acciones para su solución o mitigación. La redacción o el significado de lo descrito en este paso tiene una connotación negativa, pues son problemas; esto de acuerdo con los procedimientos descritos anteriormente en este documento.
     
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1052,7 +1050,7 @@
           img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p Una vez identificados todos los efectos y causas del problema central, se integra toda la información en un solo cuadro que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa (Ortegón et al., 2005).
+      p Una vez identificados todos los efectos y causas del problema central, se integra toda la información en un solo cuadro que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa (Ortegón <em>et al.</em>, 2005).
 
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1060,8 +1058,8 @@
           h5 Figura 8.
           span Ejemplo de árbol de problemas
         figure
-          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces). A continuación se amplia la información.")
-          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img13-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces). A continuación se amplia la información.")
+          img.d-none.d-lg-block(src="@/assets/curso/temas/tema2/img13.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
+          img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img13-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de problemas, según sus efectos (ramas), problemas (tronco) y causas (raíces).")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
         
     .row.my-3.align-items-center 

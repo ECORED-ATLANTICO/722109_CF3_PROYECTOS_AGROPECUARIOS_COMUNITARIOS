@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Actividad económica auxiliar',
       significado:
-        'actividad que se realiza para respaldar las actividades de producción principales del proyecto que generan productos o servicios no duraderos. (Ortegón et al, 2005).',
+        'actividad que se realiza para respaldar las actividades de producción principales del proyecto que generan productos o servicios no duraderos. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Actividad económica principal',
@@ -208,107 +208,107 @@ export default {
     {
       termino: 'Alcance',
       significado:
-        'es la suma total de todos los productos y sus requisitos o características. Permite identificar hasta dónde se profundizan los estudios del proyecto de acuerdo a su ciclo de vida. El alcance está enmarcado por las metas de los productos y los respectivos indicadores para su medición. (Ortegón et al, 2005).',
+        'es la suma total de todos los productos y sus requisitos o características. Permite identificar hasta dónde se profundizan los estudios del proyecto de acuerdo a su ciclo de vida. El alcance está enmarcado por las metas de los productos y los respectivos indicadores para su medición. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Beneficiarios',
       significado:
-        'corresponde a la población objetivo identificada en el diagnóstico del proyecto, la cual indica el número de personas directas para quienes se solucionará el problema identificado previamente. (Ortegón, et al.2005).',
+        'corresponde a la población objetivo identificada en el diagnóstico del proyecto, la cual indica el número de personas directas para quienes se solucionará el problema identificado previamente. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Beneficio',
       significado:
-        'es la riqueza en el ámbito social, ambiental o económico que obtiene la población objetivo en el momento en que se decide ejecutar un proyecto de inversión. La valoración de beneficios depende de la identificación de los problemas resueltos y su descripción tiene que ver con el impacto o los fines que tiene la utilización de los bienes producidos. Los beneficios son de carácter cualitativo y cuantitativo, y se presentan bajo la forma del problema resuelto o la necesidad satisfecha. (Ortegón et al, 2005).',
+        'es la riqueza en el ámbito social, ambiental o económico que obtiene la población objetivo en el momento en que se decide ejecutar un proyecto de inversión. La valoración de beneficios depende de la identificación de los problemas resueltos y su descripción tiene que ver con el impacto o los fines que tiene la utilización de los bienes producidos. Los beneficios son de carácter cualitativo y cuantitativo, y se presentan bajo la forma del problema resuelto o la necesidad satisfecha. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Bien',
       significado:
-        'es un objeto tangible, almacenable o transportable. (Ortegón et al, 2005).',
+        'es un objeto tangible, almacenable o transportable. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Causa',
       significado:
-        'explica los motivos por los cuales se está presentando el problema que se está analizando; la mejor manera de evidenciarlos es preguntándose cuál es el origen del problema. (Ortegón et al, 2005).',
+        'explica los motivos por los cuales se está presentando el problema que se está analizando; la mejor manera de evidenciarlos es preguntándose cuál es el origen del problema. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Componente',
       significado:
-        'dentro de la metodología de marco lógico, los componentes son los bienes o servicios que produce o entrega un programa o proyecto para cumplir un propósito, los cuales son el resultado de una o varias actividades. Se asimilan al concepto de producto en el contexto de cadena de valor. (Ortegón et al, 2005).',
+        'dentro de la metodología de marco lógico, los componentes son los bienes o servicios que produce o entrega un programa o proyecto para cumplir un propósito, los cuales son el resultado de una o varias actividades. Se asimilan al concepto de producto en el contexto de cadena de valor. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Efectividad',
       significado:
-        'hace referencia a la medida en que los objetivos de la prestación de servicios se cumplen a través de los productos generados. Este concepto involucra la eficiencia y la eficacia; consiste en realizar las actividades y procesos que realmente deben llevarse a cabo, haciendo un uso óptimo de los recursos involucrados. (Ortegón et al, 2005).',
+        'hace referencia a la medida en que los objetivos de la prestación de servicios se cumplen a través de los productos generados. Este concepto involucra la eficiencia y la eficacia; consiste en realizar las actividades y procesos que realmente deben llevarse a cabo, haciendo un uso óptimo de los recursos involucrados. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Eficiencia',
       significado:
-        'el concepto hace referencia al uso óptimo de recursos en una actividad productiva; esto es, obtener el mismo producto con una menor cantidad de recursos por unidad producida u obtener más productos con la misma cantidad de recursos. En el marco de los proyectos de inversión, la eficiencia puede ser abordada, entre otros, a través del análisis de Eficiencia Técnica. Este análisis evalúa qué tan bueno es un proyecto determinado transformando insumos en productos requeridos (esto es, qué tan productivo es su gasto), en comparación con sí mismo u otros proyectos similares. En este sentido es posible medir la eficiencia técnica como la relación entre la productividad observada de un proyecto y su productividad esperada (o una productividad referente que sea considerada óptima). Este concepto permite responder la pregunta de ¿qué tan bueno es el sector público transformando dinero en servicios prestados, comparado con otros? (Ortegón et al, 2005).',
+        'el concepto hace referencia al uso óptimo de recursos en una actividad productiva; esto es, obtener el mismo producto con una menor cantidad de recursos por unidad producida u obtener más productos con la misma cantidad de recursos. En el marco de los proyectos de inversión, la eficiencia puede ser abordada, entre otros, a través del análisis de Eficiencia Técnica. Este análisis evalúa qué tan bueno es un proyecto determinado transformando insumos en productos requeridos (esto es, qué tan productivo es su gasto), en comparación con sí mismo u otros proyectos similares. En este sentido es posible medir la eficiencia técnica como la relación entre la productividad observada de un proyecto y su productividad esperada (o una productividad referente que sea considerada óptima). Este concepto permite responder la pregunta de ¿qué tan bueno es el sector público transformando dinero en servicios prestados, comparado con otros? (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Etapa de funcionamiento u operación',
       significado:
-        'momento en el cual se empieza a utilizar el bien o servicio obtenido en la etapa de inversión y por tanto, se inicia la generación del beneficio. Esta etapa dura el tiempo que se estipula en la etapa de preinversión para alcanzar los objetivos del proyecto, es decir, la operación va hasta el período en que se espera que ya no se presente el problema que se está atacando con el proyecto. Durante esta etapa también existe seguimiento, el cual busca medir los resultados y el impacto en la cadena de valor; este se realiza a los componentes y la finalidad en la matriz de marco lógico. (Ortegón et al, 2005).',
+        'momento en el cual se empieza a utilizar el bien o servicio obtenido en la etapa de inversión y por tanto, se inicia la generación del beneficio. Esta etapa dura el tiempo que se estipula en la etapa de preinversión para alcanzar los objetivos del proyecto, es decir, la operación va hasta el período en que se espera que ya no se presente el problema que se está atacando con el proyecto. Durante esta etapa también existe seguimiento, el cual busca medir los resultados y el impacto en la cadena de valor; este se realiza a los componentes y la finalidad en la matriz de marco lógico. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Etapa de inversión',
       significado:
-        'es la etapa en la cual se materializan las acciones que dan como resultado bienes o servicios y culmina cuando el o los productos obtenidos comienzan a generar beneficios. En esta etapa se realizan los procesos de ejecución y seguimiento. La ejecución se desarrolla física y financieramente. Durante este periodo se llevan a cabo las actividades necesarias para la obtención del producto o productos del proyecto. Las actividades deben ser claras, concretas y estar programadas en el tiempo, pues ellas indicarán el monto de recursos que se requiere anualmente para poder lograr el producto en el tiempo estipulado. El seguimiento va de la mano con la ejecución. Este se realiza a los insumos, actividades y productos planteados en la cadena de valor del proyecto a través de indicadores de producto y de gestión que son los que miden el comportamiento físico del proyecto. (Ortegón et al, 2005).',
+        'es la etapa en la cual se materializan las acciones que dan como resultado bienes o servicios y culmina cuando el o los productos obtenidos comienzan a generar beneficios. En esta etapa se realizan los procesos de ejecución y seguimiento. La ejecución se desarrolla física y financieramente. Durante este periodo se llevan a cabo las actividades necesarias para la obtención del producto o productos del proyecto. Las actividades deben ser claras, concretas y estar programadas en el tiempo, pues ellas indicarán el monto de recursos que se requiere anualmente para poder lograr el producto en el tiempo estipulado. El seguimiento va de la mano con la ejecución. Este se realiza a los insumos, actividades y productos planteados en la cadena de valor del proyecto a través de indicadores de producto y de gestión que son los que miden el comportamiento físico del proyecto. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Etapa de preinversión',
       significado:
-        'es la etapa del proyecto que involucra la formulación y evaluación ex ante del proyecto. En esta etapa, se identifica el problema o necesidad y se prepara la información pertinente para establecer si desde el punto de vista financiero, técnico, económico y ambiental es viable emprender el proyecto. (Ortegón et al, 2005).',
+        'es la etapa del proyecto que involucra la formulación y evaluación ex ante del proyecto. En esta etapa, se identifica el problema o necesidad y se prepara la información pertinente para establecer si desde el punto de vista financiero, técnico, económico y ambiental es viable emprender el proyecto. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Formulación',
       significado:
-        'es la fase de la preinversión en la cual se identifica la situación actual, la situación esperada y las alternativas de solución para la problemática que se está analizando, que seguidamente pasarán a preparación para iniciar el levantamiento de la información relacionada con los insumos, actividades, costos, tiempos y demás elementos necesarios para obtener el o los productos que las contienen. (Ortegón et al, 2005).',
+        'es la fase de la preinversión en la cual se identifica la situación actual, la situación esperada y las alternativas de solución para la problemática que se está analizando, que seguidamente pasarán a preparación para iniciar el levantamiento de la información relacionada con los insumos, actividades, costos, tiempos y demás elementos necesarios para obtener el o los productos que las contienen. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Identificación',
       significado:
-        'fase de la formulación del proyecto en la cual se identifica la situación actual (árbol del problema, análisis de participaciones, población y zona afectada), la situación esperada (árbol de objetivos, población y zona objetivo) y las alternativas de solución a través del análisis de objetivos. (Ortegón et al, 2005).',
+        'fase de la formulación del proyecto en la cual se identifica la situación actual (árbol del problema, análisis de participaciones, población y zona afectada), la situación esperada (árbol de objetivos, población y zona objetivo) y las alternativas de solución a través del análisis de objetivos. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Impacto',
       significado:
-        'es el cambio logrado en las condiciones económicas o sociales de la población, como resultado de los productos y resultados obtenidos con el proyecto o programa. Se trata del nivel más elevado de resultados o de la finalidad última de los proyectos, cuando se genera la totalidad de los beneficios previstos en su operación. (Ortegón et al, 2005).',
+        'es el cambio logrado en las condiciones económicas o sociales de la población, como resultado de los productos y resultados obtenidos con el proyecto o programa. Se trata del nivel más elevado de resultados o de la finalidad última de los proyectos, cuando se genera la totalidad de los beneficios previstos en su operación. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Indicador',
       significado:
-        'es una representación cuantitativa (variable o relación entre variables), verificable objetivamente, a partir de la cual se registra, procesa y presenta la información necesaria para medir el avance o retroceso en el logro de un determinado objetivo. En consecuencia, es a partir de indicadores que se pueden determinar objetivamente, los resultados de las intervenciones públicas y valorar su desempeño. Los indicadores deben ser: <br>• C - Claros. <br>• R - Relevantes. <br>• E - Económicos. <br>• M - Medibles. <br>• A - Adecuados. (Ortegón et al, 2005).',
+        'es una representación cuantitativa (variable o relación entre variables), verificable objetivamente, a partir de la cual se registra, procesa y presenta la información necesaria para medir el avance o retroceso en el logro de un determinado objetivo. En consecuencia, es a partir de indicadores que se pueden determinar objetivamente, los resultados de las intervenciones públicas y valorar su desempeño. Los indicadores deben ser: <br>• C - Claros. <br>• R - Relevantes. <br>• E - Económicos. <br>• M - Medibles. <br>• A - Adecuados. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Indicador de gestión',
       significado:
-        'identifica los recursos físicos, humanos y financieros utilizados en el desarrollo de las acciones; y mide la cantidad de acciones, procesos, procedimientos y operaciones realizadas durante la etapa de implementación. (Ortegón et al, 2005).',
+        'identifica los recursos físicos, humanos y financieros utilizados en el desarrollo de las acciones; y mide la cantidad de acciones, procesos, procedimientos y operaciones realizadas durante la etapa de implementación. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Indicador de impacto',
       significado:
-        'mide los cambios resultantes en el bienestar de la población objetivo de la intervención como consecuencia (directa o indirecta) de la entrega de los productos. Mide los efectos (directos e indirectos) generados por los productos sobre la población directamente afectada. (Ortegón et al, 2005).',
+        'mide los cambios resultantes en el bienestar de la población objetivo de la intervención como consecuencia (directa o indirecta) de la entrega de los productos. Mide los efectos (directos e indirectos) generados por los productos sobre la población directamente afectada. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Indicador de producto',
       significado:
-        'cuantifica los bienes y servicios (intermedios o finales) producidos y/o provisionados a partir de una determinada intervención, así como los cambios generados por ésta que son pertinentes para el logro de los efectos directos. (Ortegón et al, 2005).',
+        'cuantifica los bienes y servicios (intermedios o finales) producidos y/o provisionados a partir de una determinada intervención, así como los cambios generados por ésta que son pertinentes para el logro de los efectos directos. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Meta',
       significado:
-        'corresponde a la expresión cuantitativa y cualitativa de los logros que se pretenden obtener con el proyecto. Refleja la magnitud o nivel específico de los resultados, es decir, de los productos, efectos o impactos que se esperan alcanzar. Su medición debe hacerse en términos de tiempo, cantidad y si es posible, calidad. (Ortegón et al, 2005).',
+        'corresponde a la expresión cuantitativa y cualitativa de los logros que se pretenden obtener con el proyecto. Refleja la magnitud o nivel específico de los resultados, es decir, de los productos, efectos o impactos que se esperan alcanzar. Su medición debe hacerse en términos de tiempo, cantidad y si es posible, calidad. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Monitoreo',
       significado:
-        'es una herramienta de gestión, que a través de la recolección y análisis continuo de información, le ayuda al gerente del proyecto a controlar los avances durante la fase de ejecución. Se basa en la comparación entre los resultados esperados y el estado de avance de los mismos, lo que permite identificar y valorar posibles problemas y logros de los procesos de ejecución, así como proporcionar información fiable y oportuna, con el fin de hacer ajustes para lograr el objetivo deseado. (Ortegón et al, 2005).',
+        'es una herramienta de gestión, que a través de la recolección y análisis continuo de información, le ayuda al gerente del proyecto a controlar los avances durante la fase de ejecución. Se basa en la comparación entre los resultados esperados y el estado de avance de los mismos, lo que permite identificar y valorar posibles problemas y logros de los procesos de ejecución, así como proporcionar información fiable y oportuna, con el fin de hacer ajustes para lograr el objetivo deseado. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Objetivo general',
       significado:
-        'es la situación deseada para la población con relación al problema identificado. El objetivo general se origina al convertir en positivo el árbol de problemas. Los objetivos deben ser:<br>• Realistas: se pueden alcanzar con los recursos disponibles.<br>• Eficaces: no sólo responde a problemas presentes sino al tiempo futuro en que se ubica el objetivo.<br>• Coherentes: el cumplimiento de un objetivo no imposibilita el cumplimiento de otro.<br>• Cuantificables: son susceptibles de medición en el tiempo. (Ortegón et al, 2005).',
+        'es la situación deseada para la población con relación al problema identificado. El objetivo general se origina al convertir en positivo el árbol de problemas. Los objetivos deben ser:<br>• Realistas: se pueden alcanzar con los recursos disponibles.<br>• Eficaces: no sólo responde a problemas presentes sino al tiempo futuro en que se ubica el objetivo.<br>• Coherentes: el cumplimiento de un objetivo no imposibilita el cumplimiento de otro.<br>• Cuantificables: son susceptibles de medición en el tiempo. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Perfil',
@@ -318,36 +318,36 @@ export default {
     {
       termino: 'Planeación',
       significado:
-        'en términos públicos es la orientación adecuada de los recursos procurando el cumplimiento de objetivos de desarrollo económico y social. (Ortegón et al, 2005).',
+        'en términos públicos es la orientación adecuada de los recursos procurando el cumplimiento de objetivos de desarrollo económico y social. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Prefactibilidad',
       significado:
-        'En este estudio se evalúan las alternativas que fueron seleccionadas en la fase precedente. Se realizan estudios técnicos especializados de manera que, al mejorar la calidad de la información, se reduzca la incertidumbre para poder comparar las alternativas y decidir cuáles se descartan y cuál se selecciona. (Ortegón et al., 2005).',
+        'en este estudio se evalúan las alternativas que fueron seleccionadas en la fase precedente. Se realizan estudios técnicos especializados de manera que al mejorar la calidad de la información reduzcan la incertidumbre para poder comparar las alternativas y decidir cuáles se descartan y cuál se selecciona. Estos estudios deben incluir al menos los efectos producidos por cambios en las variables relevantes del proyecto (sobre el valor presente neto, VPN, sobre cambios en los gastos de inversión y de operación del proyecto, y las estimaciones de la demanda y de la oferta). (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Preparación',
       significado:
-        'consiste en la elaboración de estudios para comparar las alternativas de solución, y así tomar la decisión sobre cuál de ellas es la más adecuada para alcanzar el objetivo propuesto. En esta etapa se determina la magnitud de las inversiones del proyecto, los costos y beneficios del mismo, al tiempo que se completará la información requerida para la construcción de la cadena de valor. (Ortegón et al, 2005).',
+        'consiste en la elaboración de estudios para comparar las alternativas de solución, y así tomar la decisión sobre cuál de ellas es la más adecuada para alcanzar el objetivo propuesto. En esta etapa se determina la magnitud de las inversiones del proyecto, los costos y beneficios del mismo, al tiempo que se completará la información requerida para la construcción de la cadena de valor. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Problema',
       significado:
-        'se define como una situación no deseada, es decir, una situación negativa que padece la comunidad en un momento determinado. Un problema no es la ausencia de su solución, sino un estado existente negativo. (Ortegón et al, 2005).',
+        'se define como una situación no deseada, es decir, una situación negativa que padece la comunidad en un momento determinado. Un problema no es la ausencia de su solución, sino un estado existente negativo. (Ortegón <em>et al.</em>, 2005).',
     },
     {
       termino: 'Resultados',
       significado:
-        'son los cambios en las condiciones del sujeto de beneficio enmarcadas en el objetivo general del proyecto, por efecto del consumo de los productos y el cumplimiento de los supuestos considerados en el mismo. (Ortegón et al, 2005).',
+        'son los cambios en las condiciones del sujeto de beneficio enmarcadas en el objetivo general del proyecto, por efecto del consumo de los productos y el cumplimiento de los supuestos considerados en el mismo. (Ortegón <em>et al.</em>, 2005).',
     },
   ],
   referencias: [
-    {
-      referencia:
-        'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la Metodología de Marco Lógico</em>. Naciones Unidas, Santiago de Chile.',
-      link:
-        'https://repositorio.cepal.org/server/api/core/bitstreams/2d86ecfb-f922-49d3-a919-e4fd4d463bd7/content',
-    },
+    // {
+    //   referencia:
+    //     'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la Metodología de Marco Lógico</em>. Naciones Unidas, Santiago de Chile.',
+    //   link:
+    //     'https://repositorio.cepal.org/server/api/core/bitstreams/2d86ecfb-f922-49d3-a919-e4fd4d463bd7/content',
+    // },
     {
       referencia:
         'Casimiro, L. (2016). <em>Bases metodológicas para la resiliencia socioecológica de fincas familiares en Cuba</em>. [Tesis de doctorado en agroecología]. Universidad de Antioquia. Medellín, Colombia.',
@@ -383,6 +383,12 @@ export default {
       referencia:
         'Ministerio de Desarrollo Agropecuario de Panamá. (2017). <em>Guía para la formulación de proyectos de inversión del sector agropecuario bajo el enfoque de planificación estratégica y gestión por resultados</em>. MIDA-FAO.',
       link: 'http://www.fao.org/3/i8097es/I8097ES.pdf',
+    },
+    {
+      referencia:
+        'Ortegón, E., Pacheco, J. F., & Prieto, A. (2005). <em>Metodología del marco lógico para la planificación, el seguimiento y la evaluación de proyectos y programas</em>. CEPAL.',
+      link:
+        'https://repositorio.cepal.org/bitstream/handle/11362/5607/S057518_es.pdf',
     },
     {
       referencia:
@@ -488,7 +494,7 @@ export default {
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
           cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de diseño y Metrología – Regional Distrito Capital',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -500,7 +506,7 @@ export default {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
