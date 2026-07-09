@@ -13,7 +13,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa-efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo <strong>(DRP).</strong>
+        p.mb-0 La primera etapa de la fase de diseño comprende al menos cuatro partes, a saber: el análisis de actores involucrados, la identificación de problemas, el análisis de problemas (causa-efecto) y el análisis de objetivos; sin embargo, desde la experiencia, es altamente recomendable efectuar un análisis consultivo a partir de información secundaria y un ejercicio previo al análisis de problemas que de manera práctica es un valioso apoyo para la identificación del problema central y de paso al análisis de causas de este, la matriz de Vester. Adicionalmente, atendiendo las necesidades de la ruralidad y el sector productivo agropecuario, una recomendación importante es robustecer el diagnóstico de la situación problémica a través de la realización de un diagnóstico rural participativo (DRP).
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -349,7 +349,7 @@
               
             p.text-center Efectos de la globalización de la economía y de tratados comerciales internacionales.
     
-    p.my-4.text-bold.text-center Además, en la actualidad podemos identificar circunstancias problemáticas en torno a:
+    p.my-4.text-center Además, en la actualidad podemos identificar circunstancias problemáticas en torno a:
 
     .row.my-4(data-aos="zoom-in-up")
       div.p-5.BGM02.fondo-degradado-2
@@ -360,6 +360,8 @@
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos directos o indirectos</strong> del conflicto armado o del dominio territorial de grupos armados.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Efectos regresivos</strong> de políticas de desarrollo o coyunturales.
+            li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
+              span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Consecuencias socioeconómicas</strong> derivadas de la pandemia por el virus SARS-CoV-2.
             li.my-1(data-aos="fade-right", style="list-style-type: disc; color: #FF8E6B; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") <strong>Aspectos inherentes a los efectos acumulados por décadas</strong> en cuanto a la concentración de la riqueza y la tierra, la pauperización del campesinado, el envejecimiento de la población rural, la migración masiva hacia las urbes, el deterioro del tejido social en la ruralidad, el despojo de la tierra, la capacidad productiva, los derechos y hasta los valores de la cultura rural, el desvanecimiento del relevo y empalme generacional, el rezago educativo para la población rural, el escaso acceso a los factores productivos y la tecnología para la productividad, la ausencia del estado y los programas sociales de los gobiernos en especial en la periferia, la inseguridad alimentaria y el hambre y malnutrición derivados de ésta, la inequidad de género, el deterioro del suelo aprovechable, los efectos del cambio climático sobre los ecosistemas por causas antrópicas, la huella de carbono generada por actividades como la ganadería extensiva, la contaminación de fuentes de agua, la ampliación de la frontera agrícola hacia zonas de reserva protegidas, el debilitamiento de la ciudadanía participativa, la lentitud en la migración hacia fuentes de energía renovables, la escasa infraestructura productiva para las actividades agropecuarias, entre otros.
 
@@ -398,7 +400,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img46.svg", alt="", width= "100px", height="100px")
           .col(style="z-index:1")
-            p.m-0 El <strong>DRP</strong> es una metodología recomendable para la autogestión del desarrollo de las comunidades, lo que supone también la autodeterminación, un valor importante de resaltar. Posee de manera inherente ventajas que dependen directamente del grado de participación de los involucrados, entre las que se encuentran la eficacia en el levantamiento de datos de campo, la verificabilidad, confiabilidad, profundidad y suficiencia de la información obtenida.
+            p.m-0 El DRP es una metodología recomendable para la autogestión del desarrollo de las comunidades, lo que supone también la autodeterminación, un valor importante de resaltar. Posee de manera inherente ventajas que dependen directamente del grado de participación de los involucrados, entre las que se encuentran la eficacia en el levantamiento de datos de campo, la verificabilidad, confiabilidad, profundidad y suficiencia de la información obtenida.
     
     p.my-4 También ayuda a sensibilizar y motivar la participación de la población ante la posible intervención, fomenta la creatividad en las propuestas de solución y puede conllevar un alto impacto de las propuestas respetando la cultura y la forma de ser de la población, así como complementariedad con la información obtenida de fuentes secundarias. Algunos aspectos a tener en cuenta son, por un lado, la necesidad de un equipo multidisciplinario que planifique el diagnóstico y, por el otro, de recursos y tiempo para el trabajo de campo. Según Expósito (2003), el DRP consta de siete pasos para su realización: 
 
@@ -448,7 +450,7 @@
     .row.mb-5
       .col-12 
         .fondo-degradado-2.p-4
-          p.my-4.text-bold La información de primera mano es muy valiosa y requiere de un recurso metodológico que puede ser el DRP.
+          p.my-4 La información de primera mano es muy valiosa y requiere de un recurso metodológico que puede ser el DRP.
 
           .row.my-3
             .col-lg-6
@@ -512,8 +514,8 @@
           span Recomendaciones para la correcta definición de un problema.
 
         figure
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los mas simples hasta los que son casi imposibles.').d-none.d-lg-block
-          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los mas simples hasta los que son casi imposibles.').d-block.d-lg-none                
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img90.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los más simples hasta los que son casi imposibles.').d-none.d-lg-block
+          img(data-aos="flip-down", src="@/assets/curso/temas/tema2/img91.svg", alt='Se detalla un ejemplo de forma incorrecta y de la forma correcta de un problema, los errores y los aciertos; hay diferentes grados de complejidad en los problemas, desde los más simples hasta los que son casi imposibles.').d-block.d-lg-none                
         figcaption Nota. Tomado de SENA (2021).
 
     .row.align-items-center 
@@ -527,7 +529,7 @@
         p Redactar, ordenar y numerar los problemas detectados en el diagnóstico. (La numeración ayudará a identificarlos fácilmente).
       .row(numero="2" titulo="Paso 2")
         .col-lg-12.mb-4.mb-md-0
-          p Se procede a la construcción de la matriz enfrentando los problemas en ambos ejes como se muestra en la tabla 4. En la intersección de los problemas consigo mismos se pone el valor de cero. El problema debe estar redactado de manera <strong>muy precisa.</strong> 
+          p Se procede a la construcción de la matriz enfrentando los problemas en ambos ejes como se muestra en la tabla 4. En la intersección de los problemas consigo mismos se pone el valor de cero. El problema debe estar redactado de manera muy precisa. 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 4.
             span Ejemplo de estructura de la matriz de influencia-dependencia (Vester)
@@ -940,7 +942,7 @@
                   td 
       .row(numero="5" titulo="Paso 5")
         .col-lg-12.mb-4.mb-md-0
-          p Al tener ya las sumatorias, se procede a <strong>graficar</strong> estos valores. Se usa un plano cartesiano donde la intersección de los ejes corresponde al valor promedio de las dependencias e influencias. Cada cuadrante representa un tipo de problema; el primer cuadrante de la figura corresponde a los problemas pasivos, el segundo a los críticos, el tercero a los exógenos o estructurales (posteriormente se pueden usar como supuestos en la <strong>MML</strong>) y el cuarto representa las causas. 
+          p Al tener ya las sumatorias, se procede a graficar estos valores. Se usa un plano cartesiano donde la intersección de los ejes corresponde al valor promedio de las dependencias e influencias. Cada cuadrante representa un tipo de problema; el primer cuadrante de la figura corresponde a los problemas pasivos, el segundo a los críticos, el tercero a los exógenos o estructurales (posteriormente se pueden usar como supuestos en la MML) y el cuarto representa las causas. 
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 7.
             span Esquema de definición de cuadrantes en relación a la influencia y la dependencia
@@ -983,9 +985,9 @@
       
     .row.my-4.mb-4
       .col-lg-6
-        p(data-aos="zoom-in-right") Es importante tener en cuenta que no hay un problema central definitivo o absoluto, sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que no existe una manera única de abordar una problemática y, por tanto, existen varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto. Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente, siempre en relación con la capacidad de solucionarlo.
+        p(data-aos="zoom-in-right") Es importante tener en cuenta que no hay un problema central definitivo o absoluto, sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que no existe una manera única de abordar una problemática y, por tanto, existen varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto. Precisamente, una bondad del EML radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente, siempre en relación con la capacidad de solucionarlo.
       .col-lg-6
-        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a una mejor manera de organizar la información obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posible. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de esta herramienta no es fácil de abordar en el contexto rural, los anteriores pasos son la forma de producir insumos de calidad (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
+        p(data-aos="zoom-in-right") También podemos resumir este aporte del método a una mejor manera de organizar la información obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posible. El árbol de problemas es, bajo el EML, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de esta herramienta no es fácil de abordar en el contexto rural, los anteriores pasos son la forma de producir insumos de calidad (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
 
     .row.align-items-center
       //- Subtitulo
@@ -997,13 +999,13 @@
     .row.align-items-center.my-4
       .col-lg-8
         span La técnica de la que hace uso esta herramienta se basa en un modelo de relaciones causales que 
-        strong(style="color: #0B481E") semeja en su forma a un árbol.
+        span(style="color: #0B481E") semeja en su forma a un árbol.
         p El principio de causalidad es usado por casi toda disciplina científica y nos brinda unos elementos claves para el análisis de los problemas:
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta(style="background: #ADECD1; color: #12263F")
               span <b>A</b>
-            span Los problemas son en suma acciones o productos de estas; es decir, <strong>hechos.</strong>
+            span Los problemas son en suma acciones o productos de estas; es decir, hechos.
           li(style="display: flex; align-items: flex-start;")
             .lista-ol--cuadro__vineta(style="background: #ADECD1; color: #12263F")
               span(style="min-width: 30px; text-align: right; padding-right: 10px;") <b>B</b>
@@ -1050,7 +1052,7 @@
           img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img12-movil.svg", alt="Causas indirectas. Inadecuada tradición del manejo de residuos en la fuente. Inapropiado sistema de recolección para el transporte selectivo. Reducida aplicación de tecnología en el proceso de reciclaje. Informalidad y dispersión de los recuperadores.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.align-items-center.my-4
-      p Una vez identificados todos los efectos y causas del problema central, se integra toda la información en un solo cuadro que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de <strong>hipótesis</strong>, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa (Ortegón <em>et al.</em>, 2005).
+      p Una vez identificados todos los efectos y causas del problema central, se integra toda la información en un solo cuadro que representa el resumen de la situación problémica. Aunque este análisis define el camino a seguir en adelante, los hechos descritos aún mantienen el carácter de hipótesis, hasta tanto no se corroboran en los estudios del proyecto y se someten a evaluación del equipo de trabajo y la población objetivo de manera participativa (Ortegón <em>et al.</em>, 2005).
 
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
@@ -1100,9 +1102,9 @@
 
     .row.mt-3.mb-4.align-items-center
       .col-lg-8
-        p Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, #[strong(style="color: #0B481E") en el árbol de objetivos se procede, en primer lugar, a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva], expresando las mismas condiciones pero de la manera deseada o esperada.
+        p Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, #[span(style="color: #0B481E") en el árbol de objetivos se procede, en primer lugar, a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva], expresando las mismas condiciones pero de la manera deseada o esperada.
         p.mt-3 Esta "transmutación" de los problemas se realiza bajo el mismo esquema de árbol, conservando el sentido y lógica causal del relacionamiento de los problemas.
-        p.mb-3 Así, el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos y más adelante será el objetivo general o <strong>“fin”</strong> del proyecto; abajo, las causas directas se tornarán en <strong>“medios”</strong> para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo, las causas indirectas se convertirán en “productos y resultados” del árbol de objetivos y darán lugar a los “componentes” del proyecto y, en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
+        p.mb-3 Así, el problema central se convierte en el objetivo central o “propósito” del árbol de objetivos y más adelante será el objetivo general o “fin” del proyecto; abajo, las causas directas se tornarán en “medios” para lograr el propósito en el árbol de objetivos y que se pueden entender como “objetivos específicos” del proyecto; más abajo, las causas indirectas se convertirán en “productos y resultados” del árbol de objetivos y darán lugar a los “componentes” del proyecto y, en caso de haber establecido ya causas de tercer nivel, estaremos hablando en este paso de las actividades en que se desagregan los distintos componentes del proyecto.
 
       .col-lg-4.col-md-8.mx-auto
         figure
@@ -1123,7 +1125,7 @@
           img.d-block.d-lg-none(src="@/assets/curso/temas/tema2/img14-movil.svg", alt="Se detalla en la figura un ejemplo de árbol de objetivos.")
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     .row.mt-5.mb-4.align-items-center
-      p Para finalizar este ejercicio correctamente se hace necesaria una <strong>validación</strong>, lo que comprende una revisión de las relaciones entre las hipótesis planteadas, detectar y corregir posibles inconsistencias y de ser necesario, eliminar o adicionar nuevos elementos si se considera relevante, siempre y cuando se justifique debidamente. En toda situación, en la medida en que el ejercicio de análisis de problemas haya sido acertado, las acciones también lo serán, así como las alternativas correspondientes. Aquí se evidencia la importancia de una buena planeación y la justificación de la proporción de esta tarea dentro del proyecto general.
+      p Para finalizar este ejercicio correctamente se hace necesaria una validación, lo que comprende una revisión de las relaciones entre las hipótesis planteadas, detectar y corregir posibles inconsistencias y de ser necesario, eliminar o adicionar nuevos elementos si se considera relevante, siempre y cuando se justifique debidamente. En toda situación, en la medida en que el ejercicio de análisis de problemas haya sido acertado, las acciones también lo serán, así como las alternativas correspondientes. Aquí se evidencia la importancia de una buena planeación y la justificación de la proporción de esta tarea dentro del proyecto general.
 
 
 </template>

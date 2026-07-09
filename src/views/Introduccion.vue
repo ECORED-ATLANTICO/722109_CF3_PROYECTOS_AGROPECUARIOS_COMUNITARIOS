@@ -42,11 +42,7 @@
     .row.my-3
       .col-lg-8
         p(data-aos="fade-right")  
-          | Ya en el año 1983 la
-          strong  Agencia para la Cooperación Técnica Alemana (GTZ)
-          |  plantea una variante metodológica denominada 
-          strong ZOPP (planificación de proyectos orientada a objetivos)
-          |  con la finalidad de: 
+          | Ya en el año 1983 la Agencia para la Cooperación Técnica Alemana (GTZ) plantea una variante metodológica denominada ZOPP (planificación de proyectos orientada a objetivos) con la finalidad de: 
           ul.my-3(style="list-style-position: outside; padding-left: 3em; text-indent: -0.6em;")
             li(data-aos="fade-right", style="list-style-type: disc; color: #78A492; font-size: 1.2em;")
               span(style="color: #12263F; font-size: 0.88em; margin: 0.5em") Lograr una definición realista y clara de los objetivos en una perspectiva a largo plazo.
@@ -71,7 +67,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto Organismos de crédito tales como el Banco Interamericano de Desarrollo (BID), el <em>Asian Development Bank (ADB)</em> o el Banco Mundial; agencias cooperantes tales como la <em>Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ)</em> (Empresa alemana de cooperación internacional para el desarrollo sostenible), la <em>Australian Agency for International Development (AusAid)</em> (Agencia australiana para el desarrollo internacional) o la <em>Canadian International Development Agency (CIDA)</em> (Agencia Canadiense de Desarrollo Internacional) han impulsado el uso del <strong>Marco Lógico (MML)</strong> como parte de sus metodologías de preparación y evaluación de proyectos.
+          h4.text-regular.bloque-texto-f__texto Organismos de crédito tales como el Banco Interamericano de Desarrollo (BID), el <em>Asian Development Bank (ADB)</em> o el Banco Mundial; agencias cooperantes tales como la <em>Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ)</em> (Empresa alemana de cooperación internacional para el desarrollo sostenible), la <em>Australian Agency for International Development (AusAid)</em> (Agencia australiana para el desarrollo internacional) o la <em>Canadian International Development Agency (CIDA)</em> (Agencia Canadiense de Desarrollo Internacional) han impulsado el uso del Marco Lógico (MML) como parte de sus metodologías de preparación y evaluación de proyectos.
           .bloque-texto-f__autor.mb-3
             h5(style="text-align:right").mb-4 (Aldunate, E., 2004).
   

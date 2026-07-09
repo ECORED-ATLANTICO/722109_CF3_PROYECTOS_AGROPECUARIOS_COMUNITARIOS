@@ -80,18 +80,18 @@
                 img(src="@/assets/curso/temas/tema2/img65.svg", alt="", width="150px", height="150px")
             .col-lg-8.my-3
               p.text-bold.m-0 El primer paso
-              | El planteamiento de las acciones generadoras para <strong>las condiciones que denominamos actividades</strong> (tercer nivel) <strong>de los productos o resultados</strong> (segundo nivel) <strong>y de los medios</strong> (primer nivel, correspondientes a los objetivos específicos y más adelante a los componentes del proyecto).
+              p.mb-0 El planteamiento de las acciones generadoras para las condiciones que denominamos actividades (tercer nivel) de los productos o resultados (segundo nivel) y de los medios (primer nivel, correspondientes a los objetivos específicos y más adelante a los componentes del proyecto).
         .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #FFF6DE')
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-10.col-md-12
               p.text-bold.m-0 El segundo paso
-              | La estructuración de las alternativas. Una alternativa resulta de la <strong>conjunción de varias actividades</strong>. El número de alternativas resultantes depende de <strong>qué tan compatibles son los medios</strong> (objetivos específicos),<strong> productos y actividades entre sí.</strong>
+              p.mb-0 La estructuración de las alternativas. Una alternativa resulta de la conjunción de varias actividades. El número de alternativas resultantes depende de qué tan compatibles son los medios (objetivos específicos), productos y actividades entre sí.
             .col-lg-2.my-3
               figure
                 img(src="@/assets/curso/temas/tema2/img65.svg", alt="", width="150px", height="150px")
     .row.my-3
       .col-lg-12
-        p Puede suceder que las actividades sean perfectamente compatibles, a esto se les denomina complementarias o conjuntivas; pero también puede ser que algunas no lo sean, en este caso formarían otra alternativa y a estas actividades se les denomina excluyentes o disyuntivas. Siguiendo con el ejemplo de referencia, las alternativas se encuentran expresadas como acciones de intervención agrupadas de acuerdo a la compatibilidad entre ellas y por cada uno de los objetivos. Las letras <strong>C</strong> y <strong>E</strong> a la derecha, significan complementarias y excluyentes:
+        p Puede suceder que las actividades sean perfectamente compatibles, a esto se les denomina complementarias o conjuntivas; pero también puede ser que algunas no lo sean, en este caso formarían otra alternativa y a estas actividades se les denomina excluyentes o disyuntivas. Siguiendo con el ejemplo de referencia, las alternativas se encuentran expresadas como acciones de intervención agrupadas de acuerdo a la compatibilidad entre ellas y por cada uno de los objetivos. Las letras C y E a la derecha, significan complementarias y excluyentes:
     
     .row.my-3
       .col-lg-10.m-auto
@@ -186,7 +186,7 @@
                 img(src='@/assets/curso/temas/tema3/img73.svg', width='100px',height='100px', alt='Imagen decorativa')
             p.position-relative(style="top:-30px") No siempre la selección de alternativas resulta de la manera que se ha descrito, algunas veces es más difícil identificar entre las diferentes opciones, por lo que se recomienda en este caso, la construcción de una matriz que ayude en esta evaluación; aunque no hay una forma estándar para esta y podemos encontrar varios modelos que se pueden adaptar a las necesidades del análisis buscando siempre la alternativa óptima, una selección objetiva y desde criterios múltiples.
 
-    p.text-bold Un ejemplo de matriz de evaluación o selección, producto de la guía para la formulación de proyectos de la FAO, en conjunto con el Ministerio de Desarrollo Agropecuario de Panamá en 2017, es el siguiente:
+    p Un ejemplo de matriz de evaluación o selección, producto de la guía para la formulación de proyectos de la FAO, en conjunto con el Ministerio de Desarrollo Agropecuario de Panamá en 2017, es el siguiente:
     .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 8.
           span Matriz de selección de alternativa óptima
@@ -442,7 +442,7 @@
     .row.align-items-center.p-3.my-5
       .col-lg-12
         .cajon.color-secundario.p-4.p-4(data-aos="slide-down",style="background: #EEFBF5")
-          p.mt-0 Los indicadores deben poseer ciertas características para que logren <strong>eficacia</strong>. Para empezar, según la guía para la formulación de proyectos de inversión del sector agropecuario (FAO, 2017) deben ser independientes en cada nivel para evitar la duplicidad de datos. Solo se formulan para el cumplimiento de objetivos y resultados; a las actividades se les asigna la ejecución de un presupuesto a manera de indicador. Según Ortegón <em>et al.</em> (2005), los indicadores “inteligentes” poseen cinco características imprescindibles: son específicos, medibles, realizables, pertinentes y deben estar enmarcados en el tiempo. Existen diversos tipos de indicadores, pero una clasificación útil es la hecha en la guía de la <strong>FAO</strong> varias veces citada.
+          p.mt-0 Los indicadores deben poseer ciertas características para que logren eficacia. Para empezar, según la guía para la formulación de proyectos de inversión del sector agropecuario (FAO, 2017) deben ser independientes en cada nivel para evitar la duplicidad de datos. Solo se formulan para el cumplimiento de objetivos y resultados; a las actividades se les asigna la ejecución de un presupuesto a manera de indicador. Según Ortegón <em>et al.</em> (2005), los indicadores “inteligentes” poseen cinco características imprescindibles: son específicos, medibles, realizables, pertinentes y deben estar enmarcados en el tiempo. Existen diversos tipos de indicadores, pero una clasificación útil es la hecha en la guía de la FAO varias veces citada.
     
     .row.align-items-center.p-3.my-5
       .col-lg-10.m-auto
@@ -501,7 +501,7 @@
                   p El indicador es suficientemente representativo para el conjunto de resultados esperados.
     p(data-aos="fade-right") Un criterio adicional a contemplar es que los indicadores sean independientes, es decir, que no exista una relación de causa-efecto entre el indicador y el objetivo que se evalúa. Los indicadores seleccionados se clasifican en la tercera columna del cuadro, asignando un valor 1 a cada uno de los criterios que se cumplan. 
 
-    p Así, un indicador que reúna todos los requisitos mencionados anteriormente alcanzaría <strong>cinco puntos</strong> en esta escala de clasificación. Finalmente, en la última columna se seleccionan los indicadores que han obtenido mayor puntuación, que serán los que se incluirán en la matriz del marco lógico.
+    p Así, un indicador que reúna todos los requisitos mencionados anteriormente alcanzaría cinco puntos en esta escala de clasificación. Finalmente, en la última columna se seleccionan los indicadores que han obtenido mayor puntuación, que serán los que se incluirán en la matriz del marco lógico.
 
     h4.text-center Otra propuesta de Ortegón <em>et al.</em> (2005) para los criterios de selección de indicadores “correctamente especificados” se realiza a partir de los siguientes criterios:
 
@@ -567,7 +567,7 @@
             td
 
     p.pt-4  Para la determinación de los medios de verificación, la misma guía nos indica que es necesario identificar y definir las fuentes de información, las herramientas y los métodos usados para comprobar el estado de progreso del proyecto, siendo esta columna el fundamento del sistema de monitoreo y evaluación del proyecto.
-    p Al igual que para los indicadores, en la <strong>MML</strong> no se ubican los medios de verificación para las actividades, solo para los objetivos y resultados: aquí se debe especificar la ubicación de las fuentes de información de ejecución del presupuesto asignado, para efectuar el respectivo monitoreo.
+    p Al igual que para los indicadores, en la MML no se ubican los medios de verificación para las actividades, solo para los objetivos y resultados: aquí se debe especificar la ubicación de las fuentes de información de ejecución del presupuesto asignado, para efectuar el respectivo monitoreo.
     p Por otro lado, cada indicador debe tener al menos una fuente de verificación y estas deben ser pertinentes, fiables y accesibles. Se debe realizar, además, una planeación de la recolección de datos.
 
     Separador
@@ -699,7 +699,7 @@
           .cajon.color-acento-botones.p-4(data-aos="slide-down",style="background: #FFB686")
             h5.mt-0 “Los precios agrícolas mantienen sus niveles (dentro de una banda de + 10 %) en términos reales” (p.89). 
   
-    p Asimismo, para completar la columna de supuestos de la <strong>MML</strong>, se recomienda seguir los siguientes pasos: identificar todos los supuestos posibles para cada riesgo identificado en el análisis respectivo, realizando luego una selección de los que se consideren verdaderos riesgos a enfrentar y, finalmente, de acuerdo con los resultados del análisis de riesgos, establecer las acciones de prevención, mitigación o control para cada factor seleccionado. 
+    p Asimismo, para completar la columna de supuestos de la MML, se recomienda seguir los siguientes pasos: identificar todos los supuestos posibles para cada riesgo identificado en el análisis respectivo, realizando luego una selección de los que se consideren verdaderos riesgos a enfrentar y, finalmente, de acuerdo con los resultados del análisis de riesgos, establecer las acciones de prevención, mitigación o control para cada factor seleccionado. 
 
     .fondo-degradado-4
       .row.align-items-center
@@ -711,7 +711,7 @@
                 h3.subtitle.position-relative Comprobación lógica de la MML
                   img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
           
-          p.mt-0 Finalmente, para efectos de la comprobación de la lógica de la <strong>MML</strong>, se debe revisar la coherencia de los vínculos causales de abajo hacia arriba de la matriz (actividades - componentes - objetivos - fin), esto es, la lógica vertical, con al menos cinco criterios que rezan como sigue:
+          p.mt-0 Finalmente, para efectos de la comprobación de la lógica de la MML, se debe revisar la coherencia de los vínculos causales de abajo hacia arriba de la matriz (actividades - componentes - objetivos - fin), esto es, la lógica vertical, con al menos cinco criterios que rezan como sigue:
           ol.lista-ol
             li 
               span.text-bold 1. 
@@ -767,7 +767,7 @@
           figure
             img.my-3(src='@/assets/curso/temas/tema1/img7.svg', alt='Imagen decorativa' width="64px" height="64px")
         .col-lg-7
-          h4 Tabla 14. Matriz de marco lógico completa con la explicación de cada apartado
+          h4 Matriz de marco lógico completa con la explicación de cada apartado
           .mb-0(style="font-size: 13px") Para la comprensión global de la MML, se puede revisar la matriz completa con la correspondiente explicación de cada apartado.
         .col-lg-3.text-center.my-3
           a.boton(:href="obtenerLink('/downloads/Matriz_de_marco_logico_completa_con_la_explicacion_de_cada_apartado.pdf')" target="_blank" type="application/pdf")
@@ -783,7 +783,7 @@
         figure
           img.my-3(src="@/assets/curso/temas/tema3/img24.png", alt="")
       .col-lg-8
-        p Una vez comprobados y validados los resultados de la aplicación de la metodología del <strong>EML</strong> en el documento final, el siguiente paso para poder dar inicio a la ejecución, consiste en tomar todas las actividades y realizar una planeación exhaustiva asignando recursos, materiales, responsables, tiempos de ejecución y demás información necesaria que de manera anticipada sea útil para la correcta ejecución del proyecto; además, el presupuesto deberá estar detallado en otro documento que contendrá toda la información del manejo y seguimiento a la ejecución del mismo.
+        p Una vez comprobados y validados los resultados de la aplicación de la metodología del EML en el documento final, el siguiente paso para poder dar inicio a la ejecución, consiste en tomar todas las actividades y realizar una planeación exhaustiva asignando recursos, materiales, responsables, tiempos de ejecución y demás información necesaria que de manera anticipada sea útil para la correcta ejecución del proyecto; además, el presupuesto deberá estar detallado en otro documento que contendrá toda la información del manejo y seguimiento a la ejecución del mismo.
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #EEFBF5")
           p.mt-0 Estos procedimientos se pueden abordar desde documentos y bibliografía específica de los temas de ejecución, administración y dirección de proyectos y por otro lado del control de costos y finanzas aplicado a proyectos.  
 </template>
