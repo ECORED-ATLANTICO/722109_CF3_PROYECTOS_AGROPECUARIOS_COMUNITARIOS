@@ -342,7 +342,7 @@
             p En la definición de los niveles de objetivos en la MML se debe tener especial cuidado al pasar de la especificación de los componentes al propósito del proyecto. La definición del propósito del proyecto se debe hacer en términos hipotéticos, es algo que debe ocurrir, es un resultado esperado. De acuerdo al enfoque de Marco lógico el propósito es la hipótesis central del proyecto. De este modo, el propósito debe entenderse como un resultado no controlable por el ejecutor. Es, en definitiva, lo que debería ocurrir como resultado directo de utilizar los Componentes (p.81).
             i.fas.fa-quote-right
     .fondo-degradado-2.p-4.my-4
-      h5.my-5.text-center Para estructurar la MML, según la guía de formulación de proyectos de inversión del sector agropecuario de la FAO en 2017, se pueden seguir los siguientes pasos:
+      p Para estructurar la MML, según la guía de formulación de proyectos de inversión del sector agropecuario de la FAO en 2017, se pueden seguir los siguientes pasos:
       .row.align-items-center.my-3 
         .col-lg-6
           p Primer momento: “la relación causa-efecto entre las diferentes partes de la primera columna (ver esquema de la MML) corresponde a los cuatro niveles (o filas) de la estructura, de abajo hacia arriba: 1) actividades (o insumos), 2) componentes (o resultados), 3) propósito y 4) meta o fin, estando estos últimos definidos por la jerarquía de objetivos del proyecto.” (p. 16).
@@ -459,7 +459,7 @@
             p.px-4 b. Indicadores indirectos: también llamados indicadores #[em proxy], son formas aproximadas de medir determinados objetivos. En ellos, la variable utilizada no tiene una relación directa con el objetivo que se busca medir (FAO, 2017).
             .row.align-items-center.p-1
       .col-lg-10.m-auto
-        h5.text-center Así mismo esta valiosa guía nos orienta acerca del procedimiento de selección de indicadores: 
+        p Así mismo esta valiosa guía nos orienta acerca del procedimiento de selección de indicadores: 
       p Un aspecto a tener en cuenta sobre los indicadores es su número reducido. Esto hace necesario definir criterios para decidir si un indicador es adecuado o no y jerarquizar un conjunto de indicadores. Para ello se utiliza el esquema desarrollado por la Oficina de Evaluación del Programa de las Naciones Unidas para el Desarrollo (PNUD, por sus siglas en español) que consiste en un cuadro en el cual, primero, se transcribe la primera columna de la matriz de marco lógico a la primera columna del cuadro (el resumen narrativo de objetivos); después, se transcriben de la misma matriz los indicadores por objetivo y, por último, se definen los criterios aplicables a los indicadores, como:
     .row.p-3.my-5
       .col-lg-12.m-auto
@@ -503,7 +503,7 @@
 
     p Así, un indicador que reúna todos los requisitos mencionados anteriormente alcanzaría cinco puntos en esta escala de clasificación. Finalmente, en la última columna se seleccionan los indicadores que han obtenido mayor puntuación, que serán los que se incluirán en la matriz del marco lógico.
 
-    h4.text-center Otra propuesta de Ortegón <em>et al.</em> (2005) para los criterios de selección de indicadores “correctamente especificados” se realiza a partir de los siguientes criterios:
+    p Otra propuesta de Ortegón <em>et al.</em> (2005) para los criterios de selección de indicadores “correctamente especificados” se realiza a partir de los siguientes criterios:
 
     .row.mt-5.mb-4.align-items-center.my-4
       .col-lg-4.col-md-8.mx-auto

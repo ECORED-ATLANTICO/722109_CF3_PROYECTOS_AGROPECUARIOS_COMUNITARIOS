@@ -17,679 +17,680 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Gestión, seguimiento y mejora continua del modelo organizacional',
+      tema:
+        'Evaluación de conocimientos sobre la formulación de proyectos agropecuarios mediante la metodología de marco lógico.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar los conocimientos adquiridos sobre la implementación, comunicación, seguimiento, evaluación y mejora de modelos organizacionales en contextos rurales y comunitarios.',
+        '<b>Objetivo:</b> evaluar la capacidad del aprendiz para reconocer y aplicar los elementos técnicos y metodológicos del enfoque de marco lógico en la formulación de proyectos agropecuarios, considerando el análisis de problemáticas, la planificación de alternativas de solución y la estructuración de proyectos orientados al desarrollo rural.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
-          texto: '¿Qué se entiende por implementación organizacional?',
+          texto:
+            '¿Cuál es el propósito principal de la metodología de marco lógico?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La elaboración de diagnósticos comunitarios.',
+              texto: 'Elaborar únicamente presupuestos de proyectos.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'La ejecución de actividades y estrategias previamente planificadas.',
+                'Gestionar proyectos mediante un análisis estructurado de problemas y soluciones.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'La creación de normas jurídicas.',
+              texto: 'Realizar estudios financieros exclusivamente.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La elaboración de informes financieros.',
+              texto: 'Determinar costos de producción agrícola.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 2,
           texto:
-            '¿Cuál es uno de los principales objetivos de la implementación de un modelo organizacional?',
+            'El enfoque de marco lógico se caracteriza por ser una metodología:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Incrementar la burocracia institucional.',
+              texto: 'Empírica y no estructurada.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Garantizar la ejecución de las acciones planificadas para alcanzar los objetivos organizacionales.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Eliminar la participación comunitaria.',
+              texto: 'Exclusivamente financiera.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Sistémica, participativa y organizada.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Sustituir la planeación estratégica.',
+              texto: 'Basada únicamente en información secundaria.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 3,
           texto:
-            '¿Cuál de los siguientes elementos es un recurso necesario para la implementación?',
+            '¿Cuál de las siguientes fases hace parte de la metodología de marco lógico?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Recursos humanos.',
-              esCorrecta: true,
+              texto: 'Comercialización.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Rumores organizacionales.',
+              texto: 'Ejecución financiera.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Opiniones informales.',
-              esCorrecta: false,
+              texto: 'Identificación del problema.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Costumbres familiares.',
+              texto: 'Auditoría contable.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 4,
-          texto: 'La asignación de responsabilidades permite:',
+          texto:
+            'El análisis del contexto en torno a la problemática de la ruralidad permite:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Evitar el trabajo en equipo.',
+              texto: 'Determinar únicamente los costos del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Eliminar la necesidad de supervisión.',
-              esCorrecta: false,
+              texto:
+                'Comprender las condiciones sociales, económicas y ambientales del territorio.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Reducir la comunicación organizacional.',
+              texto: 'Elaborar los contratos del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Distribuir funciones y compromisos entre los participantes.',
-              esCorrecta: true,
+              texto: 'Definir exclusivamente los indicadores financieros.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 5,
-          texto:
-            '¿Cuál de los siguientes factores puede limitar la implementación de un modelo organizacional?',
+          texto: 'La información secundaria corresponde a:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Participación activa de los miembros.',
+              texto:
+                'Datos obtenidos mediante encuestas y entrevistas realizadas por el proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Disponibilidad de recursos.',
+              texto: 'Información recolectada directamente en campo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Falta de compromiso de los participantes.',
+              texto:
+                'Información proveniente de documentos, estudios e investigaciones previas.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Buena comunicación.',
+              texto: 'Opiniones informales de los productores.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 6,
-          texto:
-            'Una estrategia de comunicación organizacional tiene como finalidad:',
+          texto: 'El análisis de actores involucrados tiene como finalidad:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Restringir el acceso a la información.',
+              texto: 'Determinar el presupuesto total del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Facilitar el intercambio de información entre los actores involucrados.',
-              esCorrecta: true,
+              texto: 'Calcular la rentabilidad del proyecto.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reducir las reuniones de trabajo.',
+              texto: 'Elaborar los cronogramas de obra.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Sustituir los procesos administrativos.',
-              esCorrecta: false,
+              texto:
+                'Identificar intereses, influencia y participación de los diferentes actores.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 7,
-          texto:
-            '¿Cuál de las siguientes es una herramienta de comunicación efectiva?',
+          texto: 'El diagnóstico de la situación problémica busca:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Boletines informativos.',
+              texto:
+                'Identificar y comprender las causas y efectos de una problemática.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Cartografía social.',
+              texto: 'Elaborar únicamente el presupuesto del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Árbol de problemas.',
+              texto: 'Contratar personal especializado.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Matriz DOFA.',
+              texto: 'Realizar auditorías financieras.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 8,
-          texto: 'La socialización de planes y resultados busca:',
+          texto:
+            '¿Cuál de las siguientes herramientas facilita la identificación de problemas a partir de información primaria?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Ocultar información sensible.',
+              texto: 'Balance general.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Compartir información con los actores interesados y promover su participación.',
-              esCorrecta: true,
+              texto: 'Estado de resultados.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Limitar la toma de decisiones.',
+              texto: 'Inventario de maquinaria.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Evitar la retroalimentación.',
-              esCorrecta: false,
+              texto: 'Encuestas y entrevistas.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 9,
-          texto: '¿Qué se entiende por grupo de interés?',
+          texto: 'La matriz de Vester se utiliza para:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Personas que realizan actividades recreativas.',
+              texto: 'Establecer indicadores financieros.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Equipos de trabajo temporales.',
-              esCorrecta: false,
+              texto:
+                'Priorizar problemas según sus relaciones de influencia y dependencia.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Organizaciones privadas exclusivamente.',
+              texto: 'Elaborar presupuestos de inversión.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Actores que pueden influir o verse afectados por las decisiones de la organización.',
-              esCorrecta: true,
+              texto: 'Diseñar estrategias de comercialización.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 10,
           texto:
-            'La gestión de la participación durante la implementación permite:',
+            'En la matriz de Vester, un problema altamente influyente sobre otros se considera:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Fortalecer el compromiso y la apropiación de los procesos organizacionales.',
-              esCorrecta: true,
+              texto: 'Pasivo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Incrementar los conflictos internos.',
+              texto: 'Independiente.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reducir la comunicación.',
-              esCorrecta: false,
+              texto: 'Crítico o activo.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Eliminar responsabilidades.',
+              texto: 'Secundario.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 11,
-          texto: '¿Qué es el seguimiento organizacional?',
+          texto: 'El árbol de problemas permite representar:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Un proceso de control y observación del avance de las actividades.',
-              esCorrecta: true,
+              texto: 'La estructura organizacional de una empresa.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Una estrategia financiera.',
+              texto: 'Los recursos financieros disponibles.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Un mecanismo jurídico.',
-              esCorrecta: false,
+              texto:
+                'Las relaciones causa-efecto de una situación problemática.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Un sistema de contratación.',
+              texto: 'Los costos operativos del proyecto.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 12,
-          texto: 'La coordinación de actividades tiene como propósito:',
+          texto: 'En el árbol de problemas, las raíces representan:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Duplicar funciones dentro de la organización.',
+              texto: 'Los objetivos del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Organizar y armonizar las acciones necesarias para alcanzar los objetivos.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Eliminar la planificación.',
+              texto: 'Las actividades del proyecto.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Las causas del problema central.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Reducir la participación.',
+              texto: 'Los indicadores de gestión.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la agroecología y la evaluación ambiental de los sistemas agrícolas.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la agroecología y la evaluación ambiental de los sistemas agrícolas.',
         },
         {
           id: 13,
-          texto: '¿Qué permite verificar un cronograma?',
+          texto: 'El árbol de objetivos se construye a partir de:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La misión institucional.',
+              texto: 'La eliminación de actividades.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El cumplimiento de actividades y tiempos establecidos.',
+              texto:
+                'La transformación de problemas en situaciones positivas deseadas.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Los recursos naturales disponibles.',
+              texto: 'Los estados financieros.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La estructura legal de una organización.',
+              texto: 'El análisis de mercado.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 14,
-          texto:
-            '¿Cuál de las siguientes herramientas es utilizada para el seguimiento organizacional?',
+          texto: 'El análisis de alternativas permite:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Lista de verificación.',
+              texto:
+                'Escoger la mejor opción para solucionar la problemática identificada.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Constitución Política.',
+              texto: 'Determinar únicamente los costos del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Organigrama familiar.',
+              texto: 'Elaborar informes financieros.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Reglamento interno escolar.',
+              texto: 'Realizar actividades de control interno.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 15,
-          texto: 'La interpretación de resultados permite:',
+          texto: 'La matriz de marco lógico es una herramienta que:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Sustituir el seguimiento.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
               texto:
-                'Analizar los avances y dificultades de la implementación.',
+                'Organiza objetivos, indicadores, medios de verificación y supuestos.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'Calcula exclusivamente costos de producción.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Eliminar la evaluación.',
+              texto: 'Determina el número de trabajadores requeridos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Reducir la participación de los actores.',
+              texto: 'Define los precios de venta.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 16,
-          texto: '¿Cuál es el propósito principal de un informe de resultados?',
+          texto: 'Los indicadores en la matriz de marco lógico sirven para:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Registrar y comunicar los avances, logros y dificultades del proceso.',
+              texto: 'Medir el avance y cumplimiento de los objetivos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Reemplazar las reuniones de trabajo.',
+              texto: 'Calcular únicamente impuestos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Generar nuevas normas.',
+              texto: 'Elaborar contratos laborales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Eliminar la documentación institucional.',
+              texto: 'Determinar la ubicación del proyecto.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 17,
-          texto:
-            '¿Cuál de los siguientes elementos hace parte de la estructura básica de un informe?',
+          texto: 'Los medios de verificación corresponden a:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Introducción.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Publicidad institucional.',
+              texto: 'Las actividades operativas del proyecto.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Las fuentes donde se obtiene la información para comprobar los indicadores.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Inventario comercial.',
+              texto: 'Los recursos financieros disponibles.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Catálogo de productos.',
+              texto: 'Las estrategias de comercialización.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 18,
-          texto: 'Una oportunidad de mejora corresponde a:',
+          texto: 'En el marco lógico, los supuestos son:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un problema sin solución.',
+              texto: 'Recursos económicos asignados al proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Una obligación jurídica.',
+              texto: 'Actividades programadas en el cronograma.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Un recurso económico.',
-              esCorrecta: false,
+              texto:
+                'Condiciones externas necesarias para el logro de los objetivos.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto:
-                'Una situación que puede fortalecerse para optimizar el desempeño organizacional.',
-              esCorrecta: true,
+              texto: 'Indicadores de rentabilidad.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 19,
-          texto:
-            '¿Cuál de las siguientes herramientas es utilizada para el ajuste organizacional?',
+          texto: 'El análisis de riesgos permite:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Matriz DOFA.',
+              texto:
+                'Identificar situaciones que pueden afectar el logro de los objetivos del proyecto.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Registro civil.',
+              texto: 'Incrementar automáticamente el presupuesto.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Escritura pública.',
+              texto: 'Determinar el precio de los productos agropecuarios.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Factura comercial.',
+              texto: 'Elaborar únicamente informes administrativos.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
         {
           id: 20,
-          texto: '¿Cuál es la finalidad de las acciones de mejora?',
+          texto:
+            'El plan operativo y el presupuesto general del proyecto permiten:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Incrementar los procesos administrativos innecesarios.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
               texto:
-                'Corregir dificultades y fortalecer el desempeño organizacional.',
+                'Organizar actividades, recursos, tiempos y costos requeridos para la ejecución.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'Definir únicamente las fuentes de financiación.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Eliminar la participación comunitaria.',
+              texto: 'Establecer exclusivamente indicadores de gestión.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Sustituir la planeación estratégica.',
+              texto: 'Realizar auditorías externas.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la implementación, seguimiento y mejora del modelo organizacional.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
         },
       ],
       mensaje_final_aprobado:
-        'Ha superado la actividad y demuestra sólidos conocimientos sobre la implementación, seguimiento y mejora del modelo organizacional.',
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

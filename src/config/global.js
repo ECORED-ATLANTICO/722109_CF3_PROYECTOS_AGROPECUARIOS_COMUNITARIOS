@@ -342,19 +342,13 @@ export default {
     },
   ],
   referencias: [
-    // {
-    //   referencia:
-    //     'Aldunate, E., Córdoba, J. (2015). <em>Formulación de programas con la Metodología de Marco Lógico</em>. Naciones Unidas, Santiago de Chile.',
-    //   link:
-    //     'https://repositorio.cepal.org/server/api/core/bitstreams/2d86ecfb-f922-49d3-a919-e4fd4d463bd7/content',
-    // },
     {
       referencia:
         'Casimiro, L. (2016). <em>Bases metodológicas para la resiliencia socioecológica de fincas familiares en Cuba</em>. [Tesis de doctorado en agroecología]. Universidad de Antioquia. Medellín, Colombia.',
     },
     {
       referencia:
-        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad: opciones de adaptación y mitigación. Aspectos distributivos del cambio climático</em>. CEPAL.',
+        'Castiblanco, C. (s. f.). <em>Indicadores de sustentabilidad opciones de adaptación y mitigación Aspectos Distributivos del cambio climático</em>. Cepal.',
       link:
         'https://www.cepal.org/sites/default/files/courses/files/presentacion_carmenza_castiblanco.pdf',
     },
@@ -376,7 +370,7 @@ export default {
     },
     {
       referencia:
-        'Instituto de Formación Permanente INSFOP. (2008). <em>Diagnóstico rural participativo y planificación comunitaria</em>. FAO-INSFOP-AECID.',
+        'Instituto de Formación Permanente INSFOP. (2008). <em>Diagnóstico rural participativo (DRP) y planificación comunitaria</em>. FAO-INSFOP-AECID.',
       link: 'http://www.fao.org/3/at795s/at795s.pdf',
     },
     {
@@ -404,7 +398,7 @@ export default {
     },
     {
       referencia:
-        'Sánchez, F. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile',
+        'Sánchez, F. (2003). <em>Planificación estratégica y gestión pública por objetivos</em>. Naciones Unidas, Santiago de Chile.',
       link:
         'https://www.cepal.org/es/publicaciones/7284-planificacion-estrategica-gestion-publica-objetivos',
     },
@@ -419,7 +413,7 @@ export default {
     },
     {
       referencia:
-        'Sarandón, S. (2009). Biodiversidad, agrobiodiversidad y agricultura sustentable: análisis del Convenio sobre Diversidad Biológica. En M. A. Altieri (Ed). <em>Vertientes del pensamiento agroecológico: fundamentos y aplicaciones</em>. Sociedad Científica Latinoamericana de Agroecología. SOCLA',
+        'Sarandón, S. (2009). Biodiversidad, agrobiodiversidad y agricultura sustentable: análisis del Convenio sobre Diversidad Biológica. En M. A. Altieri (Ed). <em>Vertientes del pensamiento agroecológico: fundamentos y aplicaciones</em>. Sociedad Científica Latinoamericana de Agroecología. SOCLA.',
       link:
         'https://www.agroecologia.net/wp-content/uploads/2020/12/biodiversidad-agroecologia-santiago-sarandon.pdf',
     },
